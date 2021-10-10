@@ -1,0 +1,188 @@
+Filled container:
+Container contains 186 elements.
+0: It is a tetrahedron: a = 92. Surface area = 159.349
+1: It is a parallelepiped: a = 30, b = 4, c = 40. Surface area = 2960
+2: It is a parallelepiped: a = 13, b = 12, c = 14. Surface area = 1012
+3: It is a tetrahedron: a = 87. Surface area = 150.688
+4: It is a tetrahedron: a = 13. Surface area = 22.5167
+5: It is a sphere: r = 45. Surface area = 25446.9
+6: It is a parallelepiped: a = 23, b = 3, c = 34. Surface area = 1906
+7: It is a sphere: r = 54. Surface area = 36643.5
+8: It is a parallelepiped: a = 57, b = 30, c = 100. Surface area = 20820
+9: It is a tetrahedron: a = 26. Surface area = 45.0333
+10: It is a tetrahedron: a = 80. Surface area = 138.564
+11: It is a parallelepiped: a = 82, b = 71, c = 48. Surface area = 26332
+12: It is a sphere: r = 26. Surface area = 8494.87
+13: It is a sphere: r = 26. Surface area = 8494.87
+14: It is a parallelepiped: a = 50, b = 91, c = 78. Surface area = 31096
+15: It is a tetrahedron: a = 42. Surface area = 72.7461
+16: It is a parallelepiped: a = 25, b = 86, c = 4. Surface area = 5188
+17: It is a tetrahedron: a = 41. Surface area = 71.0141
+18: It is a sphere: r = 1. Surface area = 12.5664
+19: It is a sphere: r = 18. Surface area = 4071.5
+20: It is a sphere: r = 75. Surface area = 70685.8
+21: It is a parallelepiped: a = 81, b = 52, c = 58. Surface area = 23852
+22: It is a tetrahedron: a = 14. Surface area = 24.2487
+23: It is a sphere: r = 82. Surface area = 84496.3
+24: It is a tetrahedron: a = 1. Surface area = 1.73205
+25: It is a sphere: r = 51. Surface area = 32685.1
+26: It is a parallelepiped: a = 48, b = 100, c = 69. Surface area = 30024
+27: It is a tetrahedron: a = 35. Surface area = 60.6218
+28: It is a tetrahedron: a = 18. Surface area = 31.1769
+29: It is a tetrahedron: a = 48. Surface area = 83.1384
+30: It is a parallelepiped: a = 57, b = 40, c = 9. Surface area = 6306
+31: It is a tetrahedron: a = 85. Surface area = 147.224
+32: It is a parallelepiped: a = 69, b = 59, c = 95. Surface area = 32462
+33: It is a tetrahedron: a = 11. Surface area = 19.0526
+34: It is a tetrahedron: a = 60. Surface area = 103.923
+35: It is a parallelepiped: a = 43, b = 93, c = 88. Surface area = 31934
+36: It is a tetrahedron: a = 51. Surface area = 88.3346
+37: It is a sphere: r = 70. Surface area = 61575.2
+38: It is a tetrahedron: a = 89. Surface area = 154.153
+39: It is a sphere: r = 26. Surface area = 8494.87
+40: It is a sphere: r = 52. Surface area = 33979.5
+41: It is a tetrahedron: a = 33. Surface area = 57.1577
+42: It is a parallelepiped: a = 67, b = 41, c = 91. Surface area = 25150
+43: It is a parallelepiped: a = 49, b = 76, c = 53. Surface area = 20698
+44: It is a tetrahedron: a = 34. Surface area = 58.8897
+45: It is a parallelepiped: a = 17, b = 96, c = 52. Surface area = 15016
+46: It is a tetrahedron: a = 23. Surface area = 39.8372
+47: It is a parallelepiped: a = 20, b = 62, c = 37. Surface area = 8548
+48: It is a sphere: r = 51. Surface area = 32685.1
+49: It is a parallelepiped: a = 71, b = 39, c = 100. Surface area = 27538
+50: It is a sphere: r = 13. Surface area = 2123.72
+51: It is a sphere: r = 90. Surface area = 101788
+52: It is a tetrahedron: a = 2. Surface area = 3.4641
+53: It is a tetrahedron: a = 37. Surface area = 64.0859
+54: It is a parallelepiped: a = 82, b = 37, c = 20. Surface area = 10828
+55: It is a sphere: r = 53. Surface area = 35298.9
+56: It is a tetrahedron: a = 86. Surface area = 148.956
+57: It is a parallelepiped: a = 1, b = 37, c = 48. Surface area = 3722
+58: It is a tetrahedron: a = 82. Surface area = 142.028
+59: It is a sphere: r = 89. Surface area = 99538.2
+60: It is a sphere: r = 40. Surface area = 20106.2
+61: It is a parallelepiped: a = 28, b = 10, c = 30. Surface area = 2840
+62: It is a tetrahedron: a = 57. Surface area = 98.7269
+63: It is a parallelepiped: a = 78, b = 46, c = 39. Surface area = 16848
+64: It is a tetrahedron: a = 53. Surface area = 91.7987
+65: It is a parallelepiped: a = 23, b = 87, c = 64. Surface area = 18082
+66: It is a parallelepiped: a = 73, b = 68, c = 47. Surface area = 23182
+67: It is a parallelepiped: a = 89, b = 99, c = 46. Surface area = 34918
+68: It is a sphere: r = 25. Surface area = 7853.98
+69: It is a parallelepiped: a = 7, b = 13, c = 97. Surface area = 4062
+70: It is a tetrahedron: a = 52. Surface area = 90.0666
+71: It is a sphere: r = 8. Surface area = 804.248
+72: It is a tetrahedron: a = 3. Surface area = 5.19615
+73: It is a tetrahedron: a = 74. Surface area = 128.172
+74: It is a sphere: r = 62. Surface area = 48305.1
+75: It is a tetrahedron: a = 63. Surface area = 109.119
+76: It is a sphere: r = 43. Surface area = 23235.2
+77: It is a parallelepiped: a = 4, b = 6, c = 31. Surface area = 668
+78: It is a sphere: r = 25. Surface area = 7853.98
+79: It is a sphere: r = 37. Surface area = 17203.4
+80: It is a parallelepiped: a = 27, b = 82, c = 53. Surface area = 15982
+81: It is a parallelepiped: a = 61, b = 11, c = 16. Surface area = 3646
+82: It is a sphere: r = 60. Surface area = 45238.9
+83: It is a sphere: r = 33. Surface area = 13684.8
+84: It is a sphere: r = 51. Surface area = 32685.1
+85: It is a parallelepiped: a = 83, b = 76, c = 71. Surface area = 35194
+86: It is a tetrahedron: a = 40. Surface area = 69.282
+87: It is a sphere: r = 13. Surface area = 2123.72
+88: It is a sphere: r = 74. Surface area = 68813.4
+89: It is a parallelepiped: a = 39, b = 4, c = 44. Surface area = 4096
+90: It is a tetrahedron: a = 32. Surface area = 55.4256
+91: It is a parallelepiped: a = 80, b = 10, c = 14. Surface area = 4120
+92: It is a sphere: r = 64. Surface area = 51471.9
+93: It is a parallelepiped: a = 94, b = 79, c = 83. Surface area = 43570
+94: It is a sphere: r = 97. Surface area = 118237
+95: It is a parallelepiped: a = 72, b = 99, c = 6. Surface area = 16308
+96: It is a parallelepiped: a = 75, b = 29, c = 53. Surface area = 15374
+97: It is a parallelepiped: a = 65, b = 65, c = 99. Surface area = 34190
+98: It is a tetrahedron: a = 33. Surface area = 57.1577
+99: It is a tetrahedron: a = 93. Surface area = 161.081
+100: It is a sphere: r = 3. Surface area = 113.097
+101: It is a sphere: r = 61. Surface area = 46759.5
+102: It is a tetrahedron: a = 37. Surface area = 64.0859
+103: It is a tetrahedron: a = 65. Surface area = 112.583
+104: It is a tetrahedron: a = 100. Surface area = 173.205
+105: It is a sphere: r = 79. Surface area = 78426.7
+106: It is a sphere: r = 63. Surface area = 49875.9
+107: It is a tetrahedron: a = 100. Surface area = 173.205
+108: It is a parallelepiped: a = 78, b = 58, c = 43. Surface area = 20744
+109: It is a tetrahedron: a = 86. Surface area = 148.956
+110: It is a parallelepiped: a = 17, b = 50, c = 59. Surface area = 9606
+111: It is a tetrahedron: a = 40. Surface area = 69.282
+112: It is a parallelepiped: a = 55, b = 32, c = 72. Surface area = 16048
+113: It is a sphere: r = 8. Surface area = 804.248
+114: It is a sphere: r = 91. Surface area = 104062
+115: It is a sphere: r = 57. Surface area = 40828.1
+116: It is a parallelepiped: a = 44, b = 56, c = 65. Surface area = 17928
+117: It is a tetrahedron: a = 89. Surface area = 154.153
+118: It is a sphere: r = 54. Surface area = 36643.5
+119: It is a tetrahedron: a = 64. Surface area = 110.851
+120: It is a parallelepiped: a = 98, b = 6, c = 83. Surface area = 18440
+121: It is a sphere: r = 52. Surface area = 33979.5
+122: It is a tetrahedron: a = 84. Surface area = 145.492
+123: It is a parallelepiped: a = 18, b = 23, c = 6. Surface area = 1320
+124: It is a parallelepiped: a = 7, b = 77, c = 33. Surface area = 6622
+125: It is a sphere: r = 60. Surface area = 45238.9
+126: It is a sphere: r = 9. Surface area = 1017.88
+127: It is a parallelepiped: a = 79, b = 5, c = 24. Surface area = 4822
+128: It is a sphere: r = 31. Surface area = 12076.3
+129: It is a parallelepiped: a = 74, b = 84, c = 4. Surface area = 13696
+130: It is a sphere: r = 14. Surface area = 2463.01
+131: It is a sphere: r = 95. Surface area = 113411
+132: It is a parallelepiped: a = 35, b = 46, c = 51. Surface area = 11482
+133: It is a parallelepiped: a = 8, b = 20, c = 93. Surface area = 5528
+134: It is a sphere: r = 95. Surface area = 113411
+135: It is a sphere: r = 41. Surface area = 21124.1
+136: It is a parallelepiped: a = 64, b = 52, c = 51. Surface area = 18488
+137: It is a parallelepiped: a = 68, b = 29, c = 29. Surface area = 9570
+138: It is a parallelepiped: a = 23, b = 59, c = 54. Surface area = 11570
+139: It is a parallelepiped: a = 94, b = 10, c = 37. Surface area = 9576
+140: It is a parallelepiped: a = 10, b = 83, c = 59. Surface area = 12634
+141: It is a tetrahedron: a = 28. Surface area = 48.4974
+142: It is a sphere: r = 67. Surface area = 56410.4
+143: It is a sphere: r = 80. Surface area = 80424.8
+144: It is a parallelepiped: a = 52, b = 74, c = 62. Surface area = 23320
+145: It is a tetrahedron: a = 1. Surface area = 1.73205
+146: It is a parallelepiped: a = 48, b = 51, c = 49. Surface area = 14598
+147: It is a parallelepiped: a = 31, b = 29, c = 9. Surface area = 2878
+148: It is a parallelepiped: a = 87, b = 15, c = 53. Surface area = 13422
+149: It is a parallelepiped: a = 24, b = 41, c = 91. Surface area = 13798
+150: It is a tetrahedron: a = 23. Surface area = 39.8372
+151: It is a parallelepiped: a = 81, b = 3, c = 57. Surface area = 10062
+152: It is a parallelepiped: a = 90, b = 88, c = 10. Surface area = 19400
+153: It is a tetrahedron: a = 61. Surface area = 105.655
+154: It is a parallelepiped: a = 89, b = 14, c = 47. Surface area = 12174
+155: It is a tetrahedron: a = 64. Surface area = 110.851
+156: It is a sphere: r = 3. Surface area = 113.097
+157: It is a sphere: r = 76. Surface area = 72583.4
+158: It is a parallelepiped: a = 4, b = 63, c = 78. Surface area = 10956
+159: It is a tetrahedron: a = 94. Surface area = 162.813
+160: It is a sphere: r = 49. Surface area = 30171.9
+161: It is a sphere: r = 85. Surface area = 90792
+162: It is a sphere: r = 84. Surface area = 88668.3
+163: It is a tetrahedron: a = 73. Surface area = 126.44
+164: It is a sphere: r = 16. Surface area = 3216.99
+165: It is a sphere: r = 79. Surface area = 78426.7
+166: It is a tetrahedron: a = 59. Surface area = 102.191
+167: It is a parallelepiped: a = 95, b = 99, c = 5. Surface area = 20750
+168: It is a tetrahedron: a = 35. Surface area = 60.6218
+169: It is a parallelepiped: a = 89, b = 90, c = 66. Surface area = 39648
+170: It is a sphere: r = 5. Surface area = 314.159
+171: It is a parallelepiped: a = 78, b = 82, c = 29. Surface area = 22072
+172: It is a sphere: r = 34. Surface area = 14526.7
+173: It is a sphere: r = 59. Surface area = 43743.5
+174: It is a sphere: r = 47. Surface area = 27759.1
+175: It is a sphere: r = 87. Surface area = 95114.9
+176: It is a sphere: r = 86. Surface area = 92940.9
+177: It is a parallelepiped: a = 37, b = 17, c = 79. Surface area = 9790
+178: It is a tetrahedron: a = 8. Surface area = 13.8564
+179: It is a sphere: r = 94. Surface area = 111036
+180: It is a parallelepiped: a = 19, b = 80, c = 83. Surface area = 19474
+181: It is a tetrahedron: a = 21. Surface area = 36.3731
+182: It is a sphere: r = 74. Surface area = 68813.4
+183: It is a sphere: r = 21. Surface area = 5541.77
+184: It is a sphere: r = 58. Surface area = 42273.3
+185: It is a sphere: r = 0. Surface area = 0

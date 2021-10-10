@@ -1,0 +1,1 @@
+Surface area sum = 1.38203e+07
