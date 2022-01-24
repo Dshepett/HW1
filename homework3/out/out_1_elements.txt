@@ -1,0 +1,7 @@
+Container stores 5 shapes:
+Parallelepiped: a = 23, b = 17, c = 21; Density = 11; SurfaceArea = 2462.0
+Sphere: r = 18; Density = 6; SurfaceArea = 4071.5040790523717
+Parallelepiped: a = 5, b = 17, c = 7; Density = 18; SurfaceArea = 478.0
+Sphere: r = 14; Density = 29; SurfaceArea = 2463.0086404143976
+Sphere: r = 16; Density = 7; SurfaceArea = 3216.990877275948
+Average of surface area: 2538.3007193485437

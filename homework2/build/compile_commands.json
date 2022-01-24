@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/container.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/container.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/container.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/main.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/main.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/main.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/parallelepiped.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/parallelepiped.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/parallelepiped.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/shape.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/shape.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/shape.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/sphere.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/sphere.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/sphere.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/HW2.dir/tetrahedron.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw2/tetrahedron.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw2/tetrahedron.cpp"
+}
+]

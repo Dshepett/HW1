@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: It is a tetrahedron: a = 25; density = 2. Surface area = 1082.53
+1: It is a parallelepiped: a = 3, b = 19, c = 7; density = 30. Surface area = 422
+2: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+3: It is a sphere: r = 2; density = 23. Surface area = 50.2655
+4: It is a parallelepiped: a = 22, b = 11, c = 13; density = 7. Surface area = 1342
+5: It is a sphere: r = 3; density = 17. Surface area = 113.097
+6: It is a sphere: r = 6; density = 13. Surface area = 452.389
+7: It is a tetrahedron: a = 7; density = 3. Surface area = 84.8705
+8: It is a sphere: r = 30; density = 19. Surface area = 11309.7
+9: It is a sphere: r = 16; density = 21. Surface area = 3216.99

@@ -1,0 +1,5 @@
+Container after function stores 3 shapes:
+Parallelepiped: a = 23, b = 17, c = 21; Density = 11; SurfaceArea = 2462.0
+Parallelepiped: a = 5, b = 17, c = 7; Density = 18; SurfaceArea = 478.0
+Sphere: r = 14; Density = 29; SurfaceArea = 2463.0086404143976
+Time: 0.002961397171020508 seconds.

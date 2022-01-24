@@ -1,0 +1,31 @@
+Surface area AVG = 1872.3
+Figures with surface area greater than AVG: 
+Container contains 27 elements.
+0: It is a sphere: r = 20; density = 11. Surface area = 5026.55
+1: It is a sphere: r = 30; density = 17. Surface area = 11309.7
+2: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+3: It is a parallelepiped: a = 23, b = 16, c = 27; density = 30. Surface area = 2842
+4: It is a parallelepiped: a = 10, b = 29, c = 21; density = 30. Surface area = 2218
+5: It is a parallelepiped: a = 11, b = 19, c = 26; density = 10. Surface area = 1978
+6: It is a sphere: r = 25; density = 8. Surface area = 7853.98
+7: It is a parallelepiped: a = 23, b = 30, c = 17; density = 24. Surface area = 3182
+8: It is a sphere: r = 22; density = 20. Surface area = 6082.12
+9: It is a sphere: r = 20; density = 24. Surface area = 5026.55
+10: It is a sphere: r = 14; density = 3. Surface area = 2463.01
+11: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+12: It is a sphere: r = 28; density = 16. Surface area = 9852.03
+13: It is a sphere: r = 18; density = 19. Surface area = 4071.5
+14: It is a parallelepiped: a = 25, b = 27, c = 26; density = 2. Surface area = 4054
+15: It is a sphere: r = 29; density = 20. Surface area = 10568.3
+16: It is a parallelepiped: a = 16, b = 16, c = 27; density = 18. Surface area = 2240
+17: It is a sphere: r = 30; density = 6. Surface area = 11309.7
+18: It is a sphere: r = 18; density = 6. Surface area = 4071.5
+19: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+20: It is a parallelepiped: a = 14, b = 27, c = 29; density = 12. Surface area = 3134
+21: It is a parallelepiped: a = 13, b = 26, c = 26; density = 25. Surface area = 2704
+22: It is a sphere: r = 26; density = 30. Surface area = 8494.87
+23: It is a sphere: r = 17; density = 8. Surface area = 3631.68
+24: It is a sphere: r = 16; density = 21. Surface area = 3216.99
+25: It is a parallelepiped: a = 29, b = 28, c = 8; density = 15. Surface area = 2536
+26: It is a parallelepiped: a = 19, b = 20, c = 22; density = 27. Surface area = 2476
+Time: 0.000516 s.

@@ -1,0 +1,3 @@
+/home/dshepett/Рабочий стол/avs/hw2/build/CMakeFiles/rebuild_cache.dir
+/home/dshepett/Рабочий стол/avs/hw2/build/CMakeFiles/edit_cache.dir
+/home/dshepett/Рабочий стол/avs/hw2/build/CMakeFiles/HW2.dir

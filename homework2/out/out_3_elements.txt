@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 elements.
+0: It is a parallelepiped: a = 20, b = 10, c = 13; density = 8. Surface area = 1180
+1: It is a parallelepiped: a = 8, b = 27, c = 28; density = 17. Surface area = 2392
+2: It is a parallelepiped: a = 19, b = 24, c = 5; density = 22. Surface area = 1342
+3: It is a parallelepiped: a = 20, b = 8, c = 18; density = 23. Surface area = 1328
+4: It is a tetrahedron: a = 5; density = 27. Surface area = 43.3013
+5: It is a parallelepiped: a = 11, b = 14, c = 20; density = 21. Surface area = 1308
+6: It is a parallelepiped: a = 9, b = 14, c = 9; density = 29. Surface area = 666
+7: It is a sphere: r = 21; density = 28. Surface area = 5541.77
+8: It is a tetrahedron: a = 21; density = 24. Surface area = 763.834
+9: It is a tetrahedron: a = 29; density = 23. Surface area = 1456.65
+10: It is a parallelepiped: a = 22, b = 27, c = 5; density = 13. Surface area = 1678
+11: It is a parallelepiped: a = 5, b = 30, c = 23; density = 11. Surface area = 1910
+12: It is a sphere: r = 19; density = 24. Surface area = 4536.46
+13: It is a tetrahedron: a = 24; density = 5. Surface area = 997.661
+14: It is a tetrahedron: a = 18; density = 14. Surface area = 561.184
+15: It is a tetrahedron: a = 26; density = 4. Surface area = 1170.87
+16: It is a sphere: r = 9; density = 1. Surface area = 1017.88
+17: It is a tetrahedron: a = 21; density = 16. Surface area = 763.834
+18: It is a parallelepiped: a = 11, b = 8, c = 13; density = 3. Surface area = 670
+19: It is a parallelepiped: a = 18, b = 15, c = 26; density = 14. Surface area = 2256
+20: It is a tetrahedron: a = 18; density = 24. Surface area = 561.184
+21: It is a sphere: r = 28; density = 9. Surface area = 9852.03
+22: It is a parallelepiped: a = 22, b = 14, c = 16; density = 9. Surface area = 1768
+23: It is a sphere: r = 1; density = 26. Surface area = 12.5664
+24: It is a sphere: r = 1; density = 26. Surface area = 12.5664
+25: It is a parallelepiped: a = 6, b = 8, c = 21; density = 6. Surface area = 684
+26: It is a sphere: r = 20; density = 18. Surface area = 5026.55
+27: It is a tetrahedron: a = 7; density = 27. Surface area = 84.8705
+28: It is a tetrahedron: a = 2; density = 2. Surface area = 6.9282
+29: It is a parallelepiped: a = 11, b = 25, c = 2; density = 9. Surface area = 694
+30: It is a sphere: r = 22; density = 22. Surface area = 6082.12
+31: It is a tetrahedron: a = 30; density = 22. Surface area = 1558.85
+32: It is a tetrahedron: a = 30; density = 9. Surface area = 1558.85
+33: It is a sphere: r = 1; density = 27. Surface area = 12.5664
+34: It is a tetrahedron: a = 28; density = 4. Surface area = 1357.93
+35: It is a tetrahedron: a = 3; density = 22. Surface area = 15.5885
+36: It is a sphere: r = 13; density = 4. Surface area = 2123.72
+37: It is a sphere: r = 1; density = 22. Surface area = 12.5664
+38: It is a sphere: r = 25; density = 23. Surface area = 7853.98
+39: It is a parallelepiped: a = 19, b = 17, c = 26; density = 14. Surface area = 2518
+40: It is a parallelepiped: a = 17, b = 22, c = 7; density = 30. Surface area = 1294
+41: It is a sphere: r = 29; density = 9. Surface area = 10568.3
+42: It is a sphere: r = 21; density = 5. Surface area = 5541.77
+43: It is a sphere: r = 18; density = 30. Surface area = 4071.5
+44: It is a tetrahedron: a = 13; density = 14. Surface area = 292.717
+45: It is a tetrahedron: a = 17; density = 17. Surface area = 500.563
+46: It is a parallelepiped: a = 9, b = 9, c = 5; density = 3. Surface area = 342
+47: It is a parallelepiped: a = 22, b = 22, c = 1; density = 18. Surface area = 1056
+48: It is a tetrahedron: a = 1; density = 26. Surface area = 1.73205
+49: It is a parallelepiped: a = 29, b = 26, c = 20; density = 27. Surface area = 3708
+50: It is a parallelepiped: a = 1, b = 17, c = 22; density = 25. Surface area = 826
+51: It is a tetrahedron: a = 21; density = 8. Surface area = 763.834
+52: It is a tetrahedron: a = 4; density = 13. Surface area = 27.7128
+53: It is a sphere: r = 13; density = 24. Surface area = 2123.72
+54: It is a tetrahedron: a = 13; density = 28. Surface area = 292.717
+55: It is a sphere: r = 5; density = 20. Surface area = 314.159
+56: It is a parallelepiped: a = 28, b = 29, c = 7; density = 28. Surface area = 2422
+57: It is a tetrahedron: a = 17; density = 18. Surface area = 500.563
+58: It is a parallelepiped: a = 29, b = 15, c = 28; density = 29. Surface area = 3334
+59: It is a parallelepiped: a = 19, b = 15, c = 19; density = 2. Surface area = 1862
+60: It is a sphere: r = 27; density = 27. Surface area = 9160.88
+61: It is a tetrahedron: a = 13; density = 1. Surface area = 292.717
+62: It is a parallelepiped: a = 8, b = 13, c = 10; density = 5. Surface area = 628
+63: It is a sphere: r = 21; density = 15. Surface area = 5541.77
+64: It is a sphere: r = 19; density = 13. Surface area = 4536.46
+65: It is a parallelepiped: a = 4, b = 30, c = 13; density = 7. Surface area = 1124
+66: It is a parallelepiped: a = 19, b = 4, c = 18; density = 12. Surface area = 980
+67: It is a tetrahedron: a = 24; density = 22. Surface area = 997.661
+68: It is a parallelepiped: a = 16, b = 11, c = 4; density = 4. Surface area = 568
+69: It is a parallelepiped: a = 5, b = 23, c = 22; density = 9. Surface area = 1462
+70: It is a tetrahedron: a = 18; density = 18. Surface area = 561.184
+71: It is a tetrahedron: a = 2; density = 16. Surface area = 6.9282
+72: It is a sphere: r = 15; density = 3. Surface area = 2827.43
+73: It is a parallelepiped: a = 6, b = 8, c = 18; density = 25. Surface area = 600
+74: It is a parallelepiped: a = 21, b = 4, c = 29; density = 27. Surface area = 1618
+75: It is a tetrahedron: a = 21; density = 4. Surface area = 763.834
+76: It is a sphere: r = 1; density = 8. Surface area = 12.5664
+77: It is a sphere: r = 15; density = 4. Surface area = 2827.43
+78: It is a sphere: r = 29; density = 4. Surface area = 10568.3
+79: It is a sphere: r = 16; density = 22. Surface area = 3216.99
+80: It is a sphere: r = 18; density = 29. Surface area = 4071.5
+81: It is a sphere: r = 24; density = 24. Surface area = 7238.23
+82: It is a tetrahedron: a = 21; density = 1. Surface area = 763.834
+83: It is a parallelepiped: a = 7, b = 26, c = 9; density = 10. Surface area = 958
+84: It is a sphere: r = 5; density = 28. Surface area = 314.159
+85: It is a sphere: r = 9; density = 2. Surface area = 1017.88
+86: It is a parallelepiped: a = 8, b = 30, c = 5; density = 11. Surface area = 860
+87: It is a tetrahedron: a = 3; density = 14. Surface area = 15.5885
+88: It is a sphere: r = 19; density = 27. Surface area = 4536.46
+89: It is a parallelepiped: a = 28, b = 18, c = 29; density = 13. Surface area = 3676
+90: It is a parallelepiped: a = 8, b = 3, c = 11; density = 3. Surface area = 290
+91: It is a sphere: r = 28; density = 11. Surface area = 9852.03
+92: It is a parallelepiped: a = 14, b = 8, c = 29; density = 12. Surface area = 1500
+93: It is a sphere: r = 22; density = 10. Surface area = 6082.12
+94: It is a tetrahedron: a = 14; density = 15. Surface area = 339.482
+95: It is a parallelepiped: a = 26, b = 17, c = 22; density = 15. Surface area = 2776
+96: It is a tetrahedron: a = 19; density = 16. Surface area = 625.27
+97: It is a sphere: r = 28; density = 15. Surface area = 9852.03
+98: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+99: It is a sphere: r = 10; density = 16. Surface area = 1256.64
+100: It is a sphere: r = 29; density = 19. Surface area = 10568.3
+101: It is a tetrahedron: a = 13; density = 18. Surface area = 292.717
+102: It is a tetrahedron: a = 24; density = 3. Surface area = 997.661
+103: It is a tetrahedron: a = 26; density = 9. Surface area = 1170.87
+104: It is a parallelepiped: a = 10, b = 25, c = 28; density = 18. Surface area = 2460
+105: It is a sphere: r = 12; density = 7. Surface area = 1809.56
+106: It is a parallelepiped: a = 28, b = 22, c = 23; density = 12. Surface area = 3532
+107: It is a tetrahedron: a = 22; density = 25. Surface area = 838.313
+108: It is a tetrahedron: a = 23; density = 2. Surface area = 916.255
+109: It is a parallelepiped: a = 14, b = 12, c = 1; density = 26. Surface area = 388
+110: It is a parallelepiped: a = 6, b = 11, c = 23; density = 25. Surface area = 914
+111: It is a tetrahedron: a = 1; density = 26. Surface area = 1.73205
+112: It is a sphere: r = 25; density = 15. Surface area = 7853.98
+113: It is a parallelepiped: a = 11, b = 27, c = 15; density = 28. Surface area = 1734
+114: It is a tetrahedron: a = 6; density = 21. Surface area = 62.3538
+115: It is a tetrahedron: a = 17; density = 4. Surface area = 500.563
+116: It is a sphere: r = 12; density = 19. Surface area = 1809.56
+117: It is a tetrahedron: a = 28; density = 2. Surface area = 1357.93
+118: It is a tetrahedron: a = 20; density = 19. Surface area = 692.82
+119: It is a parallelepiped: a = 26, b = 29, c = 23; density = 12. Surface area = 4038
+120: It is a tetrahedron: a = 23; density = 29. Surface area = 916.255
+121: It is a sphere: r = 10; density = 14. Surface area = 1256.64
+122: It is a parallelepiped: a = 12, b = 2, c = 17; density = 9. Surface area = 524
+123: It is a parallelepiped: a = 23, b = 21, c = 13; density = 1. Surface area = 2110
+124: It is a sphere: r = 17; density = 4. Surface area = 3631.68
+125: It is a sphere: r = 14; density = 1. Surface area = 2463.01
+126: It is a tetrahedron: a = 23; density = 13. Surface area = 916.255
+127: It is a tetrahedron: a = 1; density = 30. Surface area = 1.73205
+128: It is a sphere: r = 23; density = 11. Surface area = 6647.61
+129: It is a sphere: r = 7; density = 1. Surface area = 615.752
+130: It is a parallelepiped: a = 8, b = 14, c = 7; density = 19. Surface area = 532
+131: It is a tetrahedron: a = 24; density = 28. Surface area = 997.661
+132: It is a sphere: r = 8; density = 18. Surface area = 804.248
+133: It is a parallelepiped: a = 30, b = 4, c = 13; density = 4. Surface area = 1124
+134: It is a parallelepiped: a = 27, b = 26, c = 13; density = 19. Surface area = 2782
+135: It is a parallelepiped: a = 28, b = 11, c = 7; density = 12. Surface area = 1162
+136: It is a sphere: r = 9; density = 21. Surface area = 1017.88
+137: It is a parallelepiped: a = 10, b = 17, c = 9; density = 23. Surface area = 826
+138: It is a sphere: r = 20; density = 30. Surface area = 5026.55
+139: It is a tetrahedron: a = 17; density = 22. Surface area = 500.563
+140: It is a parallelepiped: a = 26, b = 27, c = 7; density = 22. Surface area = 2146
+141: It is a sphere: r = 10; density = 21. Surface area = 1256.64
+142: It is a tetrahedron: a = 6; density = 4. Surface area = 62.3538
+143: It is a parallelepiped: a = 13, b = 23, c = 18; density = 12. Surface area = 1894
+144: It is a sphere: r = 13; density = 20. Surface area = 2123.72
+145: It is a sphere: r = 6; density = 21. Surface area = 452.389
+146: It is a tetrahedron: a = 6; density = 6. Surface area = 62.3538
+147: It is a tetrahedron: a = 25; density = 5. Surface area = 1082.53
+148: It is a parallelepiped: a = 3, b = 18, c = 25; density = 21. Surface area = 1158
+149: It is a tetrahedron: a = 2; density = 12. Surface area = 6.9282
+150: It is a sphere: r = 3; density = 2. Surface area = 113.097
+151: It is a tetrahedron: a = 8; density = 27. Surface area = 110.851
+152: It is a parallelepiped: a = 13, b = 20, c = 20; density = 16. Surface area = 1840
+153: It is a parallelepiped: a = 24, b = 27, c = 9; density = 29. Surface area = 2214
+154: It is a tetrahedron: a = 12; density = 4. Surface area = 249.415
+155: It is a parallelepiped: a = 29, b = 21, c = 19; density = 17. Surface area = 3118
+156: It is a parallelepiped: a = 6, b = 11, c = 13; density = 12. Surface area = 574
+157: It is a sphere: r = 24; density = 18. Surface area = 7238.23
+158: It is a sphere: r = 18; density = 12. Surface area = 4071.5
+159: It is a parallelepiped: a = 14, b = 14, c = 18; density = 25. Surface area = 1400
+160: It is a tetrahedron: a = 3; density = 10. Surface area = 15.5885
+161: It is a tetrahedron: a = 30; density = 18. Surface area = 1558.85
+162: It is a sphere: r = 9; density = 29. Surface area = 1017.88
+163: It is a parallelepiped: a = 1, b = 20, c = 23; density = 19. Surface area = 1006
+164: It is a sphere: r = 16; density = 24. Surface area = 3216.99
+165: It is a parallelepiped: a = 20, b = 27, c = 12; density = 14. Surface area = 2208
+166: It is a parallelepiped: a = 18, b = 23, c = 26; density = 23. Surface area = 2960
+167: It is a sphere: r = 1; density = 3. Surface area = 12.5664
+168: It is a parallelepiped: a = 25, b = 27, c = 2; density = 12. Surface area = 1558
+169: It is a tetrahedron: a = 11; density = 19. Surface area = 209.578
+170: It is a parallelepiped: a = 2, b = 21, c = 18; density = 21. Surface area = 912
+171: It is a parallelepiped: a = 6, b = 18, c = 29; density = 22. Surface area = 1608
+172: It is a parallelepiped: a = 18, b = 18, c = 20; density = 23. Surface area = 2088
+173: It is a tetrahedron: a = 29; density = 7. Surface area = 1456.65
+174: It is a parallelepiped: a = 14, b = 5, c = 11; density = 16. Surface area = 558
+175: It is a tetrahedron: a = 5; density = 4. Surface area = 43.3013
+176: It is a parallelepiped: a = 16, b = 22, c = 30; density = 26. Surface area = 2984
+177: It is a tetrahedron: a = 1; density = 16. Surface area = 1.73205
+178: It is a tetrahedron: a = 13; density = 29. Surface area = 292.717
+179: It is a tetrahedron: a = 22; density = 19. Surface area = 838.313
+180: It is a sphere: r = 9; density = 7. Surface area = 1017.88
+181: It is a parallelepiped: a = 28, b = 21, c = 2; density = 19. Surface area = 1372
+182: It is a sphere: r = 12; density = 2. Surface area = 1809.56
+183: It is a parallelepiped: a = 22, b = 17, c = 20; density = 18. Surface area = 2308
+184: It is a tetrahedron: a = 1; density = 25. Surface area = 1.73205
+185: It is a tetrahedron: a = 22; density = 20. Surface area = 838.313
+186: It is a sphere: r = 15; density = 5. Surface area = 2827.43
+187: It is a sphere: r = 27; density = 4. Surface area = 9160.88
+188: It is a sphere: r = 19; density = 14. Surface area = 4536.46
+189: It is a tetrahedron: a = 19; density = 20. Surface area = 625.27
+190: It is a sphere: r = 8; density = 3. Surface area = 804.248
+191: It is a parallelepiped: a = 26, b = 30, c = 26; density = 19. Surface area = 4472
+192: It is a parallelepiped: a = 17, b = 5, c = 4; density = 4. Surface area = 346
+193: It is a tetrahedron: a = 4; density = 20. Surface area = 27.7128
+194: It is a tetrahedron: a = 25; density = 9. Surface area = 1082.53
+195: It is a tetrahedron: a = 9; density = 13. Surface area = 140.296
+196: It is a sphere: r = 28; density = 8. Surface area = 9852.03
+197: It is a parallelepiped: a = 8, b = 22, c = 1; density = 18. Surface area = 412
+198: It is a tetrahedron: a = 14; density = 25. Surface area = 339.482
+199: It is a tetrahedron: a = 28; density = 13. Surface area = 1357.93
+200: It is a parallelepiped: a = 23, b = 1, c = 10; density = 1. Surface area = 526
+201: It is a sphere: r = 13; density = 26. Surface area = 2123.72
+202: It is a tetrahedron: a = 8; density = 15. Surface area = 110.851
+203: It is a parallelepiped: a = 25, b = 23, c = 6; density = 25. Surface area = 1726
+204: It is a tetrahedron: a = 24; density = 22. Surface area = 997.661
+205: It is a parallelepiped: a = 11, b = 21, c = 18; density = 11. Surface area = 1614
+206: It is a parallelepiped: a = 12, b = 16, c = 25; density = 9. Surface area = 1784
+207: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+208: It is a parallelepiped: a = 29, b = 28, c = 5; density = 18. Surface area = 2194
+209: It is a sphere: r = 22; density = 15. Surface area = 6082.12
+210: It is a sphere: r = 6; density = 15. Surface area = 452.389
+211: It is a sphere: r = 28; density = 20. Surface area = 9852.03
+212: It is a parallelepiped: a = 25, b = 5, c = 4; density = 21. Surface area = 490
+213: It is a sphere: r = 24; density = 30. Surface area = 7238.23
+214: It is a tetrahedron: a = 2; density = 3. Surface area = 6.9282
+215: It is a sphere: r = 18; density = 11. Surface area = 4071.5
+216: It is a parallelepiped: a = 16, b = 29, c = 13; density = 6. Surface area = 2098
+217: It is a parallelepiped: a = 9, b = 24, c = 27; density = 23. Surface area = 2214
+218: It is a parallelepiped: a = 6, b = 28, c = 22; density = 1. Surface area = 1832
+219: It is a parallelepiped: a = 3, b = 21, c = 12; density = 8. Surface area = 702
+220: It is a tetrahedron: a = 24; density = 15. Surface area = 997.661
+221: It is a tetrahedron: a = 15; density = 2. Surface area = 389.711
+222: It is a parallelepiped: a = 17, b = 27, c = 19; density = 20. Surface area = 2590
+223: It is a parallelepiped: a = 26, b = 18, c = 9; density = 2. Surface area = 1728
+224: It is a parallelepiped: a = 9, b = 17, c = 1; density = 1. Surface area = 358
+225: It is a sphere: r = 29; density = 29. Surface area = 10568.3
+226: It is a parallelepiped: a = 21, b = 16, c = 2; density = 3. Surface area = 820
+227: It is a sphere: r = 9; density = 18. Surface area = 1017.88
+228: It is a tetrahedron: a = 15; density = 27. Surface area = 389.711
+229: It is a tetrahedron: a = 17; density = 20. Surface area = 500.563
+230: It is a parallelepiped: a = 5, b = 9, c = 15; density = 9. Surface area = 510
+231: It is a parallelepiped: a = 24, b = 17, c = 27; density = 28. Surface area = 3030
+232: It is a tetrahedron: a = 5; density = 21. Surface area = 43.3013
+233: It is a tetrahedron: a = 21; density = 11. Surface area = 763.834
+234: It is a parallelepiped: a = 28, b = 1, c = 23; density = 21. Surface area = 1390
+235: It is a sphere: r = 11; density = 22. Surface area = 1520.53
+236: It is a tetrahedron: a = 14; density = 6. Surface area = 339.482
+237: It is a tetrahedron: a = 23; density = 14. Surface area = 916.255
+238: It is a parallelepiped: a = 19, b = 19, c = 29; density = 3. Surface area = 2926
+239: It is a tetrahedron: a = 24; density = 19. Surface area = 997.661
+240: It is a tetrahedron: a = 13; density = 8. Surface area = 292.717
+241: It is a parallelepiped: a = 17, b = 28, c = 2; density = 7. Surface area = 1132
+242: It is a parallelepiped: a = 10, b = 26, c = 1; density = 24. Surface area = 592
+243: It is a parallelepiped: a = 26, b = 27, c = 8; density = 8. Surface area = 2252
+244: It is a sphere: r = 5; density = 17. Surface area = 314.159
+245: It is a sphere: r = 19; density = 7. Surface area = 4536.46
+246: It is a sphere: r = 7; density = 5. Surface area = 615.752
+247: It is a sphere: r = 25; density = 20. Surface area = 7853.98
+248: It is a sphere: r = 30; density = 2. Surface area = 11309.7
+249: It is a sphere: r = 14; density = 19. Surface area = 2463.01
+250: It is a sphere: r = 16; density = 17. Surface area = 3216.99
+251: It is a sphere: r = 25; density = 13. Surface area = 7853.98
+252: It is a parallelepiped: a = 18, b = 21, c = 9; density = 6. Surface area = 1458
+253: It is a parallelepiped: a = 16, b = 8, c = 24; density = 24. Surface area = 1408
+254: It is a parallelepiped: a = 12, b = 30, c = 6; density = 10. Surface area = 1224
+255: It is a sphere: r = 12; density = 5. Surface area = 1809.56
+256: It is a tetrahedron: a = 29; density = 26. Surface area = 1456.65
+257: It is a parallelepiped: a = 23, b = 10, c = 5; density = 6. Surface area = 790
+258: It is a parallelepiped: a = 14, b = 19, c = 3; density = 26. Surface area = 730
+259: It is a parallelepiped: a = 12, b = 8, c = 10; density = 18. Surface area = 592
+260: It is a sphere: r = 18; density = 25. Surface area = 4071.5
+261: It is a tetrahedron: a = 11; density = 26. Surface area = 209.578
+262: It is a sphere: r = 11; density = 1. Surface area = 1520.53
+263: It is a parallelepiped: a = 6, b = 4, c = 21; density = 29. Surface area = 468
+264: It is a parallelepiped: a = 17, b = 16, c = 16; density = 18. Surface area = 1600
+265: It is a tetrahedron: a = 14; density = 4. Surface area = 339.482
+266: It is a sphere: r = 2; density = 6. Surface area = 50.2655
+267: It is a tetrahedron: a = 26; density = 17. Surface area = 1170.87
+268: It is a parallelepiped: a = 27, b = 4, c = 29; density = 14. Surface area = 2014
+269: It is a sphere: r = 3; density = 25. Surface area = 113.097
+270: It is a parallelepiped: a = 18, b = 27, c = 15; density = 26. Surface area = 2322
+271: It is a parallelepiped: a = 19, b = 17, c = 23; density = 12. Surface area = 2302
+272: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+273: It is a tetrahedron: a = 11; density = 3. Surface area = 209.578
+274: It is a tetrahedron: a = 28; density = 4. Surface area = 1357.93
+275: It is a tetrahedron: a = 1; density = 21. Surface area = 1.73205
+276: It is a sphere: r = 12; density = 18. Surface area = 1809.56
+277: It is a parallelepiped: a = 2, b = 1, c = 21; density = 4. Surface area = 130
+278: It is a parallelepiped: a = 6, b = 13, c = 5; density = 20. Surface area = 346
+279: It is a tetrahedron: a = 7; density = 8. Surface area = 84.8705
+280: It is a parallelepiped: a = 21, b = 20, c = 11; density = 20. Surface area = 1742
+281: It is a tetrahedron: a = 22; density = 22. Surface area = 838.313
+282: It is a parallelepiped: a = 28, b = 19, c = 6; density = 1. Surface area = 1628
+283: It is a tetrahedron: a = 27; density = 28. Surface area = 1262.67
+284: It is a parallelepiped: a = 6, b = 21, c = 16; density = 28. Surface area = 1116
+285: It is a tetrahedron: a = 20; density = 15. Surface area = 692.82
+286: It is a parallelepiped: a = 24, b = 11, c = 6; density = 2. Surface area = 948
+287: It is a parallelepiped: a = 6, b = 18, c = 7; density = 17. Surface area = 552
+288: It is a sphere: r = 18; density = 17. Surface area = 4071.5
+289: It is a parallelepiped: a = 10, b = 19, c = 30; density = 28. Surface area = 2120
+290: It is a sphere: r = 30; density = 9. Surface area = 11309.7
+291: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+292: It is a tetrahedron: a = 10; density = 9. Surface area = 173.205
+293: It is a sphere: r = 13; density = 20. Surface area = 2123.72
+294: It is a sphere: r = 21; density = 13. Surface area = 5541.77
+295: It is a parallelepiped: a = 19, b = 15, c = 2; density = 24. Surface area = 706
+296: It is a tetrahedron: a = 8; density = 2. Surface area = 110.851
+297: It is a parallelepiped: a = 26, b = 18, c = 16; density = 5. Surface area = 2344
+298: It is a sphere: r = 16; density = 24. Surface area = 3216.99
+299: It is a sphere: r = 7; density = 25. Surface area = 615.752
+300: It is a parallelepiped: a = 26, b = 9, c = 25; density = 28. Surface area = 2218
+301: It is a tetrahedron: a = 23; density = 2. Surface area = 916.255
+302: It is a sphere: r = 5; density = 23. Surface area = 314.159
+303: It is a tetrahedron: a = 20; density = 11. Surface area = 692.82
+304: It is a tetrahedron: a = 21; density = 26. Surface area = 763.834
+305: It is a parallelepiped: a = 20, b = 27, c = 15; density = 15. Surface area = 2490
+306: It is a tetrahedron: a = 1; density = 11. Surface area = 1.73205
+307: It is a tetrahedron: a = 8; density = 27. Surface area = 110.851
+308: It is a sphere: r = 6; density = 13. Surface area = 452.389
+309: It is a parallelepiped: a = 24, b = 21, c = 10; density = 21. Surface area = 1908
+310: It is a tetrahedron: a = 2; density = 22. Surface area = 6.9282
+311: It is a sphere: r = 29; density = 6. Surface area = 10568.3
+312: It is a tetrahedron: a = 18; density = 8. Surface area = 561.184
+313: It is a parallelepiped: a = 8, b = 3, c = 23; density = 27. Surface area = 554
+314: It is a tetrahedron: a = 29; density = 4. Surface area = 1456.65
+315: It is a tetrahedron: a = 21; density = 6. Surface area = 763.834
+316: It is a tetrahedron: a = 20; density = 24. Surface area = 692.82
+317: It is a sphere: r = 26; density = 6. Surface area = 8494.87
+318: It is a tetrahedron: a = 19; density = 27. Surface area = 625.27
+319: It is a tetrahedron: a = 1; density = 18. Surface area = 1.73205
+320: It is a tetrahedron: a = 14; density = 6. Surface area = 339.482
+321: It is a parallelepiped: a = 20, b = 19, c = 5; density = 27. Surface area = 1150
+322: It is a tetrahedron: a = 4; density = 22. Surface area = 27.7128
+323: It is a sphere: r = 22; density = 4. Surface area = 6082.12
+324: It is a tetrahedron: a = 17; density = 22. Surface area = 500.563
+325: It is a tetrahedron: a = 23; density = 3. Surface area = 916.255
+326: It is a parallelepiped: a = 16, b = 13, c = 27; density = 14. Surface area = 1982
+327: It is a sphere: r = 15; density = 10. Surface area = 2827.43
+328: It is a sphere: r = 7; density = 19. Surface area = 615.752
+329: It is a sphere: r = 20; density = 24. Surface area = 5026.55
+330: It is a tetrahedron: a = 9; density = 12. Surface area = 140.296
+331: It is a sphere: r = 28; density = 21. Surface area = 9852.03
+332: It is a sphere: r = 19; density = 13. Surface area = 4536.46
+333: It is a parallelepiped: a = 22, b = 4, c = 18; density = 5. Surface area = 1112
+334: It is a sphere: r = 2; density = 30. Surface area = 50.2655
+335: It is a parallelepiped: a = 10, b = 12, c = 13; density = 23. Surface area = 812
+336: It is a sphere: r = 19; density = 24. Surface area = 4536.46
+337: It is a parallelepiped: a = 25, b = 12, c = 15; density = 14. Surface area = 1710
+338: It is a parallelepiped: a = 18, b = 15, c = 9; density = 24. Surface area = 1134
+339: It is a tetrahedron: a = 21; density = 26. Surface area = 763.834
+340: It is a sphere: r = 3; density = 19. Surface area = 113.097
+341: It is a parallelepiped: a = 7, b = 28, c = 10; density = 22. Surface area = 1092
+342: It is a tetrahedron: a = 9; density = 30. Surface area = 140.296
+343: It is a sphere: r = 12; density = 4. Surface area = 1809.56
+344: It is a parallelepiped: a = 1, b = 22, c = 16; density = 30. Surface area = 780
+345: It is a parallelepiped: a = 27, b = 14, c = 13; density = 23. Surface area = 1822
+346: It is a parallelepiped: a = 19, b = 1, c = 9; density = 22. Surface area = 398
+347: It is a sphere: r = 4; density = 13. Surface area = 201.062
+348: It is a parallelepiped: a = 14, b = 10, c = 14; density = 11. Surface area = 952
+349: It is a sphere: r = 27; density = 2. Surface area = 9160.88
+350: It is a sphere: r = 26; density = 2. Surface area = 8494.87
+351: It is a tetrahedron: a = 29; density = 16. Surface area = 1456.65
+352: It is a sphere: r = 12; density = 1. Surface area = 1809.56
+353: It is a tetrahedron: a = 11; density = 19. Surface area = 209.578
+354: It is a tetrahedron: a = 23; density = 12. Surface area = 916.255
+355: It is a sphere: r = 12; density = 4. Surface area = 1809.56
+356: It is a sphere: r = 3; density = 17. Surface area = 113.097
+357: It is a parallelepiped: a = 8, b = 24, c = 27; density = 17. Surface area = 2112
+358: It is a parallelepiped: a = 30, b = 27, c = 17; density = 1. Surface area = 3558
+359: It is a tetrahedron: a = 4; density = 25. Surface area = 27.7128
+360: It is a tetrahedron: a = 24; density = 10. Surface area = 997.661
+361: It is a sphere: r = 5; density = 3. Surface area = 314.159
+362: It is a sphere: r = 7; density = 21. Surface area = 615.752
+363: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+364: It is a tetrahedron: a = 2; density = 20. Surface area = 6.9282
+365: It is a tetrahedron: a = 27; density = 6. Surface area = 1262.67
+366: It is a parallelepiped: a = 4, b = 21, c = 29; density = 12. Surface area = 1618
+367: It is a parallelepiped: a = 28, b = 8, c = 27; density = 29. Surface area = 2392
+368: It is a sphere: r = 22; density = 15. Surface area = 6082.12
+369: It is a sphere: r = 15; density = 24. Surface area = 2827.43
+370: It is a parallelepiped: a = 11, b = 18, c = 10; density = 17. Surface area = 976
+371: It is a sphere: r = 7; density = 7. Surface area = 615.752
+372: It is a tetrahedron: a = 15; density = 1. Surface area = 389.711
+373: It is a sphere: r = 4; density = 27. Surface area = 201.062
+374: It is a sphere: r = 14; density = 30. Surface area = 2463.01
+375: It is a sphere: r = 4; density = 11. Surface area = 201.062
+376: It is a parallelepiped: a = 2, b = 18, c = 20; density = 30. Surface area = 872
+377: It is a sphere: r = 3; density = 6. Surface area = 113.097
+378: It is a parallelepiped: a = 17, b = 21, c = 19; density = 19. Surface area = 2158
+379: It is a tetrahedron: a = 28; density = 27. Surface area = 1357.93
+380: It is a tetrahedron: a = 26; density = 4. Surface area = 1170.87
+381: It is a parallelepiped: a = 3, b = 4, c = 7; density = 6. Surface area = 122
+382: It is a tetrahedron: a = 16; density = 11. Surface area = 443.405
+383: It is a tetrahedron: a = 30; density = 14. Surface area = 1558.85
+384: It is a parallelepiped: a = 1, b = 15, c = 2; density = 13. Surface area = 94
+385: It is a tetrahedron: a = 24; density = 15. Surface area = 997.661
+386: It is a parallelepiped: a = 4, b = 24, c = 2; density = 14. Surface area = 304
+387: It is a tetrahedron: a = 2; density = 3. Surface area = 6.9282
+388: It is a tetrahedron: a = 10; density = 21. Surface area = 173.205
+389: It is a sphere: r = 3; density = 23. Surface area = 113.097
+390: It is a parallelepiped: a = 9, b = 28, c = 28; density = 17. Surface area = 2576
+391: It is a tetrahedron: a = 10; density = 16. Surface area = 173.205
+392: It is a sphere: r = 24; density = 8. Surface area = 7238.23
+393: It is a parallelepiped: a = 25, b = 12, c = 17; density = 18. Surface area = 1858
+394: It is a tetrahedron: a = 20; density = 13. Surface area = 692.82
+395: It is a tetrahedron: a = 13; density = 19. Surface area = 292.717
+396: It is a parallelepiped: a = 14, b = 21, c = 23; density = 15. Surface area = 2198
+397: It is a parallelepiped: a = 18, b = 17, c = 25; density = 16. Surface area = 2362
+398: It is a parallelepiped: a = 14, b = 5, c = 4; density = 13. Surface area = 292
+399: It is a parallelepiped: a = 19, b = 18, c = 29; density = 18. Surface area = 2830
+400: It is a parallelepiped: a = 23, b = 30, c = 15; density = 2. Surface area = 2970
+401: It is a tetrahedron: a = 26; density = 15. Surface area = 1170.87
+402: It is a parallelepiped: a = 8, b = 25, c = 13; density = 21. Surface area = 1258
+403: It is a tetrahedron: a = 6; density = 5. Surface area = 62.3538
+404: It is a tetrahedron: a = 15; density = 14. Surface area = 389.711
+405: It is a sphere: r = 1; density = 1. Surface area = 12.5664
+406: It is a tetrahedron: a = 5; density = 4. Surface area = 43.3013
+407: It is a tetrahedron: a = 11; density = 14. Surface area = 209.578
+408: It is a tetrahedron: a = 9; density = 1. Surface area = 140.296
+409: It is a sphere: r = 24; density = 22. Surface area = 7238.23
+410: It is a parallelepiped: a = 25, b = 9, c = 9; density = 1. Surface area = 1062
+411: It is a sphere: r = 9; density = 25. Surface area = 1017.88
+412: It is a parallelepiped: a = 21, b = 2, c = 17; density = 18. Surface area = 866
+413: It is a parallelepiped: a = 1, b = 1, c = 14; density = 1. Surface area = 58
+414: It is a sphere: r = 1; density = 28. Surface area = 12.5664
+415: It is a parallelepiped: a = 23, b = 30, c = 9; density = 23. Surface area = 2334
+416: It is a tetrahedron: a = 1; density = 22. Surface area = 1.73205
+417: It is a parallelepiped: a = 23, b = 27, c = 18; density = 1. Surface area = 3042
+418: It is a parallelepiped: a = 10, b = 30, c = 5; density = 5. Surface area = 1000
+419: It is a sphere: r = 26; density = 28. Surface area = 8494.87
+420: It is a tetrahedron: a = 13; density = 8. Surface area = 292.717
+421: It is a tetrahedron: a = 5; density = 13. Surface area = 43.3013
+422: It is a parallelepiped: a = 5, b = 6, c = 9; density = 22. Surface area = 258
+423: It is a parallelepiped: a = 8, b = 30, c = 12; density = 7. Surface area = 1392
+424: It is a sphere: r = 25; density = 22. Surface area = 7853.98
+425: It is a tetrahedron: a = 21; density = 1. Surface area = 763.834
+426: It is a parallelepiped: a = 18, b = 10, c = 28; density = 22. Surface area = 1928
+427: It is a tetrahedron: a = 8; density = 9. Surface area = 110.851
+428: It is a tetrahedron: a = 4; density = 21. Surface area = 27.7128
+429: It is a parallelepiped: a = 22, b = 25, c = 7; density = 11. Surface area = 1758
+430: It is a tetrahedron: a = 12; density = 19. Surface area = 249.415
+431: It is a tetrahedron: a = 1; density = 18. Surface area = 1.73205
+432: It is a tetrahedron: a = 4; density = 17. Surface area = 27.7128
+433: It is a sphere: r = 21; density = 8. Surface area = 5541.77
+434: It is a tetrahedron: a = 11; density = 8. Surface area = 209.578
+435: It is a sphere: r = 20; density = 9. Surface area = 5026.55
+436: It is a parallelepiped: a = 4, b = 15, c = 24; density = 12. Surface area = 1032
+437: It is a tetrahedron: a = 27; density = 3. Surface area = 1262.67
+438: It is a tetrahedron: a = 19; density = 19. Surface area = 625.27
+439: It is a tetrahedron: a = 21; density = 10. Surface area = 763.834
+440: It is a parallelepiped: a = 2, b = 13, c = 12; density = 11. Surface area = 412
+441: It is a sphere: r = 7; density = 27. Surface area = 615.752
+442: It is a sphere: r = 27; density = 26. Surface area = 9160.88
+443: It is a sphere: r = 30; density = 25. Surface area = 11309.7
+444: It is a parallelepiped: a = 11, b = 4, c = 7; density = 14. Surface area = 298
+445: It is a sphere: r = 1; density = 26. Surface area = 12.5664
+446: It is a sphere: r = 27; density = 20. Surface area = 9160.88
+447: It is a tetrahedron: a = 7; density = 30. Surface area = 84.8705
+448: It is a parallelepiped: a = 20, b = 9, c = 1; density = 21. Surface area = 418
+449: It is a sphere: r = 12; density = 1. Surface area = 1809.56
+450: It is a sphere: r = 11; density = 20. Surface area = 1520.53
+451: It is a parallelepiped: a = 7, b = 7, c = 8; density = 28. Surface area = 322
+452: It is a parallelepiped: a = 28, b = 9, c = 27; density = 5. Surface area = 2502
+453: It is a parallelepiped: a = 28, b = 27, c = 1; density = 7. Surface area = 1622
+454: It is a tetrahedron: a = 20; density = 11. Surface area = 692.82
+455: It is a sphere: r = 20; density = 30. Surface area = 5026.55
+456: It is a tetrahedron: a = 20; density = 1. Surface area = 692.82
+457: It is a parallelepiped: a = 3, b = 4, c = 15; density = 1. Surface area = 234
+458: It is a parallelepiped: a = 26, b = 8, c = 13; density = 3. Surface area = 1300
+459: It is a parallelepiped: a = 2, b = 26, c = 27; density = 2. Surface area = 1616
+460: It is a sphere: r = 23; density = 16. Surface area = 6647.61
+461: It is a sphere: r = 19; density = 16. Surface area = 4536.46
+462: It is a parallelepiped: a = 4, b = 28, c = 27; density = 17. Surface area = 1952
+463: It is a parallelepiped: a = 19, b = 19, c = 28; density = 11. Surface area = 2850
+464: It is a tetrahedron: a = 1; density = 14. Surface area = 1.73205
+465: It is a tetrahedron: a = 1; density = 20. Surface area = 1.73205
+466: It is a parallelepiped: a = 1, b = 2, c = 29; density = 8. Surface area = 178
+467: It is a sphere: r = 24; density = 26. Surface area = 7238.23
+468: It is a tetrahedron: a = 15; density = 19. Surface area = 389.711
+469: It is a tetrahedron: a = 25; density = 7. Surface area = 1082.53
+470: It is a sphere: r = 11; density = 10. Surface area = 1520.53
+471: It is a sphere: r = 30; density = 18. Surface area = 11309.7
+472: It is a tetrahedron: a = 18; density = 6. Surface area = 561.184
+473: It is a sphere: r = 20; density = 8. Surface area = 5026.55
+474: It is a parallelepiped: a = 3, b = 9, c = 14; density = 14. Surface area = 390
+475: It is a sphere: r = 6; density = 7. Surface area = 452.389
+476: It is a parallelepiped: a = 5, b = 2, c = 4; density = 1. Surface area = 76
+477: It is a sphere: r = 10; density = 19. Surface area = 1256.64
+478: It is a sphere: r = 4; density = 25. Surface area = 201.062
+479: It is a sphere: r = 6; density = 27. Surface area = 452.389
+480: It is a parallelepiped: a = 27, b = 14, c = 20; density = 6. Surface area = 2396
+481: It is a tetrahedron: a = 11; density = 25. Surface area = 209.578
+482: It is a parallelepiped: a = 24, b = 20, c = 19; density = 30. Surface area = 2632
+483: It is a tetrahedron: a = 1; density = 27. Surface area = 1.73205
+484: It is a sphere: r = 3; density = 2. Surface area = 113.097
+485: It is a parallelepiped: a = 28, b = 2, c = 30; density = 7. Surface area = 1912
+486: It is a parallelepiped: a = 30, b = 2, c = 6; density = 18. Surface area = 504
+487: It is a tetrahedron: a = 24; density = 14. Surface area = 997.661
+488: It is a parallelepiped: a = 30, b = 4, c = 2; density = 11. Surface area = 376
+489: It is a tetrahedron: a = 26; density = 13. Surface area = 1170.87
+490: It is a sphere: r = 15; density = 2. Surface area = 2827.43
+491: It is a sphere: r = 18; density = 24. Surface area = 4071.5
+492: It is a tetrahedron: a = 19; density = 19. Surface area = 625.27
+493: It is a sphere: r = 21; density = 16. Surface area = 5541.77
+494: It is a parallelepiped: a = 20, b = 15, c = 22; density = 11. Surface area = 2140
+495: It is a sphere: r = 20; density = 20. Surface area = 5026.55
+496: It is a tetrahedron: a = 13; density = 26. Surface area = 292.717
+497: It is a tetrahedron: a = 4; density = 21. Surface area = 27.7128
+498: It is a sphere: r = 6; density = 26. Surface area = 452.389
+499: It is a tetrahedron: a = 19; density = 9. Surface area = 625.27
+500: It is a tetrahedron: a = 20; density = 21. Surface area = 692.82
+501: It is a tetrahedron: a = 5; density = 30. Surface area = 43.3013
+502: It is a sphere: r = 23; density = 1. Surface area = 6647.61
+503: It is a tetrahedron: a = 9; density = 12. Surface area = 140.296
+504: It is a parallelepiped: a = 23, b = 3, c = 28; density = 30. Surface area = 1594
+505: It is a parallelepiped: a = 17, b = 15, c = 27; density = 4. Surface area = 2238
+506: It is a parallelepiped: a = 30, b = 24, c = 12; density = 6. Surface area = 2736
+507: It is a parallelepiped: a = 2, b = 24, c = 28; density = 29. Surface area = 1552
+508: It is a parallelepiped: a = 11, b = 5, c = 9; density = 2. Surface area = 398
+509: It is a parallelepiped: a = 2, b = 2, c = 5; density = 2. Surface area = 48
+510: It is a sphere: r = 30; density = 16. Surface area = 11309.7
+511: It is a parallelepiped: a = 19, b = 15, c = 21; density = 6. Surface area = 1998
+512: It is a tetrahedron: a = 9; density = 9. Surface area = 140.296
+513: It is a parallelepiped: a = 1, b = 3, c = 10; density = 6. Surface area = 86
+514: It is a parallelepiped: a = 4, b = 21, c = 3; density = 2. Surface area = 318
+515: It is a parallelepiped: a = 5, b = 7, c = 17; density = 6. Surface area = 478
+516: It is a tetrahedron: a = 10; density = 8. Surface area = 173.205
+517: It is a parallelepiped: a = 11, b = 12, c = 23; density = 18. Surface area = 1322
+518: It is a parallelepiped: a = 12, b = 3, c = 2; density = 9. Surface area = 132
+519: It is a tetrahedron: a = 2; density = 17. Surface area = 6.9282
+520: It is a parallelepiped: a = 2, b = 11, c = 15; density = 29. Surface area = 434
+521: It is a sphere: r = 18; density = 11. Surface area = 4071.5
+522: It is a parallelepiped: a = 12, b = 27, c = 15; density = 10. Surface area = 1818
+523: It is a tetrahedron: a = 21; density = 6. Surface area = 763.834
+524: It is a tetrahedron: a = 20; density = 29. Surface area = 692.82
+525: It is a tetrahedron: a = 1; density = 22. Surface area = 1.73205
+526: It is a parallelepiped: a = 12, b = 25, c = 29; density = 5. Surface area = 2746
+527: It is a tetrahedron: a = 14; density = 6. Surface area = 339.482
+528: It is a parallelepiped: a = 27, b = 30, c = 22; density = 11. Surface area = 4128
+529: It is a sphere: r = 29; density = 21. Surface area = 10568.3
+530: It is a sphere: r = 9; density = 24. Surface area = 1017.88
+531: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+532: It is a tetrahedron: a = 6; density = 30. Surface area = 62.3538
+533: It is a tetrahedron: a = 25; density = 29. Surface area = 1082.53
+534: It is a tetrahedron: a = 17; density = 12. Surface area = 500.563
+535: It is a sphere: r = 28; density = 6. Surface area = 9852.03
+536: It is a sphere: r = 2; density = 8. Surface area = 50.2655
+537: It is a parallelepiped: a = 30, b = 10, c = 22; density = 21. Surface area = 2360
+538: It is a sphere: r = 24; density = 10. Surface area = 7238.23
+539: It is a sphere: r = 6; density = 10. Surface area = 452.389
+540: It is a sphere: r = 29; density = 29. Surface area = 10568.3
+541: It is a sphere: r = 1; density = 14. Surface area = 12.5664
+542: It is a tetrahedron: a = 23; density = 14. Surface area = 916.255
+543: It is a sphere: r = 13; density = 1. Surface area = 2123.72
+544: It is a tetrahedron: a = 16; density = 15. Surface area = 443.405
+545: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+546: It is a sphere: r = 12; density = 22. Surface area = 1809.56
+547: It is a tetrahedron: a = 21; density = 5. Surface area = 763.834
+548: It is a tetrahedron: a = 22; density = 20. Surface area = 838.313
+549: It is a tetrahedron: a = 5; density = 26. Surface area = 43.3013
+550: It is a sphere: r = 26; density = 24. Surface area = 8494.87
+551: It is a tetrahedron: a = 3; density = 17. Surface area = 15.5885
+552: It is a sphere: r = 6; density = 9. Surface area = 452.389
+553: It is a tetrahedron: a = 4; density = 13. Surface area = 27.7128
+554: It is a tetrahedron: a = 10; density = 28. Surface area = 173.205
+555: It is a tetrahedron: a = 13; density = 10. Surface area = 292.717
+556: It is a parallelepiped: a = 10, b = 21, c = 30; density = 28. Surface area = 2280
+557: It is a parallelepiped: a = 4, b = 6, c = 24; density = 24. Surface area = 528
+558: It is a tetrahedron: a = 28; density = 11. Surface area = 1357.93
+559: It is a sphere: r = 24; density = 4. Surface area = 7238.23
+560: It is a tetrahedron: a = 18; density = 20. Surface area = 561.184
+561: It is a tetrahedron: a = 23; density = 20. Surface area = 916.255
+562: It is a tetrahedron: a = 18; density = 2. Surface area = 561.184
+563: It is a tetrahedron: a = 27; density = 21. Surface area = 1262.67
+564: It is a tetrahedron: a = 2; density = 30. Surface area = 6.9282
+565: It is a parallelepiped: a = 3, b = 12, c = 11; density = 1. Surface area = 402
+566: It is a parallelepiped: a = 7, b = 28, c = 16; density = 22. Surface area = 1512
+567: It is a sphere: r = 6; density = 2. Surface area = 452.389
+568: It is a sphere: r = 21; density = 5. Surface area = 5541.77
+569: It is a sphere: r = 8; density = 17. Surface area = 804.248
+570: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+571: It is a tetrahedron: a = 18; density = 22. Surface area = 561.184
+572: It is a tetrahedron: a = 6; density = 12. Surface area = 62.3538
+573: It is a tetrahedron: a = 7; density = 4. Surface area = 84.8705
+574: It is a parallelepiped: a = 10, b = 15, c = 27; density = 2. Surface area = 1650
+575: It is a parallelepiped: a = 25, b = 21, c = 7; density = 16. Surface area = 1694
+576: It is a sphere: r = 12; density = 17. Surface area = 1809.56
+577: It is a parallelepiped: a = 24, b = 14, c = 6; density = 1. Surface area = 1128
+578: It is a sphere: r = 13; density = 22. Surface area = 2123.72
+579: It is a sphere: r = 3; density = 1. Surface area = 113.097
+580: It is a parallelepiped: a = 28, b = 7, c = 14; density = 25. Surface area = 1372
+581: It is a parallelepiped: a = 17, b = 3, c = 6; density = 23. Surface area = 342
+582: It is a tetrahedron: a = 29; density = 22. Surface area = 1456.65
+583: It is a sphere: r = 20; density = 28. Surface area = 5026.55
+584: It is a sphere: r = 15; density = 1. Surface area = 2827.43
+585: It is a sphere: r = 4; density = 24. Surface area = 201.062
+586: It is a parallelepiped: a = 9, b = 16, c = 14; density = 21. Surface area = 988
+587: It is a sphere: r = 24; density = 16. Surface area = 7238.23
+588: It is a parallelepiped: a = 26, b = 5, c = 6; density = 1. Surface area = 632
+589: It is a parallelepiped: a = 2, b = 9, c = 23; density = 30. Surface area = 542
+590: It is a sphere: r = 13; density = 28. Surface area = 2123.72
+591: It is a parallelepiped: a = 28, b = 9, c = 3; density = 21. Surface area = 726
+592: It is a parallelepiped: a = 3, b = 30, c = 19; density = 26. Surface area = 1434
+593: It is a parallelepiped: a = 27, b = 11, c = 19; density = 10. Surface area = 2038
+594: It is a sphere: r = 12; density = 25. Surface area = 1809.56
+595: It is a tetrahedron: a = 29; density = 29. Surface area = 1456.65
+596: It is a parallelepiped: a = 29, b = 19, c = 7; density = 7. Surface area = 1774
+597: It is a parallelepiped: a = 6, b = 30, c = 15; density = 4. Surface area = 1440
+598: It is a parallelepiped: a = 5, b = 4, c = 8; density = 25. Surface area = 184
+599: It is a sphere: r = 10; density = 16. Surface area = 1256.64
+600: It is a sphere: r = 28; density = 21. Surface area = 9852.03
+601: It is a tetrahedron: a = 30; density = 9. Surface area = 1558.85
+602: It is a tetrahedron: a = 1; density = 12. Surface area = 1.73205
+603: It is a sphere: r = 9; density = 11. Surface area = 1017.88
+604: It is a tetrahedron: a = 22; density = 1. Surface area = 838.313
+605: It is a tetrahedron: a = 21; density = 30. Surface area = 763.834
+606: It is a parallelepiped: a = 26, b = 21, c = 15; density = 21. Surface area = 2502
+607: It is a sphere: r = 19; density = 25. Surface area = 4536.46
+608: It is a parallelepiped: a = 5, b = 13, c = 4; density = 12. Surface area = 274
+609: It is a sphere: r = 23; density = 2. Surface area = 6647.61
+610: It is a sphere: r = 22; density = 10. Surface area = 6082.12
+611: It is a sphere: r = 23; density = 21. Surface area = 6647.61
+612: It is a parallelepiped: a = 23, b = 23, c = 2; density = 7. Surface area = 1242
+613: It is a sphere: r = 29; density = 27. Surface area = 10568.3
+614: It is a tetrahedron: a = 29; density = 22. Surface area = 1456.65
+615: It is a tetrahedron: a = 13; density = 13. Surface area = 292.717
+616: It is a tetrahedron: a = 1; density = 7. Surface area = 1.73205
+617: It is a tetrahedron: a = 27; density = 19. Surface area = 1262.67
+618: It is a tetrahedron: a = 8; density = 29. Surface area = 110.851
+619: It is a sphere: r = 9; density = 11. Surface area = 1017.88
+620: It is a parallelepiped: a = 10, b = 27, c = 7; density = 22. Surface area = 1058
+621: It is a parallelepiped: a = 30, b = 7, c = 4; density = 6. Surface area = 716
+622: It is a sphere: r = 2; density = 2. Surface area = 50.2655
+623: It is a sphere: r = 30; density = 23. Surface area = 11309.7
+624: It is a tetrahedron: a = 12; density = 27. Surface area = 249.415
+625: It is a tetrahedron: a = 4; density = 3. Surface area = 27.7128
+626: It is a parallelepiped: a = 22, b = 13, c = 7; density = 29. Surface area = 1062
+627: It is a tetrahedron: a = 8; density = 29. Surface area = 110.851
+628: It is a parallelepiped: a = 1, b = 8, c = 2; density = 7. Surface area = 52
+629: It is a tetrahedron: a = 12; density = 28. Surface area = 249.415
+630: It is a sphere: r = 7; density = 3. Surface area = 615.752
+631: It is a sphere: r = 9; density = 26. Surface area = 1017.88
+632: It is a sphere: r = 30; density = 11. Surface area = 11309.7
+633: It is a sphere: r = 4; density = 7. Surface area = 201.062
+634: It is a tetrahedron: a = 7; density = 10. Surface area = 84.8705
+635: It is a parallelepiped: a = 21, b = 14, c = 24; density = 19. Surface area = 2268
+636: It is a parallelepiped: a = 2, b = 10, c = 22; density = 24. Surface area = 568
+637: It is a parallelepiped: a = 23, b = 22, c = 8; density = 27. Surface area = 1732
+638: It is a parallelepiped: a = 5, b = 3, c = 14; density = 15. Surface area = 254
+639: It is a tetrahedron: a = 10; density = 30. Surface area = 173.205
+640: It is a tetrahedron: a = 20; density = 22. Surface area = 692.82
+641: It is a tetrahedron: a = 26; density = 28. Surface area = 1170.87
+642: It is a sphere: r = 27; density = 15. Surface area = 9160.88
+643: It is a tetrahedron: a = 3; density = 8. Surface area = 15.5885
+644: It is a parallelepiped: a = 11, b = 1, c = 14; density = 2. Surface area = 358
+645: It is a tetrahedron: a = 22; density = 16. Surface area = 838.313
+646: It is a parallelepiped: a = 30, b = 12, c = 19; density = 26. Surface area = 2316
+647: It is a sphere: r = 2; density = 11. Surface area = 50.2655
+648: It is a sphere: r = 3; density = 2. Surface area = 113.097
+649: It is a tetrahedron: a = 14; density = 24. Surface area = 339.482
+650: It is a tetrahedron: a = 2; density = 13. Surface area = 6.9282
+651: It is a sphere: r = 20; density = 27. Surface area = 5026.55
+652: It is a sphere: r = 22; density = 26. Surface area = 6082.12
+653: It is a parallelepiped: a = 2, b = 27, c = 28; density = 25. Surface area = 1732
+654: It is a tetrahedron: a = 20; density = 11. Surface area = 692.82
+655: It is a parallelepiped: a = 19, b = 14, c = 29; density = 6. Surface area = 2446
+656: It is a tetrahedron: a = 23; density = 16. Surface area = 916.255
+657: It is a sphere: r = 25; density = 10. Surface area = 7853.98
+658: It is a sphere: r = 9; density = 3. Surface area = 1017.88
+659: It is a sphere: r = 2; density = 7. Surface area = 50.2655
+660: It is a parallelepiped: a = 21, b = 3, c = 20; density = 13. Surface area = 1086
+661: It is a sphere: r = 5; density = 6. Surface area = 314.159
+662: It is a sphere: r = 2; density = 1. Surface area = 50.2655
+663: It is a parallelepiped: a = 21, b = 3, c = 22; density = 1. Surface area = 1182
+664: It is a parallelepiped: a = 21, b = 7, c = 12; density = 13. Surface area = 966
+665: It is a parallelepiped: a = 24, b = 29, c = 23; density = 30. Surface area = 3830
+666: It is a parallelepiped: a = 17, b = 28, c = 30; density = 23. Surface area = 3652
+667: It is a parallelepiped: a = 21, b = 17, c = 11; density = 25. Surface area = 1550
+668: It is a sphere: r = 15; density = 30. Surface area = 2827.43
+669: It is a sphere: r = 8; density = 22. Surface area = 804.248
+670: It is a tetrahedron: a = 29; density = 16. Surface area = 1456.65
+671: It is a sphere: r = 21; density = 16. Surface area = 5541.77
+672: It is a sphere: r = 19; density = 27. Surface area = 4536.46
+673: It is a sphere: r = 3; density = 20. Surface area = 113.097
+674: It is a parallelepiped: a = 17, b = 11, c = 16; density = 4. Surface area = 1270
+675: It is a sphere: r = 15; density = 18. Surface area = 2827.43
+676: It is a parallelepiped: a = 27, b = 5, c = 9; density = 21. Surface area = 846
+677: It is a parallelepiped: a = 15, b = 13, c = 24; density = 15. Surface area = 1734
+678: It is a parallelepiped: a = 19, b = 13, c = 12; density = 5. Surface area = 1262
+679: It is a sphere: r = 19; density = 11. Surface area = 4536.46
+680: It is a parallelepiped: a = 15, b = 29, c = 8; density = 26. Surface area = 1574
+681: It is a sphere: r = 16; density = 28. Surface area = 3216.99
+682: It is a parallelepiped: a = 11, b = 28, c = 21; density = 29. Surface area = 2254
+683: It is a tetrahedron: a = 17; density = 25. Surface area = 500.563
+684: It is a tetrahedron: a = 30; density = 5. Surface area = 1558.85
+685: It is a sphere: r = 4; density = 20. Surface area = 201.062
+686: It is a tetrahedron: a = 29; density = 8. Surface area = 1456.65
+687: It is a sphere: r = 2; density = 12. Surface area = 50.2655
+688: It is a parallelepiped: a = 20, b = 14, c = 21; density = 26. Surface area = 1988
+689: It is a sphere: r = 20; density = 21. Surface area = 5026.55
+690: It is a parallelepiped: a = 6, b = 11, c = 16; density = 16. Surface area = 676
+691: It is a parallelepiped: a = 6, b = 14, c = 26; density = 15. Surface area = 1208
+692: It is a parallelepiped: a = 15, b = 6, c = 4; density = 18. Surface area = 348
+693: It is a tetrahedron: a = 16; density = 27. Surface area = 443.405
+694: It is a parallelepiped: a = 15, b = 18, c = 1; density = 19. Surface area = 606
+695: It is a sphere: r = 12; density = 2. Surface area = 1809.56
+696: It is a parallelepiped: a = 8, b = 6, c = 27; density = 20. Surface area = 852
+697: It is a parallelepiped: a = 24, b = 30, c = 23; density = 10. Surface area = 3924
+698: It is a tetrahedron: a = 21; density = 15. Surface area = 763.834
+699: It is a sphere: r = 27; density = 15. Surface area = 9160.88
+700: It is a tetrahedron: a = 2; density = 10. Surface area = 6.9282
+701: It is a tetrahedron: a = 2; density = 25. Surface area = 6.9282
+702: It is a parallelepiped: a = 22, b = 10, c = 23; density = 22. Surface area = 1912
+703: It is a sphere: r = 10; density = 26. Surface area = 1256.64
+704: It is a tetrahedron: a = 9; density = 25. Surface area = 140.296
+705: It is a parallelepiped: a = 5, b = 6, c = 3; density = 21. Surface area = 126
+706: It is a tetrahedron: a = 18; density = 30. Surface area = 561.184
+707: It is a tetrahedron: a = 8; density = 6. Surface area = 110.851
+708: It is a tetrahedron: a = 26; density = 20. Surface area = 1170.87
+709: It is a sphere: r = 27; density = 30. Surface area = 9160.88
+710: It is a tetrahedron: a = 20; density = 16. Surface area = 692.82
+711: It is a tetrahedron: a = 11; density = 25. Surface area = 209.578
+712: It is a sphere: r = 25; density = 14. Surface area = 7853.98
+713: It is a sphere: r = 12; density = 27. Surface area = 1809.56
+714: It is a sphere: r = 6; density = 22. Surface area = 452.389
+715: It is a tetrahedron: a = 11; density = 17. Surface area = 209.578
+716: It is a tetrahedron: a = 8; density = 4. Surface area = 110.851
+717: It is a parallelepiped: a = 4, b = 3, c = 7; density = 17. Surface area = 122
+718: It is a sphere: r = 19; density = 8. Surface area = 4536.46
+719: It is a sphere: r = 18; density = 16. Surface area = 4071.5
+720: It is a parallelepiped: a = 25, b = 30, c = 7; density = 12. Surface area = 2270
+721: It is a parallelepiped: a = 23, b = 25, c = 6; density = 4. Surface area = 1726
+722: It is a sphere: r = 22; density = 1. Surface area = 6082.12
+723: It is a parallelepiped: a = 4, b = 4, c = 13; density = 6. Surface area = 240
+724: It is a tetrahedron: a = 16; density = 29. Surface area = 443.405
+725: It is a parallelepiped: a = 10, b = 27, c = 15; density = 7. Surface area = 1650
+726: It is a tetrahedron: a = 14; density = 14. Surface area = 339.482
+727: It is a tetrahedron: a = 29; density = 18. Surface area = 1456.65
+728: It is a sphere: r = 21; density = 16. Surface area = 5541.77
+729: It is a tetrahedron: a = 11; density = 9. Surface area = 209.578
+730: It is a sphere: r = 16; density = 4. Surface area = 3216.99
+731: It is a parallelepiped: a = 7, b = 5, c = 25; density = 2. Surface area = 670
+732: It is a parallelepiped: a = 7, b = 7, c = 2; density = 14. Surface area = 154
+733: It is a parallelepiped: a = 30, b = 23, c = 24; density = 14. Surface area = 3924
+734: It is a tetrahedron: a = 8; density = 27. Surface area = 110.851
+735: It is a sphere: r = 24; density = 18. Surface area = 7238.23
+736: It is a sphere: r = 12; density = 30. Surface area = 1809.56
+737: It is a parallelepiped: a = 3, b = 10, c = 20; density = 18. Surface area = 580
+738: It is a parallelepiped: a = 24, b = 8, c = 24; density = 28. Surface area = 1920
+739: It is a tetrahedron: a = 25; density = 27. Surface area = 1082.53
+740: It is a tetrahedron: a = 24; density = 28. Surface area = 997.661
+741: It is a parallelepiped: a = 20, b = 28, c = 27; density = 13. Surface area = 3712
+742: It is a tetrahedron: a = 9; density = 13. Surface area = 140.296
+743: It is a sphere: r = 4; density = 6. Surface area = 201.062
+744: It is a sphere: r = 16; density = 9. Surface area = 3216.99
+745: It is a tetrahedron: a = 6; density = 11. Surface area = 62.3538
+746: It is a sphere: r = 25; density = 20. Surface area = 7853.98
+747: It is a parallelepiped: a = 10, b = 20, c = 10; density = 29. Surface area = 1000
+748: It is a sphere: r = 27; density = 25. Surface area = 9160.88
+749: It is a sphere: r = 12; density = 15. Surface area = 1809.56
+750: It is a parallelepiped: a = 1, b = 4, c = 6; density = 14. Surface area = 68
+751: It is a tetrahedron: a = 6; density = 18. Surface area = 62.3538
+752: It is a sphere: r = 10; density = 23. Surface area = 1256.64
+753: It is a sphere: r = 25; density = 1. Surface area = 7853.98
+754: It is a tetrahedron: a = 22; density = 3. Surface area = 838.313
+755: It is a tetrahedron: a = 9; density = 22. Surface area = 140.296
+756: It is a parallelepiped: a = 18, b = 3, c = 6; density = 17. Surface area = 360
+757: It is a sphere: r = 24; density = 3. Surface area = 7238.23
+758: It is a parallelepiped: a = 5, b = 17, c = 6; density = 6. Surface area = 434
+759: It is a parallelepiped: a = 3, b = 11, c = 18; density = 9. Surface area = 570
+760: It is a sphere: r = 6; density = 18. Surface area = 452.389
+761: It is a tetrahedron: a = 25; density = 4. Surface area = 1082.53
+762: It is a tetrahedron: a = 4; density = 18. Surface area = 27.7128
+763: It is a tetrahedron: a = 14; density = 26. Surface area = 339.482
+764: It is a sphere: r = 18; density = 5. Surface area = 4071.5
+765: It is a sphere: r = 15; density = 13. Surface area = 2827.43
+766: It is a sphere: r = 9; density = 16. Surface area = 1017.88
+767: It is a parallelepiped: a = 13, b = 24, c = 23; density = 10. Surface area = 2326
+768: It is a tetrahedron: a = 26; density = 12. Surface area = 1170.87
+769: It is a parallelepiped: a = 26, b = 1, c = 20; density = 5. Surface area = 1132
+770: It is a tetrahedron: a = 6; density = 30. Surface area = 62.3538
+771: It is a tetrahedron: a = 2; density = 17. Surface area = 6.9282
+772: It is a parallelepiped: a = 15, b = 4, c = 9; density = 24. Surface area = 462
+773: It is a tetrahedron: a = 30; density = 8. Surface area = 1558.85
+774: It is a tetrahedron: a = 28; density = 8. Surface area = 1357.93
+775: It is a sphere: r = 23; density = 13. Surface area = 6647.61
+776: It is a sphere: r = 15; density = 14. Surface area = 2827.43
+777: It is a sphere: r = 2; density = 26. Surface area = 50.2655
+778: It is a parallelepiped: a = 19, b = 26, c = 22; density = 23. Surface area = 2968
+779: It is a parallelepiped: a = 20, b = 15, c = 14; density = 21. Surface area = 1580
+780: It is a sphere: r = 4; density = 5. Surface area = 201.062
+781: It is a parallelepiped: a = 4, b = 20, c = 5; density = 25. Surface area = 400
+782: It is a sphere: r = 17; density = 22. Surface area = 3631.68
+783: It is a sphere: r = 15; density = 14. Surface area = 2827.43
+784: It is a sphere: r = 28; density = 20. Surface area = 9852.03
+785: It is a parallelepiped: a = 16, b = 14, c = 1; density = 18. Surface area = 508
+786: It is a parallelepiped: a = 27, b = 1, c = 17; density = 26. Surface area = 1006
+787: It is a parallelepiped: a = 1, b = 9, c = 10; density = 23. Surface area = 218
+788: It is a sphere: r = 6; density = 19. Surface area = 452.389
+789: It is a sphere: r = 25; density = 23. Surface area = 7853.98
+790: It is a sphere: r = 6; density = 10. Surface area = 452.389
+791: It is a parallelepiped: a = 24, b = 16, c = 27; density = 16. Surface area = 2928
+792: It is a parallelepiped: a = 9, b = 29, c = 12; density = 22. Surface area = 1434
+793: It is a tetrahedron: a = 21; density = 15. Surface area = 763.834
+794: It is a tetrahedron: a = 21; density = 23. Surface area = 763.834
+795: It is a sphere: r = 11; density = 15. Surface area = 1520.53
+796: It is a sphere: r = 20; density = 8. Surface area = 5026.55
+797: It is a parallelepiped: a = 18, b = 26, c = 15; density = 4. Surface area = 2256
+798: It is a parallelepiped: a = 8, b = 9, c = 12; density = 21. Surface area = 552
+799: It is a tetrahedron: a = 19; density = 18. Surface area = 625.27
+800: It is a tetrahedron: a = 23; density = 18. Surface area = 916.255
+801: It is a parallelepiped: a = 26, b = 9, c = 29; density = 16. Surface area = 2498
+802: It is a tetrahedron: a = 16; density = 6. Surface area = 443.405
+803: It is a parallelepiped: a = 20, b = 16, c = 22; density = 2. Surface area = 2224
+804: It is a sphere: r = 21; density = 10. Surface area = 5541.77
+805: It is a tetrahedron: a = 17; density = 25. Surface area = 500.563
+806: It is a tetrahedron: a = 27; density = 2. Surface area = 1262.67
+807: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+808: It is a tetrahedron: a = 18; density = 1. Surface area = 561.184
+809: It is a tetrahedron: a = 10; density = 18. Surface area = 173.205
+810: It is a parallelepiped: a = 5, b = 18, c = 10; density = 12. Surface area = 640
+811: It is a sphere: r = 25; density = 17. Surface area = 7853.98
+812: It is a parallelepiped: a = 6, b = 3, c = 15; density = 29. Surface area = 306
+813: It is a sphere: r = 6; density = 9. Surface area = 452.389
+814: It is a tetrahedron: a = 14; density = 3. Surface area = 339.482
+815: It is a tetrahedron: a = 2; density = 26. Surface area = 6.9282
+816: It is a sphere: r = 1; density = 17. Surface area = 12.5664
+817: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+818: It is a sphere: r = 19; density = 19. Surface area = 4536.46
+819: It is a tetrahedron: a = 15; density = 7. Surface area = 389.711
+820: It is a tetrahedron: a = 26; density = 1. Surface area = 1170.87
+821: It is a sphere: r = 12; density = 24. Surface area = 1809.56
+822: It is a tetrahedron: a = 6; density = 8. Surface area = 62.3538
+823: It is a sphere: r = 27; density = 5. Surface area = 9160.88
+824: It is a sphere: r = 2; density = 18. Surface area = 50.2655
+825: It is a tetrahedron: a = 9; density = 11. Surface area = 140.296
+826: It is a sphere: r = 3; density = 11. Surface area = 113.097
+827: It is a sphere: r = 1; density = 20. Surface area = 12.5664
+828: It is a sphere: r = 11; density = 30. Surface area = 1520.53
+829: It is a parallelepiped: a = 10, b = 14, c = 29; density = 18. Surface area = 1672
+830: It is a tetrahedron: a = 21; density = 4. Surface area = 763.834
+831: It is a sphere: r = 14; density = 3. Surface area = 2463.01
+832: It is a tetrahedron: a = 14; density = 23. Surface area = 339.482
+833: It is a tetrahedron: a = 10; density = 20. Surface area = 173.205
+834: It is a parallelepiped: a = 20, b = 12, c = 8; density = 30. Surface area = 992
+835: It is a sphere: r = 3; density = 3. Surface area = 113.097
+836: It is a parallelepiped: a = 3, b = 14, c = 27; density = 14. Surface area = 1002
+837: It is a parallelepiped: a = 20, b = 15, c = 27; density = 18. Surface area = 2490
+838: It is a sphere: r = 28; density = 1. Surface area = 9852.03
+839: It is a sphere: r = 10; density = 6. Surface area = 1256.64
+840: It is a parallelepiped: a = 19, b = 11, c = 15; density = 3. Surface area = 1318
+841: It is a tetrahedron: a = 26; density = 3. Surface area = 1170.87
+842: It is a sphere: r = 29; density = 10. Surface area = 10568.3
+843: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+844: It is a sphere: r = 19; density = 7. Surface area = 4536.46
+845: It is a tetrahedron: a = 8; density = 12. Surface area = 110.851
+846: It is a sphere: r = 27; density = 18. Surface area = 9160.88
+847: It is a sphere: r = 6; density = 12. Surface area = 452.389
+848: It is a sphere: r = 6; density = 2. Surface area = 452.389
+849: It is a sphere: r = 12; density = 24. Surface area = 1809.56
+850: It is a tetrahedron: a = 22; density = 30. Surface area = 838.313
+851: It is a parallelepiped: a = 4, b = 17, c = 23; density = 13. Surface area = 1102
+852: It is a sphere: r = 25; density = 6. Surface area = 7853.98
+853: It is a sphere: r = 28; density = 30. Surface area = 9852.03
+854: It is a parallelepiped: a = 26, b = 8, c = 21; density = 7. Surface area = 1844
+855: It is a tetrahedron: a = 17; density = 25. Surface area = 500.563
+856: It is a sphere: r = 23; density = 28. Surface area = 6647.61
+857: It is a sphere: r = 28; density = 29. Surface area = 9852.03
+858: It is a tetrahedron: a = 1; density = 14. Surface area = 1.73205
+859: It is a parallelepiped: a = 15, b = 13, c = 1; density = 18. Surface area = 446
+860: It is a tetrahedron: a = 16; density = 23. Surface area = 443.405
+861: It is a sphere: r = 10; density = 28. Surface area = 1256.64
+862: It is a sphere: r = 7; density = 19. Surface area = 615.752
+863: It is a parallelepiped: a = 3, b = 27, c = 14; density = 1. Surface area = 1002
+864: It is a parallelepiped: a = 30, b = 17, c = 9; density = 22. Surface area = 1866
+865: It is a sphere: r = 16; density = 12. Surface area = 3216.99
+866: It is a parallelepiped: a = 22, b = 12, c = 19; density = 24. Surface area = 1820
+867: It is a tetrahedron: a = 23; density = 24. Surface area = 916.255
+868: It is a tetrahedron: a = 22; density = 9. Surface area = 838.313
+869: It is a parallelepiped: a = 28, b = 10, c = 17; density = 29. Surface area = 1852
+870: It is a parallelepiped: a = 5, b = 22, c = 11; density = 23. Surface area = 814
+871: It is a parallelepiped: a = 3, b = 2, c = 4; density = 12. Surface area = 52
+872: It is a sphere: r = 18; density = 18. Surface area = 4071.5
+873: It is a parallelepiped: a = 21, b = 14, c = 30; density = 24. Surface area = 2688
+874: It is a tetrahedron: a = 23; density = 12. Surface area = 916.255
+875: It is a parallelepiped: a = 17, b = 17, c = 30; density = 17. Surface area = 2618
+876: It is a tetrahedron: a = 28; density = 27. Surface area = 1357.93
+877: It is a parallelepiped: a = 26, b = 5, c = 10; density = 9. Surface area = 880
+878: It is a sphere: r = 25; density = 13. Surface area = 7853.98
+879: It is a tetrahedron: a = 26; density = 9. Surface area = 1170.87
+880: It is a tetrahedron: a = 27; density = 18. Surface area = 1262.67
+881: It is a parallelepiped: a = 6, b = 8, c = 13; density = 5. Surface area = 460
+882: It is a sphere: r = 6; density = 28. Surface area = 452.389
+883: It is a tetrahedron: a = 14; density = 6. Surface area = 339.482
+884: It is a parallelepiped: a = 14, b = 22, c = 17; density = 3. Surface area = 1840
+885: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+886: It is a parallelepiped: a = 24, b = 29, c = 20; density = 18. Surface area = 3512
+887: It is a parallelepiped: a = 21, b = 5, c = 19; density = 2. Surface area = 1198
+888: It is a parallelepiped: a = 28, b = 23, c = 28; density = 5. Surface area = 4144
+889: It is a tetrahedron: a = 25; density = 6. Surface area = 1082.53
+890: It is a tetrahedron: a = 22; density = 9. Surface area = 838.313
+891: It is a parallelepiped: a = 19, b = 21, c = 21; density = 2. Surface area = 2478
+892: It is a parallelepiped: a = 23, b = 12, c = 21; density = 12. Surface area = 2022
+893: It is a parallelepiped: a = 14, b = 10, c = 7; density = 23. Surface area = 616
+894: It is a tetrahedron: a = 19; density = 27. Surface area = 625.27
+895: It is a sphere: r = 12; density = 19. Surface area = 1809.56
+896: It is a parallelepiped: a = 4, b = 9, c = 3; density = 30. Surface area = 150
+897: It is a tetrahedron: a = 30; density = 24. Surface area = 1558.85
+898: It is a sphere: r = 1; density = 1. Surface area = 12.5664
+899: It is a sphere: r = 21; density = 13. Surface area = 5541.77
+900: It is a tetrahedron: a = 19; density = 5. Surface area = 625.27
+901: It is a parallelepiped: a = 1, b = 16, c = 25; density = 6. Surface area = 882
+902: It is a parallelepiped: a = 23, b = 28, c = 8; density = 3. Surface area = 2104
+903: It is a tetrahedron: a = 8; density = 14. Surface area = 110.851
+904: It is a parallelepiped: a = 28, b = 10, c = 13; density = 23. Surface area = 1548
+905: It is a tetrahedron: a = 15; density = 14. Surface area = 389.711
+906: It is a tetrahedron: a = 30; density = 14. Surface area = 1558.85
+907: It is a sphere: r = 25; density = 26. Surface area = 7853.98
+908: It is a sphere: r = 21; density = 15. Surface area = 5541.77
+909: It is a tetrahedron: a = 21; density = 7. Surface area = 763.834
+910: It is a sphere: r = 7; density = 13. Surface area = 615.752
+911: It is a tetrahedron: a = 21; density = 10. Surface area = 763.834
+912: It is a sphere: r = 23; density = 26. Surface area = 6647.61
+913: It is a tetrahedron: a = 28; density = 30. Surface area = 1357.93
+914: It is a parallelepiped: a = 7, b = 12, c = 15; density = 8. Surface area = 738
+915: It is a tetrahedron: a = 28; density = 23. Surface area = 1357.93
+916: It is a parallelepiped: a = 4, b = 9, c = 3; density = 29. Surface area = 150
+917: It is a sphere: r = 15; density = 5. Surface area = 2827.43
+918: It is a sphere: r = 5; density = 12. Surface area = 314.159
+919: It is a parallelepiped: a = 3, b = 16, c = 11; density = 23. Surface area = 514
+920: It is a sphere: r = 14; density = 15. Surface area = 2463.01
+921: It is a parallelepiped: a = 8, b = 13, c = 11; density = 30. Surface area = 670
+922: It is a sphere: r = 22; density = 6. Surface area = 6082.12
+923: It is a tetrahedron: a = 9; density = 26. Surface area = 140.296
+924: It is a parallelepiped: a = 17, b = 21, c = 19; density = 11. Surface area = 2158
+925: It is a sphere: r = 8; density = 26. Surface area = 804.248
+926: It is a sphere: r = 21; density = 30. Surface area = 5541.77
+927: It is a tetrahedron: a = 13; density = 3. Surface area = 292.717
+928: It is a sphere: r = 23; density = 17. Surface area = 6647.61
+929: It is a sphere: r = 28; density = 2. Surface area = 9852.03
+930: It is a sphere: r = 28; density = 6. Surface area = 9852.03
+931: It is a tetrahedron: a = 19; density = 16. Surface area = 625.27
+932: It is a parallelepiped: a = 17, b = 4, c = 4; density = 4. Surface area = 304
+933: It is a parallelepiped: a = 13, b = 24, c = 24; density = 23. Surface area = 2400
+934: It is a tetrahedron: a = 23; density = 18. Surface area = 916.255
+935: It is a sphere: r = 14; density = 10. Surface area = 2463.01
+936: It is a sphere: r = 18; density = 4. Surface area = 4071.5
+937: It is a sphere: r = 3; density = 20. Surface area = 113.097
+938: It is a tetrahedron: a = 22; density = 13. Surface area = 838.313
+939: It is a sphere: r = 11; density = 10. Surface area = 1520.53
+940: It is a tetrahedron: a = 30; density = 26. Surface area = 1558.85
+941: It is a sphere: r = 16; density = 21. Surface area = 3216.99
+942: It is a tetrahedron: a = 19; density = 26. Surface area = 625.27
+943: It is a tetrahedron: a = 12; density = 19. Surface area = 249.415
+944: It is a parallelepiped: a = 15, b = 3, c = 9; density = 26. Surface area = 414
+945: It is a sphere: r = 10; density = 2. Surface area = 1256.64
+946: It is a parallelepiped: a = 5, b = 12, c = 20; density = 16. Surface area = 800
+947: It is a parallelepiped: a = 11, b = 29, c = 3; density = 22. Surface area = 878
+948: It is a parallelepiped: a = 14, b = 13, c = 25; density = 13. Surface area = 1714
+949: It is a parallelepiped: a = 15, b = 15, c = 8; density = 10. Surface area = 930
+950: It is a tetrahedron: a = 11; density = 20. Surface area = 209.578
+951: It is a sphere: r = 17; density = 23. Surface area = 3631.68
+952: It is a sphere: r = 12; density = 30. Surface area = 1809.56
+953: It is a parallelepiped: a = 6, b = 17, c = 24; density = 17. Surface area = 1308
+954: It is a tetrahedron: a = 10; density = 19. Surface area = 173.205
+955: It is a tetrahedron: a = 30; density = 13. Surface area = 1558.85
+956: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+957: It is a sphere: r = 24; density = 8. Surface area = 7238.23
+958: It is a parallelepiped: a = 30, b = 14, c = 22; density = 2. Surface area = 2776
+959: It is a sphere: r = 24; density = 21. Surface area = 7238.23
+960: It is a tetrahedron: a = 10; density = 5. Surface area = 173.205
+961: It is a tetrahedron: a = 14; density = 27. Surface area = 339.482
+962: It is a parallelepiped: a = 11, b = 13, c = 8; density = 19. Surface area = 670
+963: It is a parallelepiped: a = 17, b = 29, c = 19; density = 16. Surface area = 2734
+964: It is a parallelepiped: a = 10, b = 7, c = 6; density = 5. Surface area = 344
+965: It is a tetrahedron: a = 6; density = 27. Surface area = 62.3538
+966: It is a tetrahedron: a = 19; density = 18. Surface area = 625.27
+967: It is a sphere: r = 15; density = 11. Surface area = 2827.43
+968: It is a parallelepiped: a = 29, b = 12, c = 1; density = 23. Surface area = 778
+969: It is a parallelepiped: a = 19, b = 7, c = 27; density = 2. Surface area = 1670
+970: It is a tetrahedron: a = 15; density = 4. Surface area = 389.711
+971: It is a sphere: r = 13; density = 22. Surface area = 2123.72
+972: It is a tetrahedron: a = 23; density = 23. Surface area = 916.255
+973: It is a tetrahedron: a = 21; density = 27. Surface area = 763.834
+974: It is a tetrahedron: a = 18; density = 23. Surface area = 561.184
+975: It is a tetrahedron: a = 28; density = 2. Surface area = 1357.93
+976: It is a parallelepiped: a = 12, b = 4, c = 28; density = 2. Surface area = 992
+977: It is a tetrahedron: a = 28; density = 25. Surface area = 1357.93
+978: It is a parallelepiped: a = 17, b = 1, c = 20; density = 10. Surface area = 754
+979: It is a tetrahedron: a = 5; density = 13. Surface area = 43.3013
+980: It is a parallelepiped: a = 9, b = 26, c = 8; density = 2. Surface area = 1028
+981: It is a tetrahedron: a = 14; density = 14. Surface area = 339.482
+982: It is a parallelepiped: a = 11, b = 1, c = 6; density = 28. Surface area = 166
+983: It is a parallelepiped: a = 29, b = 29, c = 2; density = 2. Surface area = 1914
+984: It is a parallelepiped: a = 3, b = 16, c = 16; density = 19. Surface area = 704
+985: It is a tetrahedron: a = 24; density = 20. Surface area = 997.661
+986: It is a tetrahedron: a = 3; density = 26. Surface area = 15.5885
+987: It is a parallelepiped: a = 7, b = 25, c = 25; density = 2. Surface area = 1950
+988: It is a parallelepiped: a = 18, b = 19, c = 15; density = 1. Surface area = 1794
+989: It is a parallelepiped: a = 25, b = 23, c = 29; density = 15. Surface area = 3934
+990: It is a sphere: r = 27; density = 5. Surface area = 9160.88
+991: It is a tetrahedron: a = 20; density = 23. Surface area = 692.82
+992: It is a tetrahedron: a = 27; density = 8. Surface area = 1262.67
+993: It is a sphere: r = 28; density = 23. Surface area = 9852.03
+994: It is a tetrahedron: a = 18; density = 25. Surface area = 561.184
+995: It is a parallelepiped: a = 4, b = 23, c = 12; density = 28. Surface area = 832
+996: It is a tetrahedron: a = 13; density = 16. Surface area = 292.717
+997: It is a sphere: r = 20; density = 8. Surface area = 5026.55
+998: It is a parallelepiped: a = 6, b = 1, c = 25; density = 20. Surface area = 362
+999: It is a parallelepiped: a = 13, b = 17, c = 2; density = 2. Surface area = 562

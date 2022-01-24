@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw5/build",
+  "command": "/usr/bin/c++    -pthread -O3 -DNDEBUG   -o CMakeFiles/HW5.dir/main.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw5/main.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw5/main.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw5/build",
+  "command": "/usr/bin/c++    -pthread -O3 -DNDEBUG   -o CMakeFiles/HW5.dir/map.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw5/map.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw5/map.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw5/build",
+  "command": "/usr/bin/c++    -pthread -O3 -DNDEBUG   -o CMakeFiles/HW5.dir/groupOfPirates.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw5/groupOfPirates.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw5/groupOfPirates.cpp"
+},
+{
+  "directory": "/home/dshepett/Рабочий стол/avs/hw5/build",
+  "command": "/usr/bin/c++    -pthread -O3 -DNDEBUG   -o CMakeFiles/HW5.dir/captainSilver.cpp.o -c \"/home/dshepett/Рабочий стол/avs/hw5/captainSilver.cpp\"",
+  "file": "/home/dshepett/Рабочий стол/avs/hw5/captainSilver.cpp"
+}
+]

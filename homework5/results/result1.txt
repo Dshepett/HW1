@@ -1,0 +1,5 @@
+1771 9149 4362 
+4045 11013 970 
+1560 587 10971 
+The treasure has value = 11013 and is located on this coordinates: 1 1
+Time 1 ms.

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dshepett/Рабочий стол/avs/hw2/container.h
+shape.h
+/home/dshepett/Рабочий стол/avs/hw2/shape.h
+
+/home/dshepett/Рабочий стол/avs/hw2/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+cstring
+-
+container.h
+/home/dshepett/Рабочий стол/avs/hw2/container.h
+
+/home/dshepett/Рабочий стол/avs/hw2/rnd.h
+cstdlib
+-
+ctime
+-
+
+/home/dshepett/Рабочий стол/avs/hw2/shape.h
+fstream
+-
+rnd.h
+/home/dshepett/Рабочий стол/avs/hw2/rnd.h
+

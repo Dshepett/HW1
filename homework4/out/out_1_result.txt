@@ -1,0 +1,6 @@
+Average Surface Area = 2538.3
+Calculaton time = 9.99999e-07
+Container contains 3 elements.
+1: It is a Parallelepiped: a = 23, b = 17, c = 21, density = 11. Surface area = 2462
+2: It is a Parallelepiped: a = 5, b = 17, c = 7, density = 18. Surface area = 478
+3: It is a Sphere: x = 14, density = 29. Surface Area = 2463.01

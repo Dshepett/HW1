@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW2.dir/container.cpp.o CMakeFiles/HW2.dir/main.cpp.o CMakeFiles/HW2.dir/parallelepiped.cpp.o CMakeFiles/HW2.dir/shape.cpp.o CMakeFiles/HW2.dir/sphere.cpp.o CMakeFiles/HW2.dir/tetrahedron.cpp.o  -o ../bin/HW2 

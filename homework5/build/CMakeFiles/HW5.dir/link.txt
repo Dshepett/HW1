@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -O3 -DNDEBUG   CMakeFiles/HW5.dir/main.cpp.o CMakeFiles/HW5.dir/map.cpp.o CMakeFiles/HW5.dir/groupOfPirates.cpp.o CMakeFiles/HW5.dir/captainSilver.cpp.o  -o ../bin/HW5 

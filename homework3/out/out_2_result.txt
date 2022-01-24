@@ -1,0 +1,71 @@
+Container after function stores 69 shapes:
+Tetrahedron: a = 6; Density = 22; SurfaceArea = 62.35382907247958
+Sphere: r = 7; Density = 23; SurfaceArea = 615.7521601035994
+Sphere: r = 5; Density = 30; SurfaceArea = 314.1592653589793
+Tetrahedron: a = 4; Density = 23; SurfaceArea = 27.712812921102035
+Parallelepiped: a = 7, b = 15, c = 1; Density = 7; SurfaceArea = 254.0
+Tetrahedron: a = 10; Density = 7; SurfaceArea = 173.20508075688772
+Tetrahedron: a = 1; Density = 10; SurfaceArea = 1.7320508075688772
+Parallelepiped: a = 5, b = 30, c = 21; Density = 5; SurfaceArea = 1770.0
+Parallelepiped: a = 23, b = 16, c = 3; Density = 30; SurfaceArea = 970.0
+Tetrahedron: a = 22; Density = 1; SurfaceArea = 838.3125908633366
+Tetrahedron: a = 29; Density = 16; SurfaceArea = 1456.6547291654258
+Parallelepiped: a = 23, b = 3, c = 20; Density = 12; SurfaceArea = 1178.0
+Tetrahedron: a = 11; Density = 4; SurfaceArea = 209.57814771583415
+Parallelepiped: a = 19, b = 6, c = 12; Density = 3; SurfaceArea = 828.0
+Tetrahedron: a = 23; Density = 17; SurfaceArea = 916.2548772039361
+Tetrahedron: a = 5; Density = 25; SurfaceArea = 43.30127018922193
+Tetrahedron: a = 26; Density = 11; SurfaceArea = 1170.866345916561
+Tetrahedron: a = 3; Density = 12; SurfaceArea = 15.588457268119894
+Parallelepiped: a = 23, b = 6, c = 24; Density = 30; SurfaceArea = 1668.0
+Sphere: r = 1; Density = 23; SurfaceArea = 12.566370614359172
+Sphere: r = 11; Density = 10; SurfaceArea = 1520.53084433746
+Parallelepiped: a = 13, b = 17, c = 20; Density = 27; SurfaceArea = 1642.0
+Parallelepiped: a = 16, b = 19, c = 18; Density = 15; SurfaceArea = 1868.0
+Parallelepiped: a = 12, b = 14, c = 29; Density = 8; SurfaceArea = 1844.0
+Parallelepiped: a = 20, b = 9, c = 16; Density = 18; SurfaceArea = 1288.0
+Sphere: r = 2; Density = 8; SurfaceArea = 50.26548245743669
+Tetrahedron: a = 12; Density = 30; SurfaceArea = 249.4153162899183
+Tetrahedron: a = 23; Density = 1; SurfaceArea = 916.2548772039361
+Tetrahedron: a = 10; Density = 6; SurfaceArea = 173.20508075688772
+Tetrahedron: a = 18; Density = 5; SurfaceArea = 561.1844616523163
+Tetrahedron: a = 2; Density = 18; SurfaceArea = 6.928203230275509
+Tetrahedron: a = 27; Density = 18; SurfaceArea = 1262.6650387177115
+Sphere: r = 7; Density = 29; SurfaceArea = 615.7521601035994
+Parallelepiped: a = 2, b = 19, c = 28; Density = 9; SurfaceArea = 1252.0
+Parallelepiped: a = 15, b = 22, c = 17; Density = 9; SurfaceArea = 1918.0
+Tetrahedron: a = 26; Density = 26; SurfaceArea = 1170.866345916561
+Parallelepiped: a = 9, b = 1, c = 7; Density = 8; SurfaceArea = 158.0
+Parallelepiped: a = 20, b = 3, c = 12; Density = 4; SurfaceArea = 672.0
+Tetrahedron: a = 3; Density = 14; SurfaceArea = 15.588457268119894
+Parallelepiped: a = 7, b = 5, c = 21; Density = 23; SurfaceArea = 574.0
+Sphere: r = 2; Density = 20; SurfaceArea = 50.26548245743669
+Tetrahedron: a = 30; Density = 16; SurfaceArea = 1558.8457268119894
+Parallelepiped: a = 9, b = 13, c = 23; Density = 12; SurfaceArea = 1246.0
+Parallelepiped: a = 16, b = 6, c = 8; Density = 15; SurfaceArea = 544.0
+Tetrahedron: a = 28; Density = 16; SurfaceArea = 1357.9278331339997
+Parallelepiped: a = 17, b = 5, c = 6; Density = 6; SurfaceArea = 434.0
+Parallelepiped: a = 16, b = 16, c = 10; Density = 4; SurfaceArea = 1152.0
+Sphere: r = 3; Density = 19; SurfaceArea = 113.09733552923255
+Parallelepiped: a = 24, b = 3, c = 1; Density = 3; SurfaceArea = 198.0
+Tetrahedron: a = 8; Density = 10; SurfaceArea = 110.85125168440814
+Parallelepiped: a = 7, b = 16, c = 1; Density = 22; SurfaceArea = 270.0
+Parallelepiped: a = 20, b = 4, c = 6; Density = 6; SurfaceArea = 448.0
+Parallelepiped: a = 6, b = 15, c = 11; Density = 22; SurfaceArea = 642.0
+Tetrahedron: a = 28; Density = 25; SurfaceArea = 1357.9278331339997
+Sphere: r = 1; Density = 21; SurfaceArea = 12.566370614359172
+Sphere: r = 5; Density = 26; SurfaceArea = 314.1592653589793
+Sphere: r = 5; Density = 19; SurfaceArea = 314.1592653589793
+Sphere: r = 11; Density = 29; SurfaceArea = 1520.53084433746
+Parallelepiped: a = 29, b = 15, c = 11; Density = 26; SurfaceArea = 1838.0
+Sphere: r = 2; Density = 14; SurfaceArea = 50.26548245743669
+Parallelepiped: a = 3, b = 2, c = 21; Density = 22; SurfaceArea = 222.0
+Tetrahedron: a = 6; Density = 4; SurfaceArea = 62.35382907247958
+Tetrahedron: a = 3; Density = 22; SurfaceArea = 15.588457268119894
+Sphere: r = 11; Density = 22; SurfaceArea = 1520.53084433746
+Sphere: r = 12; Density = 24; SurfaceArea = 1809.5573684677208
+Tetrahedron: a = 26; Density = 9; SurfaceArea = 1170.866345916561
+Tetrahedron: a = 6; Density = 20; SurfaceArea = 62.35382907247958
+Tetrahedron: a = 10; Density = 8; SurfaceArea = 173.20508075688772
+Tetrahedron: a = 17; Density = 11; SurfaceArea = 500.5626833874055
+Time: 0.020966291427612305 seconds.

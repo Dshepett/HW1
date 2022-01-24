@@ -1,0 +1,7 @@
+Surface area AVG = 2415.6
+Figures with surface area greater than AVG: 
+Container contains 3 elements.
+0: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+1: It is a sphere: r = 30; density = 19. Surface area = 11309.7
+2: It is a sphere: r = 16; density = 21. Surface area = 3216.99
+Time: 0.000325 s.

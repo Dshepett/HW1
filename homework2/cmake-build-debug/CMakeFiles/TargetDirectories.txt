@@ -1,0 +1,3 @@
+D:/HSE/2 course/АВС/hw2/cmake-build-debug/CMakeFiles/HW2.dir
+D:/HSE/2 course/АВС/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HSE/2 course/АВС/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

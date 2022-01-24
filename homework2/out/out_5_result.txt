@@ -1,0 +1,1415 @@
+Surface area AVG = 2019.01
+Figures with surface area greater than AVG: 
+Container contains 1411 elements.
+0: It is a parallelepiped: a = 11, b = 29, c = 23; density = 2. Surface area = 2478
+1: It is a parallelepiped: a = 25, b = 30, c = 7; density = 21. Surface area = 2270
+2: It is a sphere: r = 18; density = 23. Surface area = 4071.5
+3: It is a sphere: r = 15; density = 14. Surface area = 2827.43
+4: It is a parallelepiped: a = 14, b = 28, c = 17; density = 15. Surface area = 2212
+5: It is a sphere: r = 20; density = 26. Surface area = 5026.55
+6: It is a parallelepiped: a = 13, b = 29, c = 27; density = 2. Surface area = 3022
+7: It is a sphere: r = 28; density = 10. Surface area = 9852.03
+8: It is a sphere: r = 13; density = 23. Surface area = 2123.72
+9: It is a sphere: r = 28; density = 13. Surface area = 9852.03
+10: It is a sphere: r = 27; density = 6. Surface area = 9160.88
+11: It is a sphere: r = 21; density = 16. Surface area = 5541.77
+12: It is a sphere: r = 20; density = 27. Surface area = 5026.55
+13: It is a parallelepiped: a = 28, b = 20, c = 11; density = 14. Surface area = 2176
+14: It is a sphere: r = 27; density = 24. Surface area = 9160.88
+15: It is a sphere: r = 18; density = 28. Surface area = 4071.5
+16: It is a sphere: r = 16; density = 26. Surface area = 3216.99
+17: It is a parallelepiped: a = 23, b = 27, c = 15; density = 1. Surface area = 2742
+18: It is a parallelepiped: a = 27, b = 21, c = 18; density = 12. Surface area = 2862
+19: It is a sphere: r = 29; density = 4. Surface area = 10568.3
+20: It is a parallelepiped: a = 21, b = 12, c = 30; density = 16. Surface area = 2484
+21: It is a sphere: r = 29; density = 3. Surface area = 10568.3
+22: It is a sphere: r = 23; density = 19. Surface area = 6647.61
+23: It is a parallelepiped: a = 12, b = 25, c = 21; density = 11. Surface area = 2154
+24: It is a parallelepiped: a = 10, b = 21, c = 29; density = 1. Surface area = 2218
+25: It is a sphere: r = 21; density = 27. Surface area = 5541.77
+26: It is a sphere: r = 25; density = 21. Surface area = 7853.98
+27: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+28: It is a parallelepiped: a = 29, b = 22, c = 30; density = 22. Surface area = 4336
+29: It is a sphere: r = 15; density = 13. Surface area = 2827.43
+30: It is a sphere: r = 24; density = 25. Surface area = 7238.23
+31: It is a sphere: r = 25; density = 2. Surface area = 7853.98
+32: It is a sphere: r = 16; density = 29. Surface area = 3216.99
+33: It is a sphere: r = 28; density = 19. Surface area = 9852.03
+34: It is a sphere: r = 28; density = 8. Surface area = 9852.03
+35: It is a sphere: r = 28; density = 13. Surface area = 9852.03
+36: It is a sphere: r = 18; density = 26. Surface area = 4071.5
+37: It is a sphere: r = 14; density = 9. Surface area = 2463.01
+38: It is a sphere: r = 23; density = 19. Surface area = 6647.61
+39: It is a sphere: r = 20; density = 13. Surface area = 5026.55
+40: It is a sphere: r = 14; density = 10. Surface area = 2463.01
+41: It is a sphere: r = 26; density = 18. Surface area = 8494.87
+42: It is a parallelepiped: a = 26, b = 27, c = 20; density = 9. Surface area = 3524
+43: It is a parallelepiped: a = 28, b = 28, c = 7; density = 5. Surface area = 2352
+44: It is a sphere: r = 28; density = 14. Surface area = 9852.03
+45: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+46: It is a parallelepiped: a = 17, b = 28, c = 30; density = 17. Surface area = 3652
+47: It is a sphere: r = 24; density = 12. Surface area = 7238.23
+48: It is a sphere: r = 16; density = 1. Surface area = 3216.99
+49: It is a parallelepiped: a = 29, b = 3, c = 30; density = 4. Surface area = 2094
+50: It is a sphere: r = 20; density = 7. Surface area = 5026.55
+51: It is a parallelepiped: a = 28, b = 29, c = 23; density = 2. Surface area = 4246
+52: It is a sphere: r = 17; density = 23. Surface area = 3631.68
+53: It is a sphere: r = 22; density = 25. Surface area = 6082.12
+54: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+55: It is a sphere: r = 15; density = 23. Surface area = 2827.43
+56: It is a sphere: r = 15; density = 3. Surface area = 2827.43
+57: It is a parallelepiped: a = 27, b = 8, c = 25; density = 20. Surface area = 2182
+58: It is a sphere: r = 23; density = 16. Surface area = 6647.61
+59: It is a parallelepiped: a = 23, b = 8, c = 27; density = 22. Surface area = 2042
+60: It is a sphere: r = 20; density = 8. Surface area = 5026.55
+61: It is a sphere: r = 29; density = 8. Surface area = 10568.3
+62: It is a parallelepiped: a = 25, b = 29, c = 13; density = 23. Surface area = 2854
+63: It is a sphere: r = 18; density = 1. Surface area = 4071.5
+64: It is a parallelepiped: a = 28, b = 29, c = 6; density = 29. Surface area = 2308
+65: It is a parallelepiped: a = 24, b = 30, c = 15; density = 26. Surface area = 3060
+66: It is a sphere: r = 14; density = 30. Surface area = 2463.01
+67: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+68: It is a sphere: r = 17; density = 7. Surface area = 3631.68
+69: It is a sphere: r = 16; density = 27. Surface area = 3216.99
+70: It is a sphere: r = 26; density = 4. Surface area = 8494.87
+71: It is a parallelepiped: a = 23, b = 30, c = 13; density = 28. Surface area = 2758
+72: It is a parallelepiped: a = 22, b = 15, c = 26; density = 18. Surface area = 2584
+73: It is a parallelepiped: a = 29, b = 26, c = 8; density = 6. Surface area = 2388
+74: It is a sphere: r = 15; density = 14. Surface area = 2827.43
+75: It is a sphere: r = 22; density = 20. Surface area = 6082.12
+76: It is a parallelepiped: a = 30, b = 15, c = 14; density = 2. Surface area = 2160
+77: It is a sphere: r = 19; density = 26. Surface area = 4536.46
+78: It is a parallelepiped: a = 29, b = 17, c = 17; density = 28. Surface area = 2550
+79: It is a parallelepiped: a = 12, b = 25, c = 28; density = 1. Surface area = 2672
+80: It is a sphere: r = 25; density = 8. Surface area = 7853.98
+81: It is a sphere: r = 13; density = 2. Surface area = 2123.72
+82: It is a sphere: r = 24; density = 5. Surface area = 7238.23
+83: It is a sphere: r = 30; density = 14. Surface area = 11309.7
+84: It is a sphere: r = 29; density = 16. Surface area = 10568.3
+85: It is a sphere: r = 28; density = 19. Surface area = 9852.03
+86: It is a sphere: r = 21; density = 29. Surface area = 5541.77
+87: It is a sphere: r = 22; density = 11. Surface area = 6082.12
+88: It is a sphere: r = 22; density = 7. Surface area = 6082.12
+89: It is a sphere: r = 27; density = 9. Surface area = 9160.88
+90: It is a parallelepiped: a = 18, b = 28, c = 20; density = 13. Surface area = 2848
+91: It is a parallelepiped: a = 29, b = 26, c = 13; density = 17. Surface area = 2938
+92: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+93: It is a sphere: r = 26; density = 29. Surface area = 8494.87
+94: It is a sphere: r = 25; density = 30. Surface area = 7853.98
+95: It is a sphere: r = 16; density = 18. Surface area = 3216.99
+96: It is a sphere: r = 25; density = 17. Surface area = 7853.98
+97: It is a sphere: r = 23; density = 28. Surface area = 6647.61
+98: It is a parallelepiped: a = 29, b = 27, c = 9; density = 21. Surface area = 2574
+99: It is a sphere: r = 18; density = 3. Surface area = 4071.5
+100: It is a sphere: r = 13; density = 30. Surface area = 2123.72
+101: It is a sphere: r = 30; density = 8. Surface area = 11309.7
+102: It is a parallelepiped: a = 23, b = 18, c = 17; density = 2. Surface area = 2222
+103: It is a sphere: r = 14; density = 30. Surface area = 2463.01
+104: It is a sphere: r = 24; density = 22. Surface area = 7238.23
+105: It is a sphere: r = 29; density = 20. Surface area = 10568.3
+106: It is a sphere: r = 22; density = 22. Surface area = 6082.12
+107: It is a parallelepiped: a = 26, b = 22, c = 14; density = 19. Surface area = 2488
+108: It is a sphere: r = 25; density = 5. Surface area = 7853.98
+109: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+110: It is a sphere: r = 26; density = 18. Surface area = 8494.87
+111: It is a sphere: r = 16; density = 7. Surface area = 3216.99
+112: It is a sphere: r = 30; density = 9. Surface area = 11309.7
+113: It is a sphere: r = 26; density = 29. Surface area = 8494.87
+114: It is a sphere: r = 13; density = 22. Surface area = 2123.72
+115: It is a sphere: r = 30; density = 4. Surface area = 11309.7
+116: It is a sphere: r = 26; density = 12. Surface area = 8494.87
+117: It is a sphere: r = 30; density = 16. Surface area = 11309.7
+118: It is a parallelepiped: a = 25, b = 30, c = 14; density = 27. Surface area = 3040
+119: It is a sphere: r = 17; density = 12. Surface area = 3631.68
+120: It is a parallelepiped: a = 29, b = 12, c = 25; density = 17. Surface area = 2746
+121: It is a sphere: r = 22; density = 29. Surface area = 6082.12
+122: It is a parallelepiped: a = 23, b = 20, c = 20; density = 18. Surface area = 2640
+123: It is a sphere: r = 22; density = 20. Surface area = 6082.12
+124: It is a sphere: r = 14; density = 24. Surface area = 2463.01
+125: It is a sphere: r = 26; density = 7. Surface area = 8494.87
+126: It is a sphere: r = 13; density = 15. Surface area = 2123.72
+127: It is a sphere: r = 19; density = 12. Surface area = 4536.46
+128: It is a sphere: r = 23; density = 29. Surface area = 6647.61
+129: It is a sphere: r = 24; density = 12. Surface area = 7238.23
+130: It is a sphere: r = 14; density = 22. Surface area = 2463.01
+131: It is a parallelepiped: a = 29, b = 19, c = 15; density = 16. Surface area = 2542
+132: It is a sphere: r = 17; density = 17. Surface area = 3631.68
+133: It is a sphere: r = 13; density = 15. Surface area = 2123.72
+134: It is a parallelepiped: a = 26, b = 15, c = 18; density = 16. Surface area = 2256
+135: It is a sphere: r = 19; density = 18. Surface area = 4536.46
+136: It is a parallelepiped: a = 16, b = 29, c = 25; density = 16. Surface area = 3178
+137: It is a parallelepiped: a = 16, b = 21, c = 20; density = 6. Surface area = 2152
+138: It is a sphere: r = 27; density = 18. Surface area = 9160.88
+139: It is a sphere: r = 13; density = 3. Surface area = 2123.72
+140: It is a sphere: r = 19; density = 14. Surface area = 4536.46
+141: It is a sphere: r = 23; density = 21. Surface area = 6647.61
+142: It is a sphere: r = 30; density = 14. Surface area = 11309.7
+143: It is a parallelepiped: a = 16, b = 26, c = 26; density = 2. Surface area = 3016
+144: It is a sphere: r = 17; density = 6. Surface area = 3631.68
+145: It is a parallelepiped: a = 25, b = 19, c = 20; density = 19. Surface area = 2710
+146: It is a sphere: r = 19; density = 6. Surface area = 4536.46
+147: It is a parallelepiped: a = 22, b = 15, c = 21; density = 9. Surface area = 2214
+148: It is a sphere: r = 24; density = 5. Surface area = 7238.23
+149: It is a sphere: r = 23; density = 2. Surface area = 6647.61
+150: It is a sphere: r = 29; density = 15. Surface area = 10568.3
+151: It is a sphere: r = 27; density = 25. Surface area = 9160.88
+152: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+153: It is a parallelepiped: a = 30, b = 20, c = 27; density = 4. Surface area = 3900
+154: It is a parallelepiped: a = 28, b = 26, c = 25; density = 23. Surface area = 4156
+155: It is a sphere: r = 21; density = 28. Surface area = 5541.77
+156: It is a parallelepiped: a = 28, b = 18, c = 17; density = 15. Surface area = 2572
+157: It is a parallelepiped: a = 24, b = 21, c = 30; density = 26. Surface area = 3708
+158: It is a sphere: r = 16; density = 15. Surface area = 3216.99
+159: It is a sphere: r = 17; density = 2. Surface area = 3631.68
+160: It is a parallelepiped: a = 7, b = 24, c = 30; density = 18. Surface area = 2196
+161: It is a parallelepiped: a = 28, b = 23, c = 30; density = 7. Surface area = 4348
+162: It is a sphere: r = 17; density = 15. Surface area = 3631.68
+163: It is a parallelepiped: a = 18, b = 27, c = 25; density = 22. Surface area = 3222
+164: It is a sphere: r = 21; density = 6. Surface area = 5541.77
+165: It is a sphere: r = 13; density = 19. Surface area = 2123.72
+166: It is a parallelepiped: a = 23, b = 12, c = 30; density = 17. Surface area = 2652
+167: It is a parallelepiped: a = 30, b = 23, c = 30; density = 17. Surface area = 4560
+168: It is a sphere: r = 22; density = 6. Surface area = 6082.12
+169: It is a parallelepiped: a = 13, b = 29, c = 24; density = 20. Surface area = 2770
+170: It is a sphere: r = 17; density = 7. Surface area = 3631.68
+171: It is a sphere: r = 17; density = 6. Surface area = 3631.68
+172: It is a parallelepiped: a = 29, b = 26, c = 29; density = 18. Surface area = 4698
+173: It is a sphere: r = 15; density = 15. Surface area = 2827.43
+174: It is a parallelepiped: a = 18, b = 23, c = 25; density = 23. Surface area = 2878
+175: It is a sphere: r = 15; density = 2. Surface area = 2827.43
+176: It is a sphere: r = 24; density = 3. Surface area = 7238.23
+177: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+178: It is a parallelepiped: a = 30, b = 6, c = 29; density = 14. Surface area = 2448
+179: It is a parallelepiped: a = 22, b = 27, c = 29; density = 23. Surface area = 4030
+180: It is a sphere: r = 18; density = 24. Surface area = 4071.5
+181: It is a sphere: r = 22; density = 3. Surface area = 6082.12
+182: It is a sphere: r = 27; density = 7. Surface area = 9160.88
+183: It is a sphere: r = 23; density = 8. Surface area = 6647.61
+184: It is a sphere: r = 25; density = 26. Surface area = 7853.98
+185: It is a sphere: r = 21; density = 15. Surface area = 5541.77
+186: It is a sphere: r = 18; density = 22. Surface area = 4071.5
+187: It is a sphere: r = 21; density = 19. Surface area = 5541.77
+188: It is a sphere: r = 23; density = 24. Surface area = 6647.61
+189: It is a sphere: r = 25; density = 1. Surface area = 7853.98
+190: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+191: It is a parallelepiped: a = 11, b = 28, c = 20; density = 11. Surface area = 2176
+192: It is a parallelepiped: a = 30, b = 26, c = 13; density = 5. Surface area = 3016
+193: It is a sphere: r = 27; density = 30. Surface area = 9160.88
+194: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+195: It is a sphere: r = 17; density = 18. Surface area = 3631.68
+196: It is a sphere: r = 18; density = 12. Surface area = 4071.5
+197: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+198: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+199: It is a sphere: r = 29; density = 22. Surface area = 10568.3
+200: It is a sphere: r = 26; density = 17. Surface area = 8494.87
+201: It is a sphere: r = 23; density = 5. Surface area = 6647.61
+202: It is a sphere: r = 15; density = 1. Surface area = 2827.43
+203: It is a parallelepiped: a = 19, b = 10, c = 29; density = 9. Surface area = 2062
+204: It is a parallelepiped: a = 30, b = 25, c = 26; density = 27. Surface area = 4360
+205: It is a parallelepiped: a = 17, b = 30, c = 13; density = 14. Surface area = 2242
+206: It is a sphere: r = 20; density = 6. Surface area = 5026.55
+207: It is a sphere: r = 30; density = 9. Surface area = 11309.7
+208: It is a sphere: r = 24; density = 4. Surface area = 7238.23
+209: It is a sphere: r = 26; density = 5. Surface area = 8494.87
+210: It is a sphere: r = 16; density = 14. Surface area = 3216.99
+211: It is a sphere: r = 23; density = 14. Surface area = 6647.61
+212: It is a parallelepiped: a = 30, b = 27, c = 27; density = 30. Surface area = 4698
+213: It is a parallelepiped: a = 15, b = 29, c = 15; density = 28. Surface area = 2190
+214: It is a sphere: r = 24; density = 22. Surface area = 7238.23
+215: It is a sphere: r = 20; density = 18. Surface area = 5026.55
+216: It is a sphere: r = 27; density = 27. Surface area = 9160.88
+217: It is a sphere: r = 26; density = 24. Surface area = 8494.87
+218: It is a parallelepiped: a = 9, b = 27, c = 27; density = 27. Surface area = 2430
+219: It is a sphere: r = 23; density = 23. Surface area = 6647.61
+220: It is a parallelepiped: a = 14, b = 26, c = 28; density = 7. Surface area = 2968
+221: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+222: It is a sphere: r = 21; density = 30. Surface area = 5541.77
+223: It is a sphere: r = 25; density = 19. Surface area = 7853.98
+224: It is a parallelepiped: a = 24, b = 16, c = 19; density = 15. Surface area = 2288
+225: It is a sphere: r = 13; density = 23. Surface area = 2123.72
+226: It is a sphere: r = 28; density = 12. Surface area = 9852.03
+227: It is a sphere: r = 23; density = 27. Surface area = 6647.61
+228: It is a parallelepiped: a = 29, b = 27, c = 18; density = 4. Surface area = 3582
+229: It is a sphere: r = 29; density = 17. Surface area = 10568.3
+230: It is a parallelepiped: a = 21, b = 18, c = 28; density = 18. Surface area = 2940
+231: It is a sphere: r = 28; density = 15. Surface area = 9852.03
+232: It is a parallelepiped: a = 23, b = 10, c = 24; density = 26. Surface area = 2044
+233: It is a parallelepiped: a = 15, b = 22, c = 29; density = 20. Surface area = 2806
+234: It is a sphere: r = 20; density = 4. Surface area = 5026.55
+235: It is a parallelepiped: a = 24, b = 10, c = 26; density = 6. Surface area = 2248
+236: It is a parallelepiped: a = 14, b = 25, c = 19; density = 20. Surface area = 2182
+237: It is a sphere: r = 25; density = 26. Surface area = 7853.98
+238: It is a sphere: r = 17; density = 24. Surface area = 3631.68
+239: It is a sphere: r = 29; density = 11. Surface area = 10568.3
+240: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+241: It is a parallelepiped: a = 30, b = 24, c = 29; density = 9. Surface area = 4572
+242: It is a sphere: r = 20; density = 15. Surface area = 5026.55
+243: It is a sphere: r = 17; density = 21. Surface area = 3631.68
+244: It is a sphere: r = 13; density = 14. Surface area = 2123.72
+245: It is a parallelepiped: a = 24, b = 28, c = 25; density = 26. Surface area = 3944
+246: It is a sphere: r = 21; density = 18. Surface area = 5541.77
+247: It is a sphere: r = 28; density = 18. Surface area = 9852.03
+248: It is a sphere: r = 25; density = 4. Surface area = 7853.98
+249: It is a sphere: r = 25; density = 22. Surface area = 7853.98
+250: It is a parallelepiped: a = 19, b = 16, c = 24; density = 3. Surface area = 2288
+251: It is a sphere: r = 13; density = 12. Surface area = 2123.72
+252: It is a sphere: r = 26; density = 28. Surface area = 8494.87
+253: It is a parallelepiped: a = 28, b = 14, c = 15; density = 21. Surface area = 2044
+254: It is a sphere: r = 14; density = 20. Surface area = 2463.01
+255: It is a sphere: r = 25; density = 9. Surface area = 7853.98
+256: It is a sphere: r = 30; density = 15. Surface area = 11309.7
+257: It is a parallelepiped: a = 26, b = 27, c = 21; density = 23. Surface area = 3630
+258: It is a sphere: r = 27; density = 14. Surface area = 9160.88
+259: It is a sphere: r = 18; density = 14. Surface area = 4071.5
+260: It is a sphere: r = 28; density = 14. Surface area = 9852.03
+261: It is a parallelepiped: a = 29, b = 16, c = 16; density = 1. Surface area = 2368
+262: It is a sphere: r = 25; density = 22. Surface area = 7853.98
+263: It is a parallelepiped: a = 27, b = 16, c = 26; density = 28. Surface area = 3100
+264: It is a sphere: r = 27; density = 2. Surface area = 9160.88
+265: It is a parallelepiped: a = 20, b = 26, c = 11; density = 8. Surface area = 2052
+266: It is a parallelepiped: a = 17, b = 23, c = 22; density = 8. Surface area = 2542
+267: It is a sphere: r = 18; density = 15. Surface area = 4071.5
+268: It is a parallelepiped: a = 23, b = 29, c = 8; density = 11. Surface area = 2166
+269: It is a parallelepiped: a = 26, b = 14, c = 30; density = 19. Surface area = 3128
+270: It is a sphere: r = 14; density = 7. Surface area = 2463.01
+271: It is a sphere: r = 25; density = 3. Surface area = 7853.98
+272: It is a parallelepiped: a = 26, b = 26, c = 19; density = 17. Surface area = 3328
+273: It is a sphere: r = 17; density = 18. Surface area = 3631.68
+274: It is a sphere: r = 30; density = 24. Surface area = 11309.7
+275: It is a sphere: r = 20; density = 2. Surface area = 5026.55
+276: It is a parallelepiped: a = 11, b = 27, c = 21; density = 16. Surface area = 2190
+277: It is a sphere: r = 16; density = 4. Surface area = 3216.99
+278: It is a parallelepiped: a = 29, b = 21, c = 22; density = 22. Surface area = 3418
+279: It is a sphere: r = 23; density = 14. Surface area = 6647.61
+280: It is a parallelepiped: a = 26, b = 28, c = 8; density = 6. Surface area = 2320
+281: It is a parallelepiped: a = 30, b = 20, c = 14; density = 17. Surface area = 2600
+282: It is a parallelepiped: a = 27, b = 27, c = 24; density = 3. Surface area = 4050
+283: It is a sphere: r = 27; density = 13. Surface area = 9160.88
+284: It is a sphere: r = 24; density = 29. Surface area = 7238.23
+285: It is a sphere: r = 22; density = 11. Surface area = 6082.12
+286: It is a parallelepiped: a = 14, b = 17, c = 25; density = 12. Surface area = 2026
+287: It is a parallelepiped: a = 29, b = 23, c = 21; density = 1. Surface area = 3518
+288: It is a sphere: r = 24; density = 6. Surface area = 7238.23
+289: It is a sphere: r = 24; density = 26. Surface area = 7238.23
+290: It is a sphere: r = 16; density = 29. Surface area = 3216.99
+291: It is a sphere: r = 27; density = 19. Surface area = 9160.88
+292: It is a parallelepiped: a = 22, b = 30, c = 18; density = 25. Surface area = 3192
+293: It is a sphere: r = 29; density = 5. Surface area = 10568.3
+294: It is a sphere: r = 24; density = 21. Surface area = 7238.23
+295: It is a parallelepiped: a = 25, b = 20, c = 14; density = 27. Surface area = 2260
+296: It is a sphere: r = 24; density = 11. Surface area = 7238.23
+297: It is a sphere: r = 16; density = 7. Surface area = 3216.99
+298: It is a sphere: r = 30; density = 10. Surface area = 11309.7
+299: It is a sphere: r = 14; density = 15. Surface area = 2463.01
+300: It is a sphere: r = 29; density = 6. Surface area = 10568.3
+301: It is a sphere: r = 24; density = 17. Surface area = 7238.23
+302: It is a sphere: r = 27; density = 6. Surface area = 9160.88
+303: It is a sphere: r = 20; density = 30. Surface area = 5026.55
+304: It is a sphere: r = 27; density = 16. Surface area = 9160.88
+305: It is a sphere: r = 20; density = 27. Surface area = 5026.55
+306: It is a sphere: r = 25; density = 3. Surface area = 7853.98
+307: It is a sphere: r = 18; density = 24. Surface area = 4071.5
+308: It is a sphere: r = 14; density = 30. Surface area = 2463.01
+309: It is a sphere: r = 27; density = 7. Surface area = 9160.88
+310: It is a sphere: r = 14; density = 9. Surface area = 2463.01
+311: It is a sphere: r = 22; density = 27. Surface area = 6082.12
+312: It is a parallelepiped: a = 17, b = 29, c = 12; density = 30. Surface area = 2090
+313: It is a sphere: r = 14; density = 14. Surface area = 2463.01
+314: It is a sphere: r = 23; density = 10. Surface area = 6647.61
+315: It is a sphere: r = 18; density = 21. Surface area = 4071.5
+316: It is a sphere: r = 17; density = 4. Surface area = 3631.68
+317: It is a parallelepiped: a = 21, b = 24, c = 30; density = 26. Surface area = 3708
+318: It is a parallelepiped: a = 19, b = 28, c = 16; density = 24. Surface area = 2568
+319: It is a sphere: r = 15; density = 20. Surface area = 2827.43
+320: It is a parallelepiped: a = 19, b = 29, c = 10; density = 28. Surface area = 2062
+321: It is a sphere: r = 14; density = 25. Surface area = 2463.01
+322: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+323: It is a sphere: r = 15; density = 27. Surface area = 2827.43
+324: It is a parallelepiped: a = 17, b = 20, c = 20; density = 7. Surface area = 2160
+325: It is a sphere: r = 28; density = 10. Surface area = 9852.03
+326: It is a sphere: r = 22; density = 26. Surface area = 6082.12
+327: It is a sphere: r = 22; density = 8. Surface area = 6082.12
+328: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+329: It is a sphere: r = 26; density = 22. Surface area = 8494.87
+330: It is a sphere: r = 27; density = 28. Surface area = 9160.88
+331: It is a sphere: r = 23; density = 22. Surface area = 6647.61
+332: It is a sphere: r = 15; density = 4. Surface area = 2827.43
+333: It is a sphere: r = 30; density = 16. Surface area = 11309.7
+334: It is a sphere: r = 28; density = 9. Surface area = 9852.03
+335: It is a parallelepiped: a = 27, b = 22, c = 9; density = 12. Surface area = 2070
+336: It is a sphere: r = 23; density = 15. Surface area = 6647.61
+337: It is a sphere: r = 26; density = 10. Surface area = 8494.87
+338: It is a sphere: r = 26; density = 9. Surface area = 8494.87
+339: It is a parallelepiped: a = 24, b = 8, c = 30; density = 2. Surface area = 2304
+340: It is a parallelepiped: a = 20, b = 23, c = 26; density = 20. Surface area = 3156
+341: It is a sphere: r = 16; density = 15. Surface area = 3216.99
+342: It is a sphere: r = 16; density = 4. Surface area = 3216.99
+343: It is a parallelepiped: a = 20, b = 19, c = 29; density = 1. Surface area = 3022
+344: It is a sphere: r = 21; density = 9. Surface area = 5541.77
+345: It is a sphere: r = 22; density = 15. Surface area = 6082.12
+346: It is a sphere: r = 17; density = 19. Surface area = 3631.68
+347: It is a parallelepiped: a = 28, b = 12, c = 20; density = 19. Surface area = 2272
+348: It is a sphere: r = 17; density = 4. Surface area = 3631.68
+349: It is a parallelepiped: a = 27, b = 5, c = 30; density = 9. Surface area = 2190
+350: It is a parallelepiped: a = 25, b = 16, c = 25; density = 21. Surface area = 2850
+351: It is a parallelepiped: a = 21, b = 17, c = 24; density = 29. Surface area = 2538
+352: It is a sphere: r = 24; density = 13. Surface area = 7238.23
+353: It is a sphere: r = 18; density = 14. Surface area = 4071.5
+354: It is a parallelepiped: a = 27, b = 18, c = 30; density = 7. Surface area = 3672
+355: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+356: It is a sphere: r = 16; density = 14. Surface area = 3216.99
+357: It is a sphere: r = 24; density = 2. Surface area = 7238.23
+358: It is a sphere: r = 18; density = 9. Surface area = 4071.5
+359: It is a sphere: r = 21; density = 9. Surface area = 5541.77
+360: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+361: It is a sphere: r = 29; density = 6. Surface area = 10568.3
+362: It is a sphere: r = 22; density = 1. Surface area = 6082.12
+363: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+364: It is a sphere: r = 22; density = 3. Surface area = 6082.12
+365: It is a parallelepiped: a = 13, b = 25, c = 29; density = 4. Surface area = 2854
+366: It is a sphere: r = 27; density = 29. Surface area = 9160.88
+367: It is a sphere: r = 15; density = 6. Surface area = 2827.43
+368: It is a parallelepiped: a = 24, b = 21, c = 27; density = 15. Surface area = 3438
+369: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+370: It is a sphere: r = 14; density = 27. Surface area = 2463.01
+371: It is a sphere: r = 14; density = 1. Surface area = 2463.01
+372: It is a sphere: r = 28; density = 19. Surface area = 9852.03
+373: It is a sphere: r = 30; density = 17. Surface area = 11309.7
+374: It is a parallelepiped: a = 26, b = 20, c = 26; density = 26. Surface area = 3432
+375: It is a sphere: r = 25; density = 2. Surface area = 7853.98
+376: It is a sphere: r = 13; density = 22. Surface area = 2123.72
+377: It is a sphere: r = 26; density = 20. Surface area = 8494.87
+378: It is a parallelepiped: a = 25, b = 21, c = 21; density = 4. Surface area = 2982
+379: It is a sphere: r = 30; density = 14. Surface area = 11309.7
+380: It is a parallelepiped: a = 24, b = 29, c = 16; density = 17. Surface area = 3088
+381: It is a sphere: r = 22; density = 29. Surface area = 6082.12
+382: It is a sphere: r = 27; density = 19. Surface area = 9160.88
+383: It is a parallelepiped: a = 9, b = 29, c = 26; density = 23. Surface area = 2498
+384: It is a sphere: r = 14; density = 4. Surface area = 2463.01
+385: It is a sphere: r = 21; density = 6. Surface area = 5541.77
+386: It is a sphere: r = 20; density = 11. Surface area = 5026.55
+387: It is a sphere: r = 25; density = 21. Surface area = 7853.98
+388: It is a sphere: r = 28; density = 29. Surface area = 9852.03
+389: It is a sphere: r = 23; density = 28. Surface area = 6647.61
+390: It is a sphere: r = 13; density = 25. Surface area = 2123.72
+391: It is a sphere: r = 23; density = 29. Surface area = 6647.61
+392: It is a sphere: r = 21; density = 4. Surface area = 5541.77
+393: It is a sphere: r = 14; density = 10. Surface area = 2463.01
+394: It is a sphere: r = 25; density = 3. Surface area = 7853.98
+395: It is a parallelepiped: a = 8, b = 26, c = 25; density = 28. Surface area = 2116
+396: It is a sphere: r = 29; density = 29. Surface area = 10568.3
+397: It is a parallelepiped: a = 25, b = 27, c = 26; density = 19. Surface area = 4054
+398: It is a parallelepiped: a = 22, b = 19, c = 16; density = 16. Surface area = 2148
+399: It is a parallelepiped: a = 26, b = 21, c = 16; density = 6. Surface area = 2596
+400: It is a sphere: r = 23; density = 13. Surface area = 6647.61
+401: It is a sphere: r = 25; density = 13. Surface area = 7853.98
+402: It is a sphere: r = 27; density = 16. Surface area = 9160.88
+403: It is a sphere: r = 20; density = 5. Surface area = 5026.55
+404: It is a sphere: r = 26; density = 22. Surface area = 8494.87
+405: It is a sphere: r = 25; density = 26. Surface area = 7853.98
+406: It is a parallelepiped: a = 21, b = 28, c = 30; density = 12. Surface area = 4116
+407: It is a parallelepiped: a = 16, b = 28, c = 16; density = 9. Surface area = 2304
+408: It is a sphere: r = 28; density = 2. Surface area = 9852.03
+409: It is a sphere: r = 23; density = 15. Surface area = 6647.61
+410: It is a parallelepiped: a = 30, b = 19, c = 24; density = 7. Surface area = 3492
+411: It is a sphere: r = 15; density = 26. Surface area = 2827.43
+412: It is a sphere: r = 27; density = 27. Surface area = 9160.88
+413: It is a sphere: r = 28; density = 23. Surface area = 9852.03
+414: It is a sphere: r = 20; density = 30. Surface area = 5026.55
+415: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+416: It is a parallelepiped: a = 26, b = 21, c = 24; density = 5. Surface area = 3348
+417: It is a sphere: r = 18; density = 21. Surface area = 4071.5
+418: It is a sphere: r = 17; density = 15. Surface area = 3631.68
+419: It is a sphere: r = 13; density = 12. Surface area = 2123.72
+420: It is a sphere: r = 18; density = 29. Surface area = 4071.5
+421: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+422: It is a parallelepiped: a = 24, b = 13, c = 23; density = 28. Surface area = 2326
+423: It is a parallelepiped: a = 27, b = 20, c = 18; density = 26. Surface area = 2772
+424: It is a parallelepiped: a = 10, b = 23, c = 27; density = 25. Surface area = 2242
+425: It is a sphere: r = 23; density = 29. Surface area = 6647.61
+426: It is a sphere: r = 14; density = 16. Surface area = 2463.01
+427: It is a sphere: r = 29; density = 13. Surface area = 10568.3
+428: It is a parallelepiped: a = 14, b = 22, c = 23; density = 7. Surface area = 2272
+429: It is a sphere: r = 17; density = 27. Surface area = 3631.68
+430: It is a sphere: r = 21; density = 24. Surface area = 5541.77
+431: It is a sphere: r = 23; density = 22. Surface area = 6647.61
+432: It is a parallelepiped: a = 23, b = 22, c = 30; density = 2. Surface area = 3712
+433: It is a parallelepiped: a = 23, b = 30, c = 11; density = 24. Surface area = 2546
+434: It is a parallelepiped: a = 7, b = 27, c = 26; density = 25. Surface area = 2146
+435: It is a parallelepiped: a = 9, b = 20, c = 29; density = 2. Surface area = 2042
+436: It is a sphere: r = 29; density = 19. Surface area = 10568.3
+437: It is a parallelepiped: a = 22, b = 12, c = 28; density = 17. Surface area = 2432
+438: It is a sphere: r = 24; density = 19. Surface area = 7238.23
+439: It is a sphere: r = 26; density = 5. Surface area = 8494.87
+440: It is a parallelepiped: a = 22, b = 25, c = 30; density = 18. Surface area = 3920
+441: It is a sphere: r = 13; density = 1. Surface area = 2123.72
+442: It is a sphere: r = 27; density = 8. Surface area = 9160.88
+443: It is a parallelepiped: a = 20, b = 19, c = 30; density = 26. Surface area = 3100
+444: It is a sphere: r = 19; density = 8. Surface area = 4536.46
+445: It is a sphere: r = 23; density = 17. Surface area = 6647.61
+446: It is a parallelepiped: a = 21, b = 12, c = 28; density = 21. Surface area = 2352
+447: It is a sphere: r = 29; density = 9. Surface area = 10568.3
+448: It is a sphere: r = 30; density = 11. Surface area = 11309.7
+449: It is a sphere: r = 26; density = 19. Surface area = 8494.87
+450: It is a sphere: r = 21; density = 21. Surface area = 5541.77
+451: It is a sphere: r = 19; density = 22. Surface area = 4536.46
+452: It is a sphere: r = 22; density = 7. Surface area = 6082.12
+453: It is a sphere: r = 28; density = 16. Surface area = 9852.03
+454: It is a sphere: r = 18; density = 9. Surface area = 4071.5
+455: It is a parallelepiped: a = 25, b = 28, c = 30; density = 24. Surface area = 4580
+456: It is a parallelepiped: a = 23, b = 24, c = 27; density = 16. Surface area = 3642
+457: It is a sphere: r = 28; density = 25. Surface area = 9852.03
+458: It is a parallelepiped: a = 30, b = 19, c = 16; density = 18. Surface area = 2708
+459: It is a sphere: r = 30; density = 30. Surface area = 11309.7
+460: It is a parallelepiped: a = 30, b = 29, c = 20; density = 28. Surface area = 4100
+461: It is a parallelepiped: a = 19, b = 24, c = 13; density = 26. Surface area = 2030
+462: It is a sphere: r = 21; density = 8. Surface area = 5541.77
+463: It is a sphere: r = 18; density = 11. Surface area = 4071.5
+464: It is a parallelepiped: a = 15, b = 25, c = 23; density = 1. Surface area = 2590
+465: It is a parallelepiped: a = 23, b = 14, c = 25; density = 17. Surface area = 2494
+466: It is a sphere: r = 20; density = 6. Surface area = 5026.55
+467: It is a sphere: r = 26; density = 22. Surface area = 8494.87
+468: It is a parallelepiped: a = 26, b = 24, c = 24; density = 8. Surface area = 3648
+469: It is a sphere: r = 13; density = 21. Surface area = 2123.72
+470: It is a sphere: r = 21; density = 21. Surface area = 5541.77
+471: It is a sphere: r = 19; density = 22. Surface area = 4536.46
+472: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+473: It is a sphere: r = 22; density = 30. Surface area = 6082.12
+474: It is a parallelepiped: a = 28, b = 30, c = 13; density = 20. Surface area = 3188
+475: It is a parallelepiped: a = 29, b = 28, c = 15; density = 13. Surface area = 3334
+476: It is a parallelepiped: a = 12, b = 24, c = 21; density = 20. Surface area = 2088
+477: It is a parallelepiped: a = 11, b = 18, c = 28; density = 5. Surface area = 2020
+478: It is a parallelepiped: a = 18, b = 29, c = 17; density = 29. Surface area = 2642
+479: It is a sphere: r = 15; density = 29. Surface area = 2827.43
+480: It is a sphere: r = 30; density = 3. Surface area = 11309.7
+481: It is a parallelepiped: a = 14, b = 29, c = 20; density = 9. Surface area = 2532
+482: It is a parallelepiped: a = 18, b = 24, c = 16; density = 21. Surface area = 2208
+483: It is a sphere: r = 20; density = 20. Surface area = 5026.55
+484: It is a parallelepiped: a = 27, b = 6, c = 29; density = 17. Surface area = 2238
+485: It is a parallelepiped: a = 13, b = 24, c = 24; density = 28. Surface area = 2400
+486: It is a sphere: r = 17; density = 16. Surface area = 3631.68
+487: It is a parallelepiped: a = 29, b = 21, c = 17; density = 22. Surface area = 2918
+488: It is a sphere: r = 16; density = 1. Surface area = 3216.99
+489: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+490: It is a parallelepiped: a = 10, b = 26, c = 23; density = 20. Surface area = 2176
+491: It is a sphere: r = 30; density = 6. Surface area = 11309.7
+492: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+493: It is a sphere: r = 25; density = 19. Surface area = 7853.98
+494: It is a parallelepiped: a = 14, b = 23, c = 22; density = 17. Surface area = 2272
+495: It is a parallelepiped: a = 13, b = 22, c = 23; density = 22. Surface area = 2182
+496: It is a sphere: r = 14; density = 10. Surface area = 2463.01
+497: It is a sphere: r = 24; density = 10. Surface area = 7238.23
+498: It is a sphere: r = 17; density = 18. Surface area = 3631.68
+499: It is a sphere: r = 27; density = 15. Surface area = 9160.88
+500: It is a sphere: r = 20; density = 1. Surface area = 5026.55
+501: It is a sphere: r = 25; density = 21. Surface area = 7853.98
+502: It is a sphere: r = 24; density = 14. Surface area = 7238.23
+503: It is a sphere: r = 21; density = 4. Surface area = 5541.77
+504: It is a sphere: r = 30; density = 21. Surface area = 11309.7
+505: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+506: It is a sphere: r = 13; density = 25. Surface area = 2123.72
+507: It is a parallelepiped: a = 19, b = 25, c = 29; density = 1. Surface area = 3502
+508: It is a parallelepiped: a = 21, b = 27, c = 27; density = 24. Surface area = 3726
+509: It is a sphere: r = 20; density = 12. Surface area = 5026.55
+510: It is a sphere: r = 27; density = 13. Surface area = 9160.88
+511: It is a sphere: r = 13; density = 11. Surface area = 2123.72
+512: It is a sphere: r = 20; density = 25. Surface area = 5026.55
+513: It is a parallelepiped: a = 30, b = 10, c = 18; density = 11. Surface area = 2040
+514: It is a sphere: r = 28; density = 17. Surface area = 9852.03
+515: It is a sphere: r = 28; density = 27. Surface area = 9852.03
+516: It is a sphere: r = 16; density = 9. Surface area = 3216.99
+517: It is a parallelepiped: a = 28, b = 12, c = 17; density = 29. Surface area = 2032
+518: It is a sphere: r = 22; density = 19. Surface area = 6082.12
+519: It is a parallelepiped: a = 30, b = 29, c = 14; density = 27. Surface area = 3392
+520: It is a sphere: r = 22; density = 16. Surface area = 6082.12
+521: It is a parallelepiped: a = 27, b = 11, c = 23; density = 20. Surface area = 2342
+522: It is a sphere: r = 26; density = 17. Surface area = 8494.87
+523: It is a parallelepiped: a = 13, b = 30, c = 30; density = 15. Surface area = 3360
+524: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+525: It is a sphere: r = 18; density = 4. Surface area = 4071.5
+526: It is a sphere: r = 21; density = 20. Surface area = 5541.77
+527: It is a sphere: r = 21; density = 19. Surface area = 5541.77
+528: It is a sphere: r = 16; density = 1. Surface area = 3216.99
+529: It is a sphere: r = 19; density = 15. Surface area = 4536.46
+530: It is a sphere: r = 20; density = 6. Surface area = 5026.55
+531: It is a sphere: r = 13; density = 17. Surface area = 2123.72
+532: It is a sphere: r = 21; density = 8. Surface area = 5541.77
+533: It is a sphere: r = 20; density = 7. Surface area = 5026.55
+534: It is a parallelepiped: a = 27, b = 10, c = 24; density = 23. Surface area = 2316
+535: It is a sphere: r = 20; density = 29. Surface area = 5026.55
+536: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+537: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+538: It is a sphere: r = 21; density = 25. Surface area = 5541.77
+539: It is a sphere: r = 17; density = 24. Surface area = 3631.68
+540: It is a parallelepiped: a = 29, b = 13, c = 23; density = 5. Surface area = 2686
+541: It is a sphere: r = 27; density = 20. Surface area = 9160.88
+542: It is a sphere: r = 23; density = 11. Surface area = 6647.61
+543: It is a sphere: r = 27; density = 7. Surface area = 9160.88
+544: It is a parallelepiped: a = 29, b = 22, c = 20; density = 13. Surface area = 3316
+545: It is a parallelepiped: a = 21, b = 25, c = 24; density = 25. Surface area = 3258
+546: It is a parallelepiped: a = 15, b = 17, c = 26; density = 3. Surface area = 2174
+547: It is a sphere: r = 17; density = 17. Surface area = 3631.68
+548: It is a parallelepiped: a = 24, b = 10, c = 30; density = 25. Surface area = 2520
+549: It is a sphere: r = 30; density = 6. Surface area = 11309.7
+550: It is a sphere: r = 14; density = 14. Surface area = 2463.01
+551: It is a parallelepiped: a = 25, b = 23, c = 20; density = 4. Surface area = 3070
+552: It is a sphere: r = 14; density = 11. Surface area = 2463.01
+553: It is a parallelepiped: a = 23, b = 18, c = 23; density = 16. Surface area = 2714
+554: It is a sphere: r = 30; density = 25. Surface area = 11309.7
+555: It is a parallelepiped: a = 15, b = 29, c = 23; density = 7. Surface area = 2894
+556: It is a sphere: r = 23; density = 9. Surface area = 6647.61
+557: It is a parallelepiped: a = 22, b = 25, c = 30; density = 13. Surface area = 3920
+558: It is a sphere: r = 24; density = 12. Surface area = 7238.23
+559: It is a sphere: r = 22; density = 18. Surface area = 6082.12
+560: It is a sphere: r = 30; density = 17. Surface area = 11309.7
+561: It is a sphere: r = 17; density = 6. Surface area = 3631.68
+562: It is a sphere: r = 18; density = 2. Surface area = 4071.5
+563: It is a sphere: r = 17; density = 12. Surface area = 3631.68
+564: It is a sphere: r = 25; density = 11. Surface area = 7853.98
+565: It is a sphere: r = 20; density = 16. Surface area = 5026.55
+566: It is a parallelepiped: a = 18, b = 28, c = 25; density = 24. Surface area = 3308
+567: It is a sphere: r = 15; density = 25. Surface area = 2827.43
+568: It is a sphere: r = 22; density = 15. Surface area = 6082.12
+569: It is a sphere: r = 26; density = 11. Surface area = 8494.87
+570: It is a parallelepiped: a = 30, b = 21, c = 18; density = 6. Surface area = 3096
+571: It is a sphere: r = 28; density = 28. Surface area = 9852.03
+572: It is a sphere: r = 29; density = 3. Surface area = 10568.3
+573: It is a sphere: r = 22; density = 16. Surface area = 6082.12
+574: It is a sphere: r = 22; density = 29. Surface area = 6082.12
+575: It is a parallelepiped: a = 11, b = 21, c = 27; density = 17. Surface area = 2190
+576: It is a sphere: r = 15; density = 11. Surface area = 2827.43
+577: It is a parallelepiped: a = 26, b = 21, c = 20; density = 12. Surface area = 2972
+578: It is a sphere: r = 27; density = 10. Surface area = 9160.88
+579: It is a parallelepiped: a = 26, b = 19, c = 26; density = 28. Surface area = 3328
+580: It is a sphere: r = 21; density = 4. Surface area = 5541.77
+581: It is a sphere: r = 20; density = 17. Surface area = 5026.55
+582: It is a parallelepiped: a = 26, b = 13, c = 22; density = 2. Surface area = 2392
+583: It is a sphere: r = 23; density = 10. Surface area = 6647.61
+584: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+585: It is a sphere: r = 28; density = 26. Surface area = 9852.03
+586: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+587: It is a parallelepiped: a = 18, b = 29, c = 26; density = 13. Surface area = 3488
+588: It is a parallelepiped: a = 26, b = 18, c = 25; density = 25. Surface area = 3136
+589: It is a parallelepiped: a = 27, b = 21, c = 10; density = 12. Surface area = 2094
+590: It is a parallelepiped: a = 5, b = 29, c = 26; density = 21. Surface area = 2058
+591: It is a sphere: r = 13; density = 8. Surface area = 2123.72
+592: It is a parallelepiped: a = 13, b = 24, c = 28; density = 13. Surface area = 2696
+593: It is a sphere: r = 19; density = 11. Surface area = 4536.46
+594: It is a sphere: r = 23; density = 10. Surface area = 6647.61
+595: It is a sphere: r = 28; density = 22. Surface area = 9852.03
+596: It is a sphere: r = 13; density = 11. Surface area = 2123.72
+597: It is a parallelepiped: a = 16, b = 29, c = 19; density = 3. Surface area = 2638
+598: It is a parallelepiped: a = 29, b = 25, c = 13; density = 29. Surface area = 2854
+599: It is a sphere: r = 27; density = 9. Surface area = 9160.88
+600: It is a parallelepiped: a = 29, b = 11, c = 25; density = 12. Surface area = 2638
+601: It is a sphere: r = 28; density = 29. Surface area = 9852.03
+602: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+603: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+604: It is a sphere: r = 26; density = 12. Surface area = 8494.87
+605: It is a sphere: r = 25; density = 28. Surface area = 7853.98
+606: It is a sphere: r = 21; density = 26. Surface area = 5541.77
+607: It is a parallelepiped: a = 17, b = 13, c = 30; density = 26. Surface area = 2242
+608: It is a sphere: r = 29; density = 30. Surface area = 10568.3
+609: It is a sphere: r = 27; density = 15. Surface area = 9160.88
+610: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+611: It is a sphere: r = 25; density = 28. Surface area = 7853.98
+612: It is a parallelepiped: a = 22, b = 19, c = 19; density = 3. Surface area = 2394
+613: It is a sphere: r = 25; density = 18. Surface area = 7853.98
+614: It is a parallelepiped: a = 23, b = 29, c = 17; density = 27. Surface area = 3102
+615: It is a sphere: r = 30; density = 7. Surface area = 11309.7
+616: It is a sphere: r = 18; density = 29. Surface area = 4071.5
+617: It is a sphere: r = 29; density = 13. Surface area = 10568.3
+618: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+619: It is a parallelepiped: a = 25, b = 16, c = 25; density = 6. Surface area = 2850
+620: It is a parallelepiped: a = 12, b = 24, c = 30; density = 10. Surface area = 2736
+621: It is a sphere: r = 29; density = 4. Surface area = 10568.3
+622: It is a sphere: r = 27; density = 11. Surface area = 9160.88
+623: It is a parallelepiped: a = 23, b = 28, c = 17; density = 29. Surface area = 3022
+624: It is a sphere: r = 29; density = 8. Surface area = 10568.3
+625: It is a sphere: r = 24; density = 12. Surface area = 7238.23
+626: It is a sphere: r = 27; density = 28. Surface area = 9160.88
+627: It is a sphere: r = 23; density = 22. Surface area = 6647.61
+628: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+629: It is a sphere: r = 28; density = 1. Surface area = 9852.03
+630: It is a sphere: r = 21; density = 23. Surface area = 5541.77
+631: It is a parallelepiped: a = 26, b = 21, c = 14; density = 29. Surface area = 2408
+632: It is a sphere: r = 15; density = 28. Surface area = 2827.43
+633: It is a sphere: r = 19; density = 21. Surface area = 4536.46
+634: It is a sphere: r = 21; density = 10. Surface area = 5541.77
+635: It is a sphere: r = 26; density = 27. Surface area = 8494.87
+636: It is a sphere: r = 16; density = 14. Surface area = 3216.99
+637: It is a parallelepiped: a = 13, b = 22, c = 22; density = 8. Surface area = 2112
+638: It is a sphere: r = 23; density = 22. Surface area = 6647.61
+639: It is a sphere: r = 28; density = 26. Surface area = 9852.03
+640: It is a sphere: r = 29; density = 3. Surface area = 10568.3
+641: It is a sphere: r = 19; density = 10. Surface area = 4536.46
+642: It is a sphere: r = 14; density = 9. Surface area = 2463.01
+643: It is a sphere: r = 20; density = 7. Surface area = 5026.55
+644: It is a sphere: r = 21; density = 9. Surface area = 5541.77
+645: It is a parallelepiped: a = 23, b = 30, c = 24; density = 6. Surface area = 3924
+646: It is a sphere: r = 17; density = 7. Surface area = 3631.68
+647: It is a sphere: r = 20; density = 22. Surface area = 5026.55
+648: It is a sphere: r = 29; density = 14. Surface area = 10568.3
+649: It is a sphere: r = 19; density = 30. Surface area = 4536.46
+650: It is a sphere: r = 21; density = 21. Surface area = 5541.77
+651: It is a sphere: r = 29; density = 30. Surface area = 10568.3
+652: It is a sphere: r = 20; density = 3. Surface area = 5026.55
+653: It is a sphere: r = 17; density = 9. Surface area = 3631.68
+654: It is a sphere: r = 27; density = 14. Surface area = 9160.88
+655: It is a sphere: r = 18; density = 3. Surface area = 4071.5
+656: It is a sphere: r = 22; density = 17. Surface area = 6082.12
+657: It is a sphere: r = 24; density = 20. Surface area = 7238.23
+658: It is a sphere: r = 30; density = 8. Surface area = 11309.7
+659: It is a sphere: r = 16; density = 26. Surface area = 3216.99
+660: It is a parallelepiped: a = 24, b = 16, c = 28; density = 7. Surface area = 3008
+661: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+662: It is a sphere: r = 19; density = 8. Surface area = 4536.46
+663: It is a parallelepiped: a = 23, b = 23, c = 23; density = 8. Surface area = 3174
+664: It is a sphere: r = 29; density = 10. Surface area = 10568.3
+665: It is a sphere: r = 27; density = 22. Surface area = 9160.88
+666: It is a sphere: r = 15; density = 15. Surface area = 2827.43
+667: It is a parallelepiped: a = 14, b = 24, c = 19; density = 19. Surface area = 2116
+668: It is a sphere: r = 25; density = 9. Surface area = 7853.98
+669: It is a sphere: r = 17; density = 5. Surface area = 3631.68
+670: It is a sphere: r = 18; density = 13. Surface area = 4071.5
+671: It is a sphere: r = 26; density = 25. Surface area = 8494.87
+672: It is a sphere: r = 27; density = 20. Surface area = 9160.88
+673: It is a parallelepiped: a = 22, b = 27, c = 13; density = 8. Surface area = 2462
+674: It is a sphere: r = 29; density = 29. Surface area = 10568.3
+675: It is a parallelepiped: a = 15, b = 29, c = 28; density = 4. Surface area = 3334
+676: It is a sphere: r = 15; density = 17. Surface area = 2827.43
+677: It is a sphere: r = 27; density = 25. Surface area = 9160.88
+678: It is a sphere: r = 24; density = 22. Surface area = 7238.23
+679: It is a parallelepiped: a = 23, b = 19, c = 26; density = 29. Surface area = 3058
+680: It is a sphere: r = 20; density = 12. Surface area = 5026.55
+681: It is a sphere: r = 28; density = 24. Surface area = 9852.03
+682: It is a sphere: r = 15; density = 11. Surface area = 2827.43
+683: It is a sphere: r = 23; density = 6. Surface area = 6647.61
+684: It is a sphere: r = 16; density = 30. Surface area = 3216.99
+685: It is a parallelepiped: a = 30, b = 17, c = 26; density = 25. Surface area = 3464
+686: It is a parallelepiped: a = 22, b = 26, c = 14; density = 23. Surface area = 2488
+687: It is a parallelepiped: a = 17, b = 30, c = 21; density = 24. Surface area = 2994
+688: It is a sphere: r = 26; density = 30. Surface area = 8494.87
+689: It is a sphere: r = 15; density = 28. Surface area = 2827.43
+690: It is a sphere: r = 24; density = 17. Surface area = 7238.23
+691: It is a sphere: r = 24; density = 26. Surface area = 7238.23
+692: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+693: It is a sphere: r = 29; density = 15. Surface area = 10568.3
+694: It is a sphere: r = 30; density = 17. Surface area = 11309.7
+695: It is a parallelepiped: a = 29, b = 10, c = 24; density = 29. Surface area = 2452
+696: It is a sphere: r = 17; density = 27. Surface area = 3631.68
+697: It is a parallelepiped: a = 28, b = 12, c = 21; density = 16. Surface area = 2352
+698: It is a sphere: r = 20; density = 26. Surface area = 5026.55
+699: It is a sphere: r = 20; density = 3. Surface area = 5026.55
+700: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+701: It is a sphere: r = 20; density = 28. Surface area = 5026.55
+702: It is a sphere: r = 25; density = 24. Surface area = 7853.98
+703: It is a parallelepiped: a = 7, b = 26, c = 29; density = 6. Surface area = 2278
+704: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+705: It is a sphere: r = 21; density = 15. Surface area = 5541.77
+706: It is a sphere: r = 13; density = 24. Surface area = 2123.72
+707: It is a parallelepiped: a = 18, b = 24, c = 15; density = 9. Surface area = 2124
+708: It is a parallelepiped: a = 23, b = 25, c = 23; density = 5. Surface area = 3358
+709: It is a sphere: r = 29; density = 1. Surface area = 10568.3
+710: It is a parallelepiped: a = 16, b = 24, c = 27; density = 17. Surface area = 2928
+711: It is a parallelepiped: a = 28, b = 15, c = 14; density = 7. Surface area = 2044
+712: It is a sphere: r = 29; density = 10. Surface area = 10568.3
+713: It is a sphere: r = 28; density = 3. Surface area = 9852.03
+714: It is a sphere: r = 22; density = 26. Surface area = 6082.12
+715: It is a sphere: r = 19; density = 25. Surface area = 4536.46
+716: It is a sphere: r = 22; density = 13. Surface area = 6082.12
+717: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+718: It is a parallelepiped: a = 26, b = 8, c = 26; density = 3. Surface area = 2184
+719: It is a sphere: r = 16; density = 4. Surface area = 3216.99
+720: It is a parallelepiped: a = 13, b = 20, c = 23; density = 9. Surface area = 2038
+721: It is a sphere: r = 21; density = 11. Surface area = 5541.77
+722: It is a sphere: r = 16; density = 2. Surface area = 3216.99
+723: It is a sphere: r = 14; density = 15. Surface area = 2463.01
+724: It is a sphere: r = 27; density = 21. Surface area = 9160.88
+725: It is a parallelepiped: a = 30, b = 3, c = 28; density = 6. Surface area = 2028
+726: It is a sphere: r = 20; density = 6. Surface area = 5026.55
+727: It is a sphere: r = 15; density = 19. Surface area = 2827.43
+728: It is a sphere: r = 29; density = 6. Surface area = 10568.3
+729: It is a sphere: r = 26; density = 20. Surface area = 8494.87
+730: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+731: It is a sphere: r = 27; density = 14. Surface area = 9160.88
+732: It is a sphere: r = 17; density = 17. Surface area = 3631.68
+733: It is a parallelepiped: a = 19, b = 20, c = 22; density = 10. Surface area = 2476
+734: It is a parallelepiped: a = 17, b = 18, c = 26; density = 14. Surface area = 2432
+735: It is a sphere: r = 26; density = 6. Surface area = 8494.87
+736: It is a sphere: r = 25; density = 15. Surface area = 7853.98
+737: It is a parallelepiped: a = 26, b = 14, c = 23; density = 6. Surface area = 2568
+738: It is a parallelepiped: a = 29, b = 10, c = 26; density = 7. Surface area = 2608
+739: It is a parallelepiped: a = 18, b = 16, c = 28; density = 8. Surface area = 2480
+740: It is a sphere: r = 16; density = 14. Surface area = 3216.99
+741: It is a sphere: r = 25; density = 5. Surface area = 7853.98
+742: It is a parallelepiped: a = 18, b = 29, c = 16; density = 28. Surface area = 2548
+743: It is a sphere: r = 28; density = 9. Surface area = 9852.03
+744: It is a parallelepiped: a = 26, b = 30, c = 15; density = 23. Surface area = 3240
+745: It is a sphere: r = 13; density = 23. Surface area = 2123.72
+746: It is a sphere: r = 22; density = 11. Surface area = 6082.12
+747: It is a sphere: r = 16; density = 18. Surface area = 3216.99
+748: It is a parallelepiped: a = 20, b = 20, c = 25; density = 27. Surface area = 2800
+749: It is a parallelepiped: a = 26, b = 21, c = 27; density = 4. Surface area = 3630
+750: It is a parallelepiped: a = 23, b = 24, c = 25; density = 21. Surface area = 3454
+751: It is a parallelepiped: a = 17, b = 24, c = 22; density = 22. Surface area = 2620
+752: It is a sphere: r = 19; density = 28. Surface area = 4536.46
+753: It is a sphere: r = 15; density = 19. Surface area = 2827.43
+754: It is a parallelepiped: a = 19, b = 27, c = 15; density = 12. Surface area = 2406
+755: It is a sphere: r = 22; density = 17. Surface area = 6082.12
+756: It is a sphere: r = 13; density = 3. Surface area = 2123.72
+757: It is a sphere: r = 21; density = 28. Surface area = 5541.77
+758: It is a parallelepiped: a = 16, b = 30, c = 21; density = 29. Surface area = 2892
+759: It is a sphere: r = 16; density = 28. Surface area = 3216.99
+760: It is a sphere: r = 29; density = 14. Surface area = 10568.3
+761: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+762: It is a sphere: r = 26; density = 12. Surface area = 8494.87
+763: It is a sphere: r = 26; density = 11. Surface area = 8494.87
+764: It is a sphere: r = 19; density = 18. Surface area = 4536.46
+765: It is a sphere: r = 29; density = 26. Surface area = 10568.3
+766: It is a sphere: r = 29; density = 8. Surface area = 10568.3
+767: It is a sphere: r = 30; density = 16. Surface area = 11309.7
+768: It is a sphere: r = 18; density = 13. Surface area = 4071.5
+769: It is a sphere: r = 13; density = 19. Surface area = 2123.72
+770: It is a sphere: r = 18; density = 13. Surface area = 4071.5
+771: It is a sphere: r = 14; density = 4. Surface area = 2463.01
+772: It is a sphere: r = 24; density = 10. Surface area = 7238.23
+773: It is a sphere: r = 17; density = 24. Surface area = 3631.68
+774: It is a sphere: r = 19; density = 13. Surface area = 4536.46
+775: It is a sphere: r = 22; density = 26. Surface area = 6082.12
+776: It is a sphere: r = 24; density = 30. Surface area = 7238.23
+777: It is a sphere: r = 25; density = 1. Surface area = 7853.98
+778: It is a sphere: r = 19; density = 16. Surface area = 4536.46
+779: It is a parallelepiped: a = 20, b = 18, c = 24; density = 23. Surface area = 2544
+780: It is a sphere: r = 23; density = 15. Surface area = 6647.61
+781: It is a parallelepiped: a = 28, b = 9, c = 21; density = 14. Surface area = 2058
+782: It is a sphere: r = 16; density = 24. Surface area = 3216.99
+783: It is a parallelepiped: a = 20, b = 27, c = 19; density = 10. Surface area = 2866
+784: It is a sphere: r = 25; density = 22. Surface area = 7853.98
+785: It is a parallelepiped: a = 25, b = 12, c = 22; density = 2. Surface area = 2228
+786: It is a sphere: r = 30; density = 20. Surface area = 11309.7
+787: It is a sphere: r = 14; density = 1. Surface area = 2463.01
+788: It is a sphere: r = 15; density = 23. Surface area = 2827.43
+789: It is a parallelepiped: a = 28, b = 21, c = 20; density = 1. Surface area = 3136
+790: It is a sphere: r = 25; density = 29. Surface area = 7853.98
+791: It is a sphere: r = 21; density = 29. Surface area = 5541.77
+792: It is a sphere: r = 15; density = 6. Surface area = 2827.43
+793: It is a sphere: r = 28; density = 25. Surface area = 9852.03
+794: It is a sphere: r = 30; density = 25. Surface area = 11309.7
+795: It is a sphere: r = 17; density = 17. Surface area = 3631.68
+796: It is a sphere: r = 22; density = 8. Surface area = 6082.12
+797: It is a parallelepiped: a = 26, b = 8, c = 25; density = 17. Surface area = 2116
+798: It is a sphere: r = 18; density = 11. Surface area = 4071.5
+799: It is a sphere: r = 24; density = 13. Surface area = 7238.23
+800: It is a sphere: r = 27; density = 11. Surface area = 9160.88
+801: It is a sphere: r = 25; density = 19. Surface area = 7853.98
+802: It is a sphere: r = 15; density = 8. Surface area = 2827.43
+803: It is a sphere: r = 16; density = 5. Surface area = 3216.99
+804: It is a sphere: r = 27; density = 26. Surface area = 9160.88
+805: It is a sphere: r = 30; density = 19. Surface area = 11309.7
+806: It is a sphere: r = 23; density = 14. Surface area = 6647.61
+807: It is a parallelepiped: a = 12, b = 23, c = 23; density = 18. Surface area = 2162
+808: It is a parallelepiped: a = 28, b = 17, c = 14; density = 26. Surface area = 2212
+809: It is a sphere: r = 25; density = 30. Surface area = 7853.98
+810: It is a sphere: r = 30; density = 23. Surface area = 11309.7
+811: It is a sphere: r = 25; density = 23. Surface area = 7853.98
+812: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+813: It is a sphere: r = 18; density = 26. Surface area = 4071.5
+814: It is a sphere: r = 14; density = 10. Surface area = 2463.01
+815: It is a sphere: r = 24; density = 13. Surface area = 7238.23
+816: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+817: It is a sphere: r = 18; density = 19. Surface area = 4071.5
+818: It is a parallelepiped: a = 22, b = 24, c = 23; density = 12. Surface area = 3172
+819: It is a parallelepiped: a = 8, b = 30, c = 23; density = 2. Surface area = 2228
+820: It is a sphere: r = 15; density = 28. Surface area = 2827.43
+821: It is a sphere: r = 25; density = 18. Surface area = 7853.98
+822: It is a sphere: r = 20; density = 13. Surface area = 5026.55
+823: It is a sphere: r = 28; density = 14. Surface area = 9852.03
+824: It is a sphere: r = 19; density = 20. Surface area = 4536.46
+825: It is a parallelepiped: a = 24, b = 28, c = 23; density = 19. Surface area = 3736
+826: It is a sphere: r = 18; density = 3. Surface area = 4071.5
+827: It is a parallelepiped: a = 19, b = 11, c = 28; density = 27. Surface area = 2098
+828: It is a sphere: r = 29; density = 19. Surface area = 10568.3
+829: It is a parallelepiped: a = 24, b = 27, c = 22; density = 23. Surface area = 3540
+830: It is a sphere: r = 24; density = 21. Surface area = 7238.23
+831: It is a sphere: r = 27; density = 25. Surface area = 9160.88
+832: It is a sphere: r = 23; density = 1. Surface area = 6647.61
+833: It is a parallelepiped: a = 12, b = 20, c = 28; density = 2. Surface area = 2272
+834: It is a sphere: r = 14; density = 22. Surface area = 2463.01
+835: It is a sphere: r = 13; density = 17. Surface area = 2123.72
+836: It is a sphere: r = 14; density = 24. Surface area = 2463.01
+837: It is a sphere: r = 22; density = 5. Surface area = 6082.12
+838: It is a sphere: r = 28; density = 4. Surface area = 9852.03
+839: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+840: It is a sphere: r = 25; density = 27. Surface area = 7853.98
+841: It is a sphere: r = 25; density = 11. Surface area = 7853.98
+842: It is a sphere: r = 20; density = 7. Surface area = 5026.55
+843: It is a parallelepiped: a = 28, b = 17, c = 20; density = 5. Surface area = 2752
+844: It is a sphere: r = 27; density = 5. Surface area = 9160.88
+845: It is a parallelepiped: a = 15, b = 28, c = 27; density = 5. Surface area = 3162
+846: It is a parallelepiped: a = 15, b = 26, c = 29; density = 18. Surface area = 3158
+847: It is a parallelepiped: a = 25, b = 22, c = 18; density = 20. Surface area = 2792
+848: It is a sphere: r = 18; density = 27. Surface area = 4071.5
+849: It is a sphere: r = 14; density = 28. Surface area = 2463.01
+850: It is a sphere: r = 28; density = 4. Surface area = 9852.03
+851: It is a parallelepiped: a = 16, b = 21, c = 27; density = 26. Surface area = 2670
+852: It is a parallelepiped: a = 23, b = 24, c = 28; density = 17. Surface area = 3736
+853: It is a sphere: r = 20; density = 16. Surface area = 5026.55
+854: It is a sphere: r = 26; density = 27. Surface area = 8494.87
+855: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+856: It is a parallelepiped: a = 22, b = 15, c = 24; density = 4. Surface area = 2436
+857: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+858: It is a parallelepiped: a = 28, b = 27, c = 15; density = 20. Surface area = 3162
+859: It is a sphere: r = 23; density = 29. Surface area = 6647.61
+860: It is a sphere: r = 29; density = 30. Surface area = 10568.3
+861: It is a sphere: r = 29; density = 17. Surface area = 10568.3
+862: It is a sphere: r = 24; density = 22. Surface area = 7238.23
+863: It is a sphere: r = 29; density = 11. Surface area = 10568.3
+864: It is a sphere: r = 20; density = 26. Surface area = 5026.55
+865: It is a sphere: r = 20; density = 17. Surface area = 5026.55
+866: It is a parallelepiped: a = 14, b = 30, c = 16; density = 4. Surface area = 2248
+867: It is a sphere: r = 14; density = 27. Surface area = 2463.01
+868: It is a sphere: r = 13; density = 18. Surface area = 2123.72
+869: It is a sphere: r = 26; density = 1. Surface area = 8494.87
+870: It is a sphere: r = 20; density = 5. Surface area = 5026.55
+871: It is a sphere: r = 27; density = 20. Surface area = 9160.88
+872: It is a sphere: r = 29; density = 23. Surface area = 10568.3
+873: It is a parallelepiped: a = 19, b = 21, c = 21; density = 23. Surface area = 2478
+874: It is a sphere: r = 15; density = 3. Surface area = 2827.43
+875: It is a sphere: r = 21; density = 30. Surface area = 5541.77
+876: It is a sphere: r = 15; density = 29. Surface area = 2827.43
+877: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+878: It is a parallelepiped: a = 25, b = 11, c = 25; density = 14. Surface area = 2350
+879: It is a sphere: r = 17; density = 7. Surface area = 3631.68
+880: It is a sphere: r = 15; density = 16. Surface area = 2827.43
+881: It is a sphere: r = 15; density = 4. Surface area = 2827.43
+882: It is a parallelepiped: a = 24, b = 28, c = 25; density = 14. Surface area = 3944
+883: It is a sphere: r = 29; density = 20. Surface area = 10568.3
+884: It is a sphere: r = 21; density = 29. Surface area = 5541.77
+885: It is a sphere: r = 14; density = 29. Surface area = 2463.01
+886: It is a parallelepiped: a = 19, b = 20, c = 20; density = 1. Surface area = 2320
+887: It is a sphere: r = 13; density = 29. Surface area = 2123.72
+888: It is a parallelepiped: a = 19, b = 20, c = 20; density = 13. Surface area = 2320
+889: It is a sphere: r = 29; density = 10. Surface area = 10568.3
+890: It is a sphere: r = 26; density = 22. Surface area = 8494.87
+891: It is a parallelepiped: a = 25, b = 21, c = 22; density = 2. Surface area = 3074
+892: It is a sphere: r = 21; density = 24. Surface area = 5541.77
+893: It is a sphere: r = 14; density = 18. Surface area = 2463.01
+894: It is a sphere: r = 14; density = 24. Surface area = 2463.01
+895: It is a parallelepiped: a = 7, b = 25, c = 28; density = 30. Surface area = 2142
+896: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+897: It is a sphere: r = 23; density = 1. Surface area = 6647.61
+898: It is a sphere: r = 26; density = 16. Surface area = 8494.87
+899: It is a parallelepiped: a = 13, b = 24, c = 28; density = 9. Surface area = 2696
+900: It is a sphere: r = 25; density = 3. Surface area = 7853.98
+901: It is a sphere: r = 21; density = 25. Surface area = 5541.77
+902: It is a parallelepiped: a = 15, b = 30, c = 27; density = 1. Surface area = 3330
+903: It is a sphere: r = 21; density = 27. Surface area = 5541.77
+904: It is a sphere: r = 17; density = 12. Surface area = 3631.68
+905: It is a sphere: r = 16; density = 2. Surface area = 3216.99
+906: It is a sphere: r = 16; density = 21. Surface area = 3216.99
+907: It is a sphere: r = 24; density = 21. Surface area = 7238.23
+908: It is a sphere: r = 26; density = 12. Surface area = 8494.87
+909: It is a sphere: r = 28; density = 13. Surface area = 9852.03
+910: It is a parallelepiped: a = 27, b = 30, c = 7; density = 29. Surface area = 2418
+911: It is a parallelepiped: a = 16, b = 30, c = 18; density = 18. Surface area = 2616
+912: It is a sphere: r = 24; density = 11. Surface area = 7238.23
+913: It is a sphere: r = 14; density = 13. Surface area = 2463.01
+914: It is a sphere: r = 24; density = 30. Surface area = 7238.23
+915: It is a sphere: r = 28; density = 5. Surface area = 9852.03
+916: It is a sphere: r = 15; density = 21. Surface area = 2827.43
+917: It is a parallelepiped: a = 29, b = 28, c = 12; density = 21. Surface area = 2992
+918: It is a sphere: r = 29; density = 24. Surface area = 10568.3
+919: It is a sphere: r = 21; density = 25. Surface area = 5541.77
+920: It is a sphere: r = 29; density = 11. Surface area = 10568.3
+921: It is a parallelepiped: a = 19, b = 26, c = 16; density = 9. Surface area = 2428
+922: It is a sphere: r = 24; density = 19. Surface area = 7238.23
+923: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+924: It is a parallelepiped: a = 22, b = 22, c = 14; density = 25. Surface area = 2200
+925: It is a parallelepiped: a = 25, b = 26, c = 11; density = 23. Surface area = 2422
+926: It is a sphere: r = 24; density = 8. Surface area = 7238.23
+927: It is a sphere: r = 13; density = 26. Surface area = 2123.72
+928: It is a parallelepiped: a = 30, b = 3, c = 30; density = 23. Surface area = 2160
+929: It is a parallelepiped: a = 17, b = 29, c = 27; density = 3. Surface area = 3470
+930: It is a parallelepiped: a = 13, b = 24, c = 23; density = 29. Surface area = 2326
+931: It is a parallelepiped: a = 23, b = 25, c = 12; density = 17. Surface area = 2302
+932: It is a parallelepiped: a = 25, b = 15, c = 24; density = 26. Surface area = 2670
+933: It is a sphere: r = 17; density = 22. Surface area = 3631.68
+934: It is a sphere: r = 15; density = 3. Surface area = 2827.43
+935: It is a sphere: r = 14; density = 7. Surface area = 2463.01
+936: It is a sphere: r = 13; density = 20. Surface area = 2123.72
+937: It is a parallelepiped: a = 9, b = 23, c = 26; density = 3. Surface area = 2078
+938: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+939: It is a sphere: r = 27; density = 14. Surface area = 9160.88
+940: It is a parallelepiped: a = 24, b = 19, c = 23; density = 8. Surface area = 2890
+941: It is a sphere: r = 16; density = 18. Surface area = 3216.99
+942: It is a sphere: r = 17; density = 28. Surface area = 3631.68
+943: It is a sphere: r = 20; density = 8. Surface area = 5026.55
+944: It is a sphere: r = 30; density = 2. Surface area = 11309.7
+945: It is a sphere: r = 20; density = 24. Surface area = 5026.55
+946: It is a sphere: r = 16; density = 17. Surface area = 3216.99
+947: It is a parallelepiped: a = 28, b = 30, c = 23; density = 24. Surface area = 4348
+948: It is a sphere: r = 18; density = 22. Surface area = 4071.5
+949: It is a sphere: r = 20; density = 26. Surface area = 5026.55
+950: It is a sphere: r = 25; density = 7. Surface area = 7853.98
+951: It is a parallelepiped: a = 17, b = 23, c = 17; density = 7. Surface area = 2142
+952: It is a sphere: r = 13; density = 1. Surface area = 2123.72
+953: It is a parallelepiped: a = 18, b = 22, c = 22; density = 30. Surface area = 2552
+954: It is a sphere: r = 14; density = 26. Surface area = 2463.01
+955: It is a sphere: r = 24; density = 3. Surface area = 7238.23
+956: It is a parallelepiped: a = 28, b = 23, c = 9; density = 9. Surface area = 2206
+957: It is a sphere: r = 17; density = 28. Surface area = 3631.68
+958: It is a parallelepiped: a = 24, b = 27, c = 11; density = 9. Surface area = 2418
+959: It is a sphere: r = 26; density = 6. Surface area = 8494.87
+960: It is a sphere: r = 20; density = 6. Surface area = 5026.55
+961: It is a sphere: r = 21; density = 9. Surface area = 5541.77
+962: It is a sphere: r = 14; density = 15. Surface area = 2463.01
+963: It is a parallelepiped: a = 13, b = 20, c = 28; density = 12. Surface area = 2368
+964: It is a parallelepiped: a = 26, b = 27, c = 10; density = 6. Surface area = 2464
+965: It is a sphere: r = 14; density = 21. Surface area = 2463.01
+966: It is a sphere: r = 22; density = 13. Surface area = 6082.12
+967: It is a parallelepiped: a = 30, b = 11, c = 17; density = 7. Surface area = 2054
+968: It is a sphere: r = 30; density = 1. Surface area = 11309.7
+969: It is a parallelepiped: a = 28, b = 22, c = 11; density = 20. Surface area = 2332
+970: It is a sphere: r = 14; density = 13. Surface area = 2463.01
+971: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+972: It is a parallelepiped: a = 23, b = 26, c = 13; density = 18. Surface area = 2470
+973: It is a sphere: r = 21; density = 12. Surface area = 5541.77
+974: It is a sphere: r = 18; density = 12. Surface area = 4071.5
+975: It is a parallelepiped: a = 21, b = 18, c = 26; density = 22. Surface area = 2784
+976: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+977: It is a sphere: r = 22; density = 28. Surface area = 6082.12
+978: It is a sphere: r = 15; density = 18. Surface area = 2827.43
+979: It is a sphere: r = 24; density = 30. Surface area = 7238.23
+980: It is a sphere: r = 30; density = 9. Surface area = 11309.7
+981: It is a sphere: r = 13; density = 26. Surface area = 2123.72
+982: It is a sphere: r = 26; density = 28. Surface area = 8494.87
+983: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+984: It is a sphere: r = 18; density = 18. Surface area = 4071.5
+985: It is a sphere: r = 23; density = 24. Surface area = 6647.61
+986: It is a parallelepiped: a = 26, b = 22, c = 10; density = 15. Surface area = 2104
+987: It is a sphere: r = 23; density = 26. Surface area = 6647.61
+988: It is a sphere: r = 18; density = 12. Surface area = 4071.5
+989: It is a sphere: r = 24; density = 28. Surface area = 7238.23
+990: It is a sphere: r = 26; density = 27. Surface area = 8494.87
+991: It is a parallelepiped: a = 29, b = 24, c = 19; density = 6. Surface area = 3406
+992: It is a parallelepiped: a = 29, b = 20, c = 20; density = 20. Surface area = 3120
+993: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+994: It is a sphere: r = 20; density = 18. Surface area = 5026.55
+995: It is a sphere: r = 16; density = 22. Surface area = 3216.99
+996: It is a sphere: r = 25; density = 21. Surface area = 7853.98
+997: It is a parallelepiped: a = 25, b = 27, c = 21; density = 3. Surface area = 3534
+998: It is a parallelepiped: a = 10, b = 21, c = 28; density = 24. Surface area = 2156
+999: It is a sphere: r = 24; density = 11. Surface area = 7238.23
+1000: It is a sphere: r = 15; density = 9. Surface area = 2827.43
+1001: It is a sphere: r = 16; density = 10. Surface area = 3216.99
+1002: It is a sphere: r = 14; density = 9. Surface area = 2463.01
+1003: It is a sphere: r = 16; density = 13. Surface area = 3216.99
+1004: It is a sphere: r = 19; density = 20. Surface area = 4536.46
+1005: It is a sphere: r = 30; density = 3. Surface area = 11309.7
+1006: It is a sphere: r = 14; density = 6. Surface area = 2463.01
+1007: It is a sphere: r = 19; density = 4. Surface area = 4536.46
+1008: It is a parallelepiped: a = 27, b = 9, c = 22; density = 29. Surface area = 2070
+1009: It is a parallelepiped: a = 29, b = 20, c = 17; density = 1. Surface area = 2826
+1010: It is a sphere: r = 28; density = 17. Surface area = 9852.03
+1011: It is a sphere: r = 20; density = 22. Surface area = 5026.55
+1012: It is a sphere: r = 22; density = 30. Surface area = 6082.12
+1013: It is a sphere: r = 29; density = 25. Surface area = 10568.3
+1014: It is a sphere: r = 23; density = 5. Surface area = 6647.61
+1015: It is a sphere: r = 16; density = 15. Surface area = 3216.99
+1016: It is a sphere: r = 14; density = 8. Surface area = 2463.01
+1017: It is a parallelepiped: a = 29, b = 15, c = 25; density = 5. Surface area = 3070
+1018: It is a sphere: r = 14; density = 6. Surface area = 2463.01
+1019: It is a sphere: r = 23; density = 6. Surface area = 6647.61
+1020: It is a parallelepiped: a = 15, b = 29, c = 21; density = 19. Surface area = 2718
+1021: It is a sphere: r = 21; density = 7. Surface area = 5541.77
+1022: It is a parallelepiped: a = 12, b = 25, c = 27; density = 4. Surface area = 2598
+1023: It is a sphere: r = 29; density = 12. Surface area = 10568.3
+1024: It is a parallelepiped: a = 25, b = 21, c = 24; density = 13. Surface area = 3258
+1025: It is a sphere: r = 30; density = 20. Surface area = 11309.7
+1026: It is a sphere: r = 30; density = 24. Surface area = 11309.7
+1027: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+1028: It is a sphere: r = 21; density = 13. Surface area = 5541.77
+1029: It is a sphere: r = 13; density = 19. Surface area = 2123.72
+1030: It is a parallelepiped: a = 12, b = 24, c = 22; density = 24. Surface area = 2160
+1031: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+1032: It is a sphere: r = 29; density = 20. Surface area = 10568.3
+1033: It is a sphere: r = 30; density = 23. Surface area = 11309.7
+1034: It is a parallelepiped: a = 11, b = 29, c = 19; density = 30. Surface area = 2158
+1035: It is a sphere: r = 15; density = 15. Surface area = 2827.43
+1036: It is a sphere: r = 15; density = 19. Surface area = 2827.43
+1037: It is a sphere: r = 14; density = 23. Surface area = 2463.01
+1038: It is a sphere: r = 15; density = 7. Surface area = 2827.43
+1039: It is a sphere: r = 25; density = 22. Surface area = 7853.98
+1040: It is a sphere: r = 26; density = 11. Surface area = 8494.87
+1041: It is a parallelepiped: a = 27, b = 21, c = 12; density = 8. Surface area = 2286
+1042: It is a sphere: r = 16; density = 25. Surface area = 3216.99
+1043: It is a parallelepiped: a = 29, b = 15, c = 26; density = 11. Surface area = 3158
+1044: It is a sphere: r = 25; density = 6. Surface area = 7853.98
+1045: It is a sphere: r = 17; density = 15. Surface area = 3631.68
+1046: It is a sphere: r = 18; density = 1. Surface area = 4071.5
+1047: It is a sphere: r = 25; density = 11. Surface area = 7853.98
+1048: It is a sphere: r = 19; density = 6. Surface area = 4536.46
+1049: It is a sphere: r = 30; density = 5. Surface area = 11309.7
+1050: It is a sphere: r = 29; density = 5. Surface area = 10568.3
+1051: It is a parallelepiped: a = 28, b = 27, c = 25; density = 24. Surface area = 4262
+1052: It is a parallelepiped: a = 22, b = 30, c = 26; density = 15. Surface area = 4024
+1053: It is a parallelepiped: a = 23, b = 30, c = 16; density = 4. Surface area = 3076
+1054: It is a parallelepiped: a = 17, b = 23, c = 20; density = 14. Surface area = 2382
+1055: It is a parallelepiped: a = 23, b = 13, c = 25; density = 3. Surface area = 2398
+1056: It is a sphere: r = 23; density = 7. Surface area = 6647.61
+1057: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+1058: It is a sphere: r = 23; density = 2. Surface area = 6647.61
+1059: It is a sphere: r = 15; density = 24. Surface area = 2827.43
+1060: It is a sphere: r = 21; density = 29. Surface area = 5541.77
+1061: It is a sphere: r = 25; density = 9. Surface area = 7853.98
+1062: It is a sphere: r = 25; density = 13. Surface area = 7853.98
+1063: It is a sphere: r = 19; density = 9. Surface area = 4536.46
+1064: It is a sphere: r = 14; density = 13. Surface area = 2463.01
+1065: It is a sphere: r = 23; density = 12. Surface area = 6647.61
+1066: It is a parallelepiped: a = 29, b = 19, c = 13; density = 27. Surface area = 2350
+1067: It is a sphere: r = 13; density = 18. Surface area = 2123.72
+1068: It is a parallelepiped: a = 26, b = 15, c = 22; density = 26. Surface area = 2584
+1069: It is a parallelepiped: a = 30, b = 27, c = 23; density = 1. Surface area = 4242
+1070: It is a sphere: r = 27; density = 21. Surface area = 9160.88
+1071: It is a sphere: r = 20; density = 20. Surface area = 5026.55
+1072: It is a parallelepiped: a = 18, b = 30, c = 22; density = 2. Surface area = 3192
+1073: It is a sphere: r = 17; density = 16. Surface area = 3631.68
+1074: It is a parallelepiped: a = 14, b = 25, c = 17; density = 22. Surface area = 2026
+1075: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+1076: It is a parallelepiped: a = 14, b = 30, c = 26; density = 26. Surface area = 3128
+1077: It is a sphere: r = 30; density = 22. Surface area = 11309.7
+1078: It is a sphere: r = 30; density = 1. Surface area = 11309.7
+1079: It is a sphere: r = 21; density = 23. Surface area = 5541.77
+1080: It is a sphere: r = 29; density = 15. Surface area = 10568.3
+1081: It is a sphere: r = 28; density = 16. Surface area = 9852.03
+1082: It is a sphere: r = 27; density = 28. Surface area = 9160.88
+1083: It is a sphere: r = 16; density = 22. Surface area = 3216.99
+1084: It is a parallelepiped: a = 24, b = 11, c = 23; density = 14. Surface area = 2138
+1085: It is a sphere: r = 27; density = 27. Surface area = 9160.88
+1086: It is a parallelepiped: a = 30, b = 16, c = 16; density = 22. Surface area = 2432
+1087: It is a sphere: r = 17; density = 24. Surface area = 3631.68
+1088: It is a sphere: r = 13; density = 17. Surface area = 2123.72
+1089: It is a parallelepiped: a = 29, b = 21, c = 13; density = 8. Surface area = 2518
+1090: It is a sphere: r = 19; density = 29. Surface area = 4536.46
+1091: It is a sphere: r = 15; density = 13. Surface area = 2827.43
+1092: It is a parallelepiped: a = 19, b = 13, c = 28; density = 7. Surface area = 2286
+1093: It is a parallelepiped: a = 25, b = 18, c = 30; density = 22. Surface area = 3480
+1094: It is a sphere: r = 15; density = 28. Surface area = 2827.43
+1095: It is a parallelepiped: a = 14, b = 28, c = 23; density = 12. Surface area = 2716
+1096: It is a sphere: r = 28; density = 2. Surface area = 9852.03
+1097: It is a sphere: r = 22; density = 16. Surface area = 6082.12
+1098: It is a sphere: r = 22; density = 5. Surface area = 6082.12
+1099: It is a sphere: r = 30; density = 18. Surface area = 11309.7
+1100: It is a parallelepiped: a = 28, b = 30, c = 28; density = 9. Surface area = 4928
+1101: It is a sphere: r = 28; density = 13. Surface area = 9852.03
+1102: It is a sphere: r = 19; density = 17. Surface area = 4536.46
+1103: It is a parallelepiped: a = 25, b = 8, c = 28; density = 1. Surface area = 2248
+1104: It is a sphere: r = 26; density = 30. Surface area = 8494.87
+1105: It is a parallelepiped: a = 21, b = 23, c = 22; density = 16. Surface area = 2902
+1106: It is a sphere: r = 18; density = 10. Surface area = 4071.5
+1107: It is a parallelepiped: a = 23, b = 14, c = 28; density = 1. Surface area = 2716
+1108: It is a sphere: r = 19; density = 26. Surface area = 4536.46
+1109: It is a sphere: r = 26; density = 16. Surface area = 8494.87
+1110: It is a sphere: r = 22; density = 11. Surface area = 6082.12
+1111: It is a sphere: r = 16; density = 8. Surface area = 3216.99
+1112: It is a sphere: r = 13; density = 17. Surface area = 2123.72
+1113: It is a sphere: r = 20; density = 18. Surface area = 5026.55
+1114: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+1115: It is a parallelepiped: a = 20, b = 20, c = 25; density = 29. Surface area = 2800
+1116: It is a parallelepiped: a = 27, b = 26, c = 8; density = 21. Surface area = 2252
+1117: It is a parallelepiped: a = 4, b = 29, c = 30; density = 30. Surface area = 2212
+1118: It is a parallelepiped: a = 15, b = 28, c = 28; density = 19. Surface area = 3248
+1119: It is a sphere: r = 29; density = 27. Surface area = 10568.3
+1120: It is a sphere: r = 17; density = 8. Surface area = 3631.68
+1121: It is a parallelepiped: a = 23, b = 28, c = 29; density = 25. Surface area = 4246
+1122: It is a sphere: r = 15; density = 30. Surface area = 2827.43
+1123: It is a parallelepiped: a = 13, b = 29, c = 27; density = 19. Surface area = 3022
+1124: It is a sphere: r = 27; density = 8. Surface area = 9160.88
+1125: It is a sphere: r = 21; density = 29. Surface area = 5541.77
+1126: It is a parallelepiped: a = 17, b = 17, c = 22; density = 25. Surface area = 2074
+1127: It is a sphere: r = 17; density = 26. Surface area = 3631.68
+1128: It is a sphere: r = 28; density = 7. Surface area = 9852.03
+1129: It is a parallelepiped: a = 23, b = 30, c = 14; density = 6. Surface area = 2864
+1130: It is a sphere: r = 15; density = 3. Surface area = 2827.43
+1131: It is a parallelepiped: a = 23, b = 17, c = 26; density = 24. Surface area = 2862
+1132: It is a sphere: r = 27; density = 18. Surface area = 9160.88
+1133: It is a parallelepiped: a = 29, b = 29, c = 13; density = 29. Surface area = 3190
+1134: It is a parallelepiped: a = 24, b = 27, c = 15; density = 10. Surface area = 2826
+1135: It is a parallelepiped: a = 29, b = 27, c = 16; density = 8. Surface area = 3358
+1136: It is a sphere: r = 24; density = 23. Surface area = 7238.23
+1137: It is a sphere: r = 26; density = 2. Surface area = 8494.87
+1138: It is a parallelepiped: a = 20, b = 29, c = 10; density = 25. Surface area = 2140
+1139: It is a sphere: r = 30; density = 27. Surface area = 11309.7
+1140: It is a sphere: r = 30; density = 14. Surface area = 11309.7
+1141: It is a parallelepiped: a = 30, b = 29, c = 3; density = 3. Surface area = 2094
+1142: It is a sphere: r = 28; density = 5. Surface area = 9852.03
+1143: It is a sphere: r = 19; density = 1. Surface area = 4536.46
+1144: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+1145: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+1146: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+1147: It is a parallelepiped: a = 28, b = 13, c = 21; density = 13. Surface area = 2450
+1148: It is a parallelepiped: a = 26, b = 25, c = 14; density = 1. Surface area = 2728
+1149: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+1150: It is a sphere: r = 23; density = 10. Surface area = 6647.61
+1151: It is a parallelepiped: a = 9, b = 30, c = 27; density = 1. Surface area = 2646
+1152: It is a sphere: r = 25; density = 16. Surface area = 7853.98
+1153: It is a sphere: r = 18; density = 6. Surface area = 4071.5
+1154: It is a parallelepiped: a = 30, b = 30, c = 19; density = 3. Surface area = 4080
+1155: It is a sphere: r = 23; density = 2. Surface area = 6647.61
+1156: It is a parallelepiped: a = 10, b = 25, c = 25; density = 28. Surface area = 2250
+1157: It is a sphere: r = 26; density = 22. Surface area = 8494.87
+1158: It is a sphere: r = 25; density = 12. Surface area = 7853.98
+1159: It is a sphere: r = 24; density = 3. Surface area = 7238.23
+1160: It is a parallelepiped: a = 26, b = 24, c = 23; density = 19. Surface area = 3548
+1161: It is a parallelepiped: a = 22, b = 25, c = 13; density = 18. Surface area = 2322
+1162: It is a sphere: r = 17; density = 18. Surface area = 3631.68
+1163: It is a sphere: r = 23; density = 18. Surface area = 6647.61
+1164: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+1165: It is a parallelepiped: a = 25, b = 27, c = 11; density = 24. Surface area = 2494
+1166: It is a sphere: r = 21; density = 13. Surface area = 5541.77
+1167: It is a sphere: r = 15; density = 17. Surface area = 2827.43
+1168: It is a sphere: r = 26; density = 24. Surface area = 8494.87
+1169: It is a sphere: r = 20; density = 28. Surface area = 5026.55
+1170: It is a sphere: r = 25; density = 25. Surface area = 7853.98
+1171: It is a sphere: r = 13; density = 5. Surface area = 2123.72
+1172: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+1173: It is a parallelepiped: a = 21, b = 29, c = 27; density = 15. Surface area = 3918
+1174: It is a sphere: r = 19; density = 3. Surface area = 4536.46
+1175: It is a sphere: r = 27; density = 2. Surface area = 9160.88
+1176: It is a parallelepiped: a = 14, b = 29, c = 29; density = 25. Surface area = 3306
+1177: It is a sphere: r = 16; density = 8. Surface area = 3216.99
+1178: It is a sphere: r = 26; density = 28. Surface area = 8494.87
+1179: It is a parallelepiped: a = 21, b = 24, c = 18; density = 24. Surface area = 2628
+1180: It is a sphere: r = 24; density = 7. Surface area = 7238.23
+1181: It is a sphere: r = 25; density = 12. Surface area = 7853.98
+1182: It is a sphere: r = 24; density = 20. Surface area = 7238.23
+1183: It is a sphere: r = 14; density = 18. Surface area = 2463.01
+1184: It is a parallelepiped: a = 29, b = 5, c = 30; density = 3. Surface area = 2330
+1185: It is a sphere: r = 27; density = 19. Surface area = 9160.88
+1186: It is a sphere: r = 30; density = 15. Surface area = 11309.7
+1187: It is a sphere: r = 30; density = 13. Surface area = 11309.7
+1188: It is a sphere: r = 14; density = 19. Surface area = 2463.01
+1189: It is a parallelepiped: a = 8, b = 29, c = 22; density = 19. Surface area = 2092
+1190: It is a parallelepiped: a = 27, b = 24, c = 21; density = 29. Surface area = 3438
+1191: It is a sphere: r = 14; density = 23. Surface area = 2463.01
+1192: It is a sphere: r = 19; density = 18. Surface area = 4536.46
+1193: It is a sphere: r = 17; density = 26. Surface area = 3631.68
+1194: It is a sphere: r = 30; density = 24. Surface area = 11309.7
+1195: It is a sphere: r = 28; density = 7. Surface area = 9852.03
+1196: It is a sphere: r = 24; density = 11. Surface area = 7238.23
+1197: It is a parallelepiped: a = 23, b = 27, c = 20; density = 18. Surface area = 3242
+1198: It is a sphere: r = 15; density = 21. Surface area = 2827.43
+1199: It is a parallelepiped: a = 24, b = 29, c = 19; density = 18. Surface area = 3406
+1200: It is a parallelepiped: a = 22, b = 24, c = 21; density = 27. Surface area = 2988
+1201: It is a sphere: r = 15; density = 25. Surface area = 2827.43
+1202: It is a sphere: r = 18; density = 18. Surface area = 4071.5
+1203: It is a parallelepiped: a = 24, b = 25, c = 9; density = 17. Surface area = 2082
+1204: It is a sphere: r = 24; density = 16. Surface area = 7238.23
+1205: It is a sphere: r = 18; density = 25. Surface area = 4071.5
+1206: It is a sphere: r = 19; density = 28. Surface area = 4536.46
+1207: It is a parallelepiped: a = 15, b = 22, c = 30; density = 5. Surface area = 2880
+1208: It is a sphere: r = 19; density = 23. Surface area = 4536.46
+1209: It is a sphere: r = 24; density = 25. Surface area = 7238.23
+1210: It is a sphere: r = 18; density = 25. Surface area = 4071.5
+1211: It is a sphere: r = 16; density = 20. Surface area = 3216.99
+1212: It is a parallelepiped: a = 21, b = 29, c = 20; density = 17. Surface area = 3218
+1213: It is a parallelepiped: a = 9, b = 28, c = 22; density = 4. Surface area = 2132
+1214: It is a parallelepiped: a = 30, b = 30, c = 26; density = 3. Surface area = 4920
+1215: It is a sphere: r = 22; density = 25. Surface area = 6082.12
+1216: It is a sphere: r = 20; density = 25. Surface area = 5026.55
+1217: It is a sphere: r = 19; density = 7. Surface area = 4536.46
+1218: It is a sphere: r = 14; density = 6. Surface area = 2463.01
+1219: It is a parallelepiped: a = 22, b = 26, c = 28; density = 3. Surface area = 3832
+1220: It is a sphere: r = 30; density = 28. Surface area = 11309.7
+1221: It is a sphere: r = 27; density = 9. Surface area = 9160.88
+1222: It is a sphere: r = 20; density = 7. Surface area = 5026.55
+1223: It is a sphere: r = 25; density = 28. Surface area = 7853.98
+1224: It is a sphere: r = 24; density = 10. Surface area = 7238.23
+1225: It is a parallelepiped: a = 8, b = 30, c = 22; density = 27. Surface area = 2152
+1226: It is a sphere: r = 17; density = 4. Surface area = 3631.68
+1227: It is a sphere: r = 29; density = 14. Surface area = 10568.3
+1228: It is a sphere: r = 27; density = 22. Surface area = 9160.88
+1229: It is a parallelepiped: a = 10, b = 18, c = 30; density = 12. Surface area = 2040
+1230: It is a sphere: r = 25; density = 9. Surface area = 7853.98
+1231: It is a sphere: r = 17; density = 4. Surface area = 3631.68
+1232: It is a parallelepiped: a = 9, b = 22, c = 28; density = 24. Surface area = 2132
+1233: It is a parallelepiped: a = 24, b = 19, c = 15; density = 4. Surface area = 2202
+1234: It is a sphere: r = 23; density = 13. Surface area = 6647.61
+1235: It is a sphere: r = 14; density = 15. Surface area = 2463.01
+1236: It is a sphere: r = 13; density = 15. Surface area = 2123.72
+1237: It is a parallelepiped: a = 30, b = 8, c = 27; density = 26. Surface area = 2532
+1238: It is a sphere: r = 28; density = 20. Surface area = 9852.03
+1239: It is a parallelepiped: a = 28, b = 17, c = 20; density = 27. Surface area = 2752
+1240: It is a parallelepiped: a = 30, b = 29, c = 8; density = 13. Surface area = 2684
+1241: It is a parallelepiped: a = 18, b = 15, c = 27; density = 3. Surface area = 2322
+1242: It is a sphere: r = 25; density = 19. Surface area = 7853.98
+1243: It is a sphere: r = 15; density = 27. Surface area = 2827.43
+1244: It is a parallelepiped: a = 26, b = 30, c = 28; density = 20. Surface area = 4696
+1245: It is a parallelepiped: a = 12, b = 23, c = 30; density = 1. Surface area = 2652
+1246: It is a sphere: r = 17; density = 11. Surface area = 3631.68
+1247: It is a sphere: r = 30; density = 20. Surface area = 11309.7
+1248: It is a sphere: r = 27; density = 20. Surface area = 9160.88
+1249: It is a parallelepiped: a = 20, b = 21, c = 16; density = 22. Surface area = 2152
+1250: It is a sphere: r = 22; density = 29. Surface area = 6082.12
+1251: It is a parallelepiped: a = 25, b = 29, c = 15; density = 23. Surface area = 3070
+1252: It is a sphere: r = 14; density = 14. Surface area = 2463.01
+1253: It is a sphere: r = 20; density = 18. Surface area = 5026.55
+1254: It is a sphere: r = 13; density = 29. Surface area = 2123.72
+1255: It is a sphere: r = 28; density = 21. Surface area = 9852.03
+1256: It is a sphere: r = 19; density = 9. Surface area = 4536.46
+1257: It is a parallelepiped: a = 25, b = 13, c = 24; density = 4. Surface area = 2474
+1258: It is a sphere: r = 17; density = 9. Surface area = 3631.68
+1259: It is a sphere: r = 29; density = 5. Surface area = 10568.3
+1260: It is a parallelepiped: a = 18, b = 18, c = 28; density = 10. Surface area = 2664
+1261: It is a sphere: r = 28; density = 16. Surface area = 9852.03
+1262: It is a parallelepiped: a = 8, b = 29, c = 22; density = 13. Surface area = 2092
+1263: It is a sphere: r = 27; density = 21. Surface area = 9160.88
+1264: It is a sphere: r = 30; density = 20. Surface area = 11309.7
+1265: It is a sphere: r = 26; density = 14. Surface area = 8494.87
+1266: It is a parallelepiped: a = 18, b = 18, c = 26; density = 28. Surface area = 2520
+1267: It is a sphere: r = 20; density = 21. Surface area = 5026.55
+1268: It is a sphere: r = 27; density = 4. Surface area = 9160.88
+1269: It is a parallelepiped: a = 30, b = 25, c = 17; density = 8. Surface area = 3370
+1270: It is a sphere: r = 25; density = 25. Surface area = 7853.98
+1271: It is a sphere: r = 27; density = 15. Surface area = 9160.88
+1272: It is a sphere: r = 19; density = 22. Surface area = 4536.46
+1273: It is a sphere: r = 18; density = 18. Surface area = 4071.5
+1274: It is a sphere: r = 22; density = 26. Surface area = 6082.12
+1275: It is a sphere: r = 28; density = 25. Surface area = 9852.03
+1276: It is a sphere: r = 20; density = 13. Surface area = 5026.55
+1277: It is a parallelepiped: a = 19, b = 11, c = 27; density = 10. Surface area = 2038
+1278: It is a sphere: r = 28; density = 2. Surface area = 9852.03
+1279: It is a parallelepiped: a = 21, b = 15, c = 24; density = 29. Surface area = 2358
+1280: It is a parallelepiped: a = 22, b = 12, c = 30; density = 1. Surface area = 2568
+1281: It is a sphere: r = 20; density = 12. Surface area = 5026.55
+1282: It is a parallelepiped: a = 20, b = 9, c = 29; density = 24. Surface area = 2042
+1283: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+1284: It is a sphere: r = 27; density = 28. Surface area = 9160.88
+1285: It is a parallelepiped: a = 20, b = 16, c = 27; density = 1. Surface area = 2584
+1286: It is a sphere: r = 26; density = 28. Surface area = 8494.87
+1287: It is a parallelepiped: a = 22, b = 25, c = 12; density = 16. Surface area = 2228
+1288: It is a parallelepiped: a = 12, b = 27, c = 30; density = 19. Surface area = 2988
+1289: It is a sphere: r = 21; density = 28. Surface area = 5541.77
+1290: It is a sphere: r = 19; density = 23. Surface area = 4536.46
+1291: It is a sphere: r = 14; density = 3. Surface area = 2463.01
+1292: It is a sphere: r = 18; density = 26. Surface area = 4071.5
+1293: It is a sphere: r = 20; density = 14. Surface area = 5026.55
+1294: It is a sphere: r = 22; density = 1. Surface area = 6082.12
+1295: It is a sphere: r = 24; density = 9. Surface area = 7238.23
+1296: It is a sphere: r = 25; density = 19. Surface area = 7853.98
+1297: It is a sphere: r = 14; density = 14. Surface area = 2463.01
+1298: It is a parallelepiped: a = 16, b = 23, c = 29; density = 27. Surface area = 2998
+1299: It is a sphere: r = 16; density = 14. Surface area = 3216.99
+1300: It is a parallelepiped: a = 22, b = 27, c = 19; density = 8. Surface area = 3050
+1301: It is a sphere: r = 13; density = 19. Surface area = 2123.72
+1302: It is a sphere: r = 18; density = 18. Surface area = 4071.5
+1303: It is a sphere: r = 16; density = 18. Surface area = 3216.99
+1304: It is a sphere: r = 25; density = 1. Surface area = 7853.98
+1305: It is a parallelepiped: a = 29, b = 19, c = 13; density = 1. Surface area = 2350
+1306: It is a parallelepiped: a = 17, b = 30, c = 17; density = 27. Surface area = 2618
+1307: It is a sphere: r = 21; density = 26. Surface area = 5541.77
+1308: It is a parallelepiped: a = 22, b = 24, c = 18; density = 27. Surface area = 2712
+1309: It is a parallelepiped: a = 20, b = 13, c = 27; density = 29. Surface area = 2302
+1310: It is a sphere: r = 29; density = 28. Surface area = 10568.3
+1311: It is a sphere: r = 27; density = 8. Surface area = 9160.88
+1312: It is a sphere: r = 17; density = 14. Surface area = 3631.68
+1313: It is a sphere: r = 23; density = 26. Surface area = 6647.61
+1314: It is a sphere: r = 19; density = 3. Surface area = 4536.46
+1315: It is a sphere: r = 26; density = 26. Surface area = 8494.87
+1316: It is a sphere: r = 19; density = 9. Surface area = 4536.46
+1317: It is a sphere: r = 29; density = 6. Surface area = 10568.3
+1318: It is a parallelepiped: a = 8, b = 28, c = 26; density = 24. Surface area = 2320
+1319: It is a sphere: r = 26; density = 8. Surface area = 8494.87
+1320: It is a sphere: r = 20; density = 24. Surface area = 5026.55
+1321: It is a parallelepiped: a = 22, b = 23, c = 18; density = 15. Surface area = 2632
+1322: It is a sphere: r = 29; density = 4. Surface area = 10568.3
+1323: It is a sphere: r = 16; density = 16. Surface area = 3216.99
+1324: It is a sphere: r = 20; density = 10. Surface area = 5026.55
+1325: It is a sphere: r = 13; density = 16. Surface area = 2123.72
+1326: It is a sphere: r = 22; density = 27. Surface area = 6082.12
+1327: It is a sphere: r = 19; density = 13. Surface area = 4536.46
+1328: It is a sphere: r = 28; density = 25. Surface area = 9852.03
+1329: It is a parallelepiped: a = 30, b = 21, c = 20; density = 23. Surface area = 3300
+1330: It is a sphere: r = 29; density = 9. Surface area = 10568.3
+1331: It is a parallelepiped: a = 14, b = 25, c = 23; density = 4. Surface area = 2494
+1332: It is a parallelepiped: a = 19, b = 14, c = 24; density = 17. Surface area = 2116
+1333: It is a parallelepiped: a = 18, b = 25, c = 22; density = 8. Surface area = 2792
+1334: It is a sphere: r = 23; density = 11. Surface area = 6647.61
+1335: It is a sphere: r = 21; density = 1. Surface area = 5541.77
+1336: It is a parallelepiped: a = 15, b = 21, c = 28; density = 25. Surface area = 2646
+1337: It is a parallelepiped: a = 23, b = 26, c = 28; density = 15. Surface area = 3940
+1338: It is a sphere: r = 14; density = 9. Surface area = 2463.01
+1339: It is a sphere: r = 25; density = 4. Surface area = 7853.98
+1340: It is a sphere: r = 20; density = 23. Surface area = 5026.55
+1341: It is a parallelepiped: a = 23, b = 22, c = 22; density = 24. Surface area = 2992
+1342: It is a sphere: r = 20; density = 4. Surface area = 5026.55
+1343: It is a sphere: r = 28; density = 1. Surface area = 9852.03
+1344: It is a sphere: r = 18; density = 5. Surface area = 4071.5
+1345: It is a sphere: r = 22; density = 27. Surface area = 6082.12
+1346: It is a sphere: r = 29; density = 11. Surface area = 10568.3
+1347: It is a sphere: r = 23; density = 6. Surface area = 6647.61
+1348: It is a parallelepiped: a = 18, b = 29, c = 27; density = 15. Surface area = 3582
+1349: It is a sphere: r = 21; density = 15. Surface area = 5541.77
+1350: It is a sphere: r = 30; density = 13. Surface area = 11309.7
+1351: It is a sphere: r = 18; density = 16. Surface area = 4071.5
+1352: It is a sphere: r = 27; density = 12. Surface area = 9160.88
+1353: It is a sphere: r = 26; density = 12. Surface area = 8494.87
+1354: It is a sphere: r = 13; density = 27. Surface area = 2123.72
+1355: It is a sphere: r = 18; density = 26. Surface area = 4071.5
+1356: It is a sphere: r = 16; density = 3. Surface area = 3216.99
+1357: It is a sphere: r = 15; density = 13. Surface area = 2827.43
+1358: It is a sphere: r = 28; density = 12. Surface area = 9852.03
+1359: It is a parallelepiped: a = 20, b = 30, c = 23; density = 2. Surface area = 3500
+1360: It is a sphere: r = 24; density = 15. Surface area = 7238.23
+1361: It is a parallelepiped: a = 15, b = 26, c = 23; density = 20. Surface area = 2666
+1362: It is a parallelepiped: a = 22, b = 25, c = 18; density = 20. Surface area = 2792
+1363: It is a sphere: r = 19; density = 18. Surface area = 4536.46
+1364: It is a sphere: r = 28; density = 14. Surface area = 9852.03
+1365: It is a parallelepiped: a = 11, b = 30, c = 23; density = 30. Surface area = 2546
+1366: It is a sphere: r = 20; density = 22. Surface area = 5026.55
+1367: It is a sphere: r = 26; density = 18. Surface area = 8494.87
+1368: It is a parallelepiped: a = 30, b = 21, c = 30; density = 28. Surface area = 4320
+1369: It is a parallelepiped: a = 28, b = 29, c = 28; density = 12. Surface area = 4816
+1370: It is a parallelepiped: a = 25, b = 20, c = 29; density = 12. Surface area = 3610
+1371: It is a parallelepiped: a = 20, b = 25, c = 27; density = 23. Surface area = 3430
+1372: It is a parallelepiped: a = 20, b = 27, c = 23; density = 28. Surface area = 3242
+1373: It is a sphere: r = 25; density = 25. Surface area = 7853.98
+1374: It is a sphere: r = 28; density = 2. Surface area = 9852.03
+1375: It is a parallelepiped: a = 26, b = 28, c = 29; density = 8. Surface area = 4588
+1376: It is a sphere: r = 26; density = 16. Surface area = 8494.87
+1377: It is a parallelepiped: a = 19, b = 22, c = 26; density = 5. Surface area = 2968
+1378: It is a parallelepiped: a = 25, b = 13, c = 20; density = 23. Surface area = 2170
+1379: It is a parallelepiped: a = 25, b = 11, c = 26; density = 27. Surface area = 2422
+1380: It is a sphere: r = 30; density = 26. Surface area = 11309.7
+1381: It is a sphere: r = 19; density = 16. Surface area = 4536.46
+1382: It is a sphere: r = 25; density = 13. Surface area = 7853.98
+1383: It is a sphere: r = 13; density = 24. Surface area = 2123.72
+1384: It is a sphere: r = 25; density = 3. Surface area = 7853.98
+1385: It is a parallelepiped: a = 22, b = 30, c = 26; density = 2. Surface area = 4024
+1386: It is a parallelepiped: a = 20, b = 19, c = 18; density = 7. Surface area = 2164
+1387: It is a sphere: r = 27; density = 16. Surface area = 9160.88
+1388: It is a parallelepiped: a = 16, b = 20, c = 27; density = 10. Surface area = 2584
+1389: It is a parallelepiped: a = 23, b = 23, c = 11; density = 7. Surface area = 2070
+1390: It is a sphere: r = 23; density = 15. Surface area = 6647.61
+1391: It is a parallelepiped: a = 17, b = 19, c = 22; density = 18. Surface area = 2230
+1392: It is a sphere: r = 29; density = 20. Surface area = 10568.3
+1393: It is a sphere: r = 14; density = 30. Surface area = 2463.01
+1394: It is a parallelepiped: a = 20, b = 29, c = 24; density = 12. Surface area = 3512
+1395: It is a sphere: r = 27; density = 13. Surface area = 9160.88
+1396: It is a parallelepiped: a = 17, b = 27, c = 17; density = 30. Surface area = 2414
+1397: It is a sphere: r = 27; density = 28. Surface area = 9160.88
+1398: It is a sphere: r = 20; density = 3. Surface area = 5026.55
+1399: It is a parallelepiped: a = 24, b = 16, c = 21; density = 1. Surface area = 2448
+1400: It is a sphere: r = 13; density = 11. Surface area = 2123.72
+1401: It is a parallelepiped: a = 29, b = 29, c = 14; density = 1. Surface area = 3306
+1402: It is a sphere: r = 20; density = 2. Surface area = 5026.55
+1403: It is a sphere: r = 29; density = 22. Surface area = 10568.3
+1404: It is a parallelepiped: a = 17, b = 25, c = 20; density = 3. Surface area = 2530
+1405: It is a sphere: r = 16; density = 21. Surface area = 3216.99
+1406: It is a sphere: r = 28; density = 1. Surface area = 9852.03
+1407: It is a sphere: r = 18; density = 12. Surface area = 4071.5
+1408: It is a sphere: r = 14; density = 19. Surface area = 2463.01
+1409: It is a sphere: r = 21; density = 5. Surface area = 5541.77
+1410: It is a parallelepiped: a = 26, b = 29, c = 11; density = 29. Surface area = 2718
+Time: 0.012168 s.

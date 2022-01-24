@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dshepett/Рабочий стол/avs/hw5/captainSilver.h
+thread
+-
+map.h
+/home/dshepett/Рабочий стол/avs/hw5/map.h
+
+/home/dshepett/Рабочий стол/avs/hw5/main.cpp
+iostream
+-
+ctime
+-
+captainSilver.h
+/home/dshepett/Рабочий стол/avs/hw5/captainSilver.h
+cstring
+-
+
+/home/dshepett/Рабочий стол/avs/hw5/map.h
+fstream
+-
+

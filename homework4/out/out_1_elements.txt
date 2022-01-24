@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+1: It is a Parallelepiped: a = 23, b = 17, c = 21, density = 11. Surface area = 2462
+2: It is a Sphere: x = 18, density = 6. Surface Area = 4071.5
+3: It is a Parallelepiped: a = 5, b = 17, c = 7, density = 18. Surface area = 478
+4: It is a Sphere: x = 14, density = 29. Surface Area = 2463.01
+5: It is a Sphere: x = 16, density = 7. Surface Area = 3216.99
